@@ -1,0 +1,9 @@
+name: "Open Scholarship Strategy"  
+author: "Jon Tennant"  
+output_dir: "docs"  
+output:  
+  html_document:  
+    self_contained: no  
+    theme: flatly  
+navbar:  
+  title: "Foundations for Open Scholarship Strategy Development"
