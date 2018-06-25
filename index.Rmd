@@ -36,11 +36,11 @@ See the [README](README.md) file for more detail.
 
 "*Strategy generally involves setting goals, determining actions to achieve the **goals**, and mobilizing resources to execute the actions. A strategy describes how the ends (goals) will be achieved by the means (resources).*" (NOTE:  https://en.wikipedia.org/wiki/Strategy)
 
-In order to overcome the challenges and achieve our priorities, we need to build on our [strengths](#heading=h.pbiuybc6ey2). We have identified three main temporal components (short-, mid-, and long-term) of our overall strategy to be used as direct suggestions for action on the individual, group, institutional or national (or higher) level. 
+In order to overcome the challenges and achieve our priorities, we need to build on our strengths. We have identified three main temporal components (short-, mid-, and long-term) of our overall strategy to be used as direct suggestions for action on the individual, group, institutional or national (or higher) level. 
 
 We note that, due to the diversity of actors and stakeholders and their views and practices, this strategy is not a consensus document. How the different aspects are prioritised is a matter of debate based on varying perspectives. Its effectiveness will be realised when individuals and communities can implement different parts of it as cultural norms develop and shift towards a more ‘open state’. Indeed, many view the progress of Open Scholarship in the last 2-3 decades as painfully insubstantive, a factor which might reflect its general lack of strategic thinking and implementation.
 
-We also note that this strategy can only be based on information which we as a collective have, and it remains highly likely that there are many initiatives, policies and programs that we have inadvertently missed. As such, it is probable that there are strategies that we have missed or not even considered. Nonetheless, we have attempted to justify our strategy where possible using evidence and reasoning, the discussion of which can be found below the strategy in [Section 5](#heading=h.uebc1dr881dp).
+We also note that this strategy can only be based on information which we as a collective have, and it remains highly likely that there are many initiatives, policies and programs that we have inadvertently missed. As such, it is probable that there are strategies that we have missed or not even considered. Nonetheless, we have attempted to justify our strategy where possible using evidence and reasoning, the discussion of which can be found below the strategy in Section 5.
 
 ## 2.1 Short-term strategy (>2 years)
 
@@ -73,7 +73,9 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 * Encourage the wider adoption of an 'open mindset' that emphasises the importance of the research process over the outcome.
 
-* Sign the San Francisco Declaration on Research Assessment (DORA) (NOTE:  DORA.) as a commitment to improving how research is assessed.
+* Sign the San Francisco Declaration on Research Assessment (DORA) (NOTE:  DORA.) as a commitment to improving how research is assessed. 
+
+  * As an alternative, adopt the Leiden Manifesto.
 
 **Group Level (e.g., labs, departments)**
 
@@ -109,7 +111,7 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
   * Which articles are being downloaded and cited. 
 
-* Map and coordinate when current subscription and ‘big deal’ licenses will run out across institutes, and let it happen. Where cancellations or terminations occur, ensure that there is adequate post-subscription access using existing legal mechanisms (e.g., Inter-Library Loan). Explore routes for reinvesting money saved for library budgets.
+* Map and coordinate when current subscription and big deal licenses will run out across institutes, and let it happen. Where cancellations or terminations occur, ensure that there is adequate post-subscription access using existing legal mechanisms (e.g., Inter-Library Loan). Explore routes for reinvesting money saved for library budgets.
 
 * Purchase back any legacy documents and incorporate them into the scholarly body of work. Also improve the open sharing and archiving of legacy articles on which copyright has expired (NOTE:  Author Alliance termination of transfer tool.).
 
@@ -125,7 +127,8 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 * Promote and compensate time and effort spent on training and advocacy for the various aspects of Open Scholarship, including Open Source, Open Access, and Open Education.
 
-1. Engage with research communities to develop and advertise quantifiable incentives for sharing preprints, open data, reproducible analyses, and OA in hiring, promotion, and tenure decisions. Define new ways of describing these wider contributions to scientific communities.
+* Engage with research communities to develop and advertise quantifiable incentives for sharing preprints, open data, reproducible analyses, and OA in hiring, promotion, and tenure decisions. Define new ways of describing these wider contributions to scientific communities.
+
 
 **National Level (or higher)**
 
