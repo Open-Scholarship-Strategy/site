@@ -2,7 +2,11 @@
 title: "Foundations for Open Scholarship Strategy Development"
 ---
 
-## Purpose of this Document
+## Table of Contents
+
+- [Purpose of this Document](#Purpose)
+
+## Purpose of this Document <a name="Purpose"></a>
 
 *This document aims to agree on a broad, international strategy for the implementation of open scholarship that meets the needs of different national and regional communities but works globally.*
 
