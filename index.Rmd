@@ -5,8 +5,22 @@ title: "Foundations for Open Scholarship Strategy Development"
 ## Table of Contents
 
 - [Purpose of this Document](#Purpose)
+- [Strategy](#Strategy)
 
-## Purpose of this Document <a name="Purpose"></a>
+
+Version 1.0 | October 16, 2017 - Started document
+Version 1.1 | June 06, 2018 - Created website
+
+** Important Note** This project is currently in development and available for contributions on [GitHub](https://github.com/Open-Scholarship-Strategy/site).
+
+Drafting Committee: [Jonathan Tennant](https://orcid.org/0000-0001-7794-0218), Jonathan Dugan, Rachel Harding, Tony Ross-Hellauer, [Kshitiz Khanal]( https://orcid.org/0000-0002-4765-4832), [Thomas Pasquier](https://orcid.org/0000-0001-6876-1306), Jeroen Bosman, [Asura Enkhbayar](https://orcid.org/0000-0002-3934-026X), Gail Clement, [David Eccles](https://orcid.org/0000-0003-4634-4995), [Fiona Bradley](https://orcid.org/0000-0002-3622-2794), ([Bj�rn Brembs]( http://orcid.org/0000-0001-7824-7650)), (Pawel Szczesny), Lisa Matthias, [Jesper Norgaard Kjaer](http://orcid.org/0000-0001-9183-9861), [Daniel S. Katz](http://orcid.org/0000-0001-5934-7525), [Tom Crick](https://orcid.org/0000-0001-5196-9389), [Christopher R. Madan](https://orcid.org/0000-0003-3228-6501), [Paul Macklin](https://orcid.org/0000-0002-9925-0151), [Johanna Havemann](https://orcid.org/0000-0002-6157-1494), [Jennifer E. Beamer](https://orcid.org/0000-0001-6887-6568), [Michael Schulte-Mecklenbeck](https://orcid.org/0000-0002-0406-8809), Dan Sholler, Paola Masuzzo, [Tobias Steiner](https://orcid.org/0000-0002-3158-3136), [Tim Koder](https://orcid.org/0000-0001-6152-7365), [David Nichols](https://orcid.org/0000-0003-0321-7267), [Daniel Graziotin](https://orcid.org/0000-0002-9107-7681), Alastair Dunning, [Andy Turner](http://orcid.org/0000-0002-6098-6313), [Neo Christopher Chung](https://orcid.org/0000-0001-6798-8867)
+
+[Contact](mailto:jon.tennant.2@gmail.com)
+
+This project and website are hosted on [GitHub](https://github.com/Open-Scholarship-Strategy/site), and available for contributions from anyone interested. Please see the [README](README.md) file for more detail.
+
+
+# 1. Purpose of this Document <a name="Purpose"></a>
 
 *This document aims to agree on a broad, international strategy for the implementation of open scholarship that meets the needs of different national and regional communities but works globally.*
 
@@ -18,33 +32,14 @@ Our hope is that this document will serve as a foundational resource for continu
 
 Ultimately, we expect the impact of widespread adoption of Open Scholarship to be diverse. We expect novel research practices to increase the pace of innovation, and therefore stimulate critical industries around the world. We could also expect to see an increase in public trust of science, as transparency becomes more normative. As such, we expect interest in Open Scholarship to increase at multiple levels, due to its inherent influence on society and global economics.
 
------------------------------------
 
-# Foundations for Open Scholarship Strategy Development
+# 2. Strategy <a name="Strategy"></a>
 
-Version 1.0 | October 16, 2017 - Started document
-Version 1.1 | June 06, 2018 - Created website
-
-** Important Note** This project is currently in development and available for contributions on [GitHub](https://github.com/Open-Scholarship-Strategy/site).
-
-Drafting Committee: [Jonathan Tennant](https://orcid.org/0000-0001-7794-0218), Jonathan Dugan, Rachel Harding, Tony Ross-Hellauer, [Kshitiz Khanal]( https://orcid.org/0000-0002-4765-4832), [Thomas Pasquier](https://orcid.org/0000-0001-6876-1306), Jeroen Bosman, [Asura Enkhbayar](https://orcid.org/0000-0002-3934-026X), Gail Clement, [David Eccles](https://orcid.org/0000-0003-4634-4995), [Fiona Bradley](https://orcid.org/0000-0002-3622-2794), ([Bjoern Brembs]( http://orcid.org/0000-0001-7824-7650)), (Pawel Szczesny), Lisa Matthias, [Jesper Norgaard Kjaer](http://orcid.org/0000-0001-9183-9861), [Daniel S. Katz](http://orcid.org/0000-0001-5934-7525), [Tom Crick](https://orcid.org/0000-0001-5196-9389), [Christopher R. Madan](https://orcid.org/0000-0003-3228-6501), [Paul Macklin](https://orcid.org/0000-0002-9925-0151), [Johanna Havemann](https://orcid.org/0000-0002-6157-1494), [Jennifer E. Beamer](https://orcid.org/0000-0001-6887-6568), [Michael Schulte-Mecklenbeck](https://orcid.org/0000-0002-0406-8809), Dan Sholler, Paola Masuzzo, [Tobias Steiner](https://orcid.org/0000-0002-3158-3136), [Tim Koder](https://orcid.org/0000-0001-6152-7365), [David Nichols](https://orcid.org/0000-0003-0321-7267), [Daniel Graziotin](https://orcid.org/0000-0002-9107-7681), Alastair Dunning, [Andy Turner](http://orcid.org/0000-0002-6098-6313), [Neo Christopher Chung](https://orcid.org/0000-0001-6798-8867)
-
-[Contact](mailto:jon.tennant.2@gmail.com)
-
-
-# 1. Purpose of this Document
-
-*This document aims to agree on a broad, international strategy for the implementation of open scholarship that meets the needs of different national and regional communities but works globally.*
-
-See the [README](README.md) file for more detail.
-
-# 2. Strategy
-
-"*Strategy generally involves setting goals, determining actions to achieve the **goals**, and mobilizing resources to execute the actions. A strategy describes how the ends (goals) will be achieved by the means (resources).*" (NOTE:  https://en.wikipedia.org/wiki/Strategy)
+"*[Strategy](https://en.wikipedia.org/wiki/Strategy) generally involves setting goals, determining actions to achieve the **goals**, and mobilizing resources to execute the actions. A strategy describes how the ends (goals) will be achieved by the means (resources).*"
 
 In order to overcome the challenges and achieve our priorities, we need to build on our strengths. We have identified three main temporal components (short-, mid-, and long-term) of our overall strategy to be used as direct suggestions for action on the individual, group, institutional or national (or higher) level. 
 
-We note that, due to the diversity of actors and stakeholders and their views and practices, this strategy is not a consensus document. How the different aspects are prioritised is a matter of debate based on varying perspectives. Its effectiveness will be realised when individuals and communities can implement different parts of it as cultural norms develop and shift towards a more ‘open state’. Indeed, many view the progress of Open Scholarship in the last 2-3 decades as painfully insubstantive, a factor which might reflect its general lack of strategic thinking and implementation.
+We note that, due to the diversity of actors and stakeholders and their views and practices, this strategy is not a consensus document. How the different aspects are prioritised is a matter of debate based on varying perspectives. Its effectiveness will be realised when individuals and communities can implement different parts of it as cultural norms develop and shift towards a more open state. Indeed, many view the progress of Open Scholarship in the last 2-3 decades as painfully insubstantive, a factor which might reflect its general lack of strategic thinking and implementation.
 
 We also note that this strategy can only be based on information which we as a collective have, and it remains highly likely that there are many initiatives, policies and programs that we have inadvertently missed. As such, it is probable that there are strategies that we have missed or not even considered. Nonetheless, we have attempted to justify our strategy where possible using evidence and reasoning, the discussion of which can be found below the strategy in Section 5.
 
