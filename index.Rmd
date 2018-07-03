@@ -91,7 +91,7 @@ We also note that this strategy can only be based on information which we as a c
 
 * Sign the San Francisco Declaration on Research Assessment [(DORA)](https://sfdora.org/) as a commitment to improving how research is assessed. Make sure to adhere to the principles too in practice.
 
- * As an alternative, adopt the [Leiden Manifesto](http://www.leidenmanifesto.org/).
+  * As an alternative, adopt the [Leiden Manifesto](http://www.leidenmanifesto.org/).
  
 * Refuse to sign copyright transfer agreements, unless you are allowed to retain copyright of your work under a [Creative Commons](https://creativecommons.org/) license of your own choosing.
 
@@ -100,7 +100,7 @@ We also note that this strategy can only be based on information which we as a c
 
 * Locate Open Scholarship hotspots (i.e., venues or groups for regular exchange and discussion about community building) and find a way to link them together to help community cohesion and expansion. 
 
- * If a local one does not yet exist, establish it (e.g., using the [Meetup](https://www.meetup.com/) platform).
+  * If a local one does not yet exist, establish it (e.g., using the [Meetup](https://www.meetup.com/) platform).
 
 * Establish rights experts who might help with questions regarding copyright issues and the effective use of Creative Commons licenses.
 
@@ -123,15 +123,15 @@ We also note that this strategy can only be based on information which we as a c
 
 * Research libraries should collect information about how the sector as a whole interacts with the research literature. Such information could be used to help with publisher negotiations, break up 'big deal' contracts, and cancel subscriptions by providing evidence into the cross-sectorial value of services, and includes: 
 
- * Which venues researchers are publishing in;
+  * Which venues researchers are publishing in;
 
- * Who is doing the editorial and peer review work;
+  * Who is doing the editorial and peer review work;
 
- * How much is being spent on serial subscriptions; 
+  * How much is being spent on serial subscriptions; 
 
- * How much is being spent on Article Processing Charges (APCs) for Open Access; and 
+  * How much is being spent on Article Processing Charges (APCs) for Open Access; and 
 
- * Which articles are being downloaded and cited.
+  * Which articles are being downloaded and cited.
 
 * Map and coordinate when current subscription and 'big deal' licenses will run out across research institutes, and let it happen. Where cancellations or terminations occur, ensure that there is adequate post-subscription access and support using existing sustainable and legal mechanisms (e.g., Inter-Library Loan). Explore routes for reinvesting money saved for library budgets.
 
@@ -260,9 +260,9 @@ The expectation at this point is that specific parts of the short-term strategy 
 
 * Implement opt-out automatization of manuscript handling/single-click submission to an open repository under default open licenses.
 
- * Implement opt-out automatization of data deposition under default open licenses.
+  * Implement opt-out automatization of data deposition under default open licenses.
 
- * Implement opt-out automatization of code accessibility and version control under default open licenses.
+  * Implement opt-out automatization of code accessibility and version control under default open licenses.
 
 * To convert saved resources currently spent on journal subscriptions into funds supporting sustainable Open Access business models, scholarly infrastructure, and other relevant support services.
 
@@ -290,7 +290,7 @@ The expectation at this point is that specific parts of the short-term strategy 
 
 * For any remaining hybrid journals that attain a higher proportion of Open Access over subscription articles, encourage them to ‘flip’ them to pure Open Access with an APC that reflects the running costs of the journal.
 
- * For remaining hybrid journals that have not attained this level, refuse to support publication of Open Access articles in those venues, and also refuse to renew subscriptions.
+  * For remaining hybrid journals that have not attained this level, refuse to support publication of Open Access articles in those venues, and also refuse to renew subscriptions.
 
 * Increase funding for outreach, especially to under-represented demographics.
 
