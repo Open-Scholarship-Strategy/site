@@ -76,11 +76,11 @@ We also note that this strategy can only be based on information which we as a c
 
 ![Figure_1](images/image_0.png)\
 
-Kramer, Bianca, & Bosman, Jeroen. (2018, January). Rainbow of open science practices. Zenodo. [http://doi.org/10.5281/zenodo.1147025](http://doi.org/10.5281/zenodo.1147025).
+[Kramer, Bianca, & Bosman, Jeroen. (2018, January). Rainbow of open science practices. Zenodo](http://doi.org/10.5281/zenodo.1147025).
 
 ![Figure_2](image_1.png)\
 
-Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018, February). Zenodo. [https://zenodo.org/record/1183806](https://zenodo.org/record/1183806)
+[Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018, February). Zenodo](https://zenodo.org/record/1183806).
 
  
 * Form better relationships with other stakeholders involved in Open Scholarship developments (e.g., librarians, policymakers, publishers and other service providers, Open Access advocates, and those actively teaching in education).
@@ -224,13 +224,22 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 ## 2.2 Mid-term strategy (2-5 years) <a name="Middle"></a>
 
+The expectation at this point is that specific parts of the short-term strategy will have been initiated, based on the needs of respective groups, and are either in place or in development. Often, these are ongoing processes, and therefore might overlap with the mid-term strategy, and are not worth repeating here. However, all of the items mentioned in the [short-term strategy](#Short) are still relevant at this stage, depending on the pace of development.
+
 **Individual Level**
 
 * Continue instructing new researchers in best practices regarding Open Scholarship.
+  
+  * In areas where this might be lacking, build strategic community networks to increase the strength of advocacy efforts.
 
-* Develop workflows that take advantage of Open Scholarship practices to demonstrate their increased effectiveness.
+* Ensure that all of ones research processes and outputs, including historical ones, are openly licensed and available for re-use in appropriate venues.
+
+* Develop workflows that take advantage of Open Scholarship practices to demonstrate their increased effectiveness in comparison to traditional, more closed workflows.
+
+* Continue to innovate in new research processes and workflows as new services, outlets, and technologies become available.
 
 * Continue to develop the aspects of the Short-term strategy (Section 2.1).
+
 
 **Group Level**
 
@@ -238,7 +247,14 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 * Develop Open Scholarship workflows for all group members to take advantage of increasingly well-developed open scholarly infrastructure and tools.
 
+  * Ensure that group members are trained in a wide variety of relevant skills, including public engagement, policy development, data analysis, Web development, and citizen science. 
+
+* Showcase developments and success stories from Open Scholarship practices.
+
+* Continue to build and empower local Open Scholarship communities, including newer researchers and students.
+
 * Continue to develop the aspects of the Short-term strategy (Section 2.1).
+
 
 **Institute Level**
 
@@ -248,48 +264,81 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
  * Implement opt-out automatization of code accessibility and version control under default open licenses.
 
-* To convert resources currently spent on journal subscriptions into funds supporting sustainable OA business models and scholarly infrastructure.
+* To convert saved resources currently spent on journal subscriptions into funds supporting sustainable Open Access business models, scholarly infrastructure, and other relevant support services.
 
 * Develop and teach courses on the various practices of Open Scholarship (e.g., as required seminars/workshops for graduate school programs).
 
+* Continue working with other research institutes to share resources, infrastructure, and services in a more sustainable manner.
+
+* Research funders to have explicit and enforced mandates regarding Open Scholarship, making sure not to impinge upon academic freedoms.
+
+* Continue to only engage with publishers and other vendors that have progressively open services, tools, and policies in place.
+
+* Commit to openly sharing institute-level data and metrics on research activities, records and behaviour. 
+
+* Continue to ensure that research assessment policies are evidence-informed, rigorous, and adhered to at all levels.
+
+
+
 **National (or higher) Level**
 
-* Start implementing semantic technology across all scholarship outputs.
+* Start implementing semantic technology across all scholarship outputs, including for the purposes of enabling unrestricted text and data mining.
 
-* Formulation of recommended career metrics that incentivize open data publication, open source software release, and research support.
+* Formulation of recommended career metrics that incentivize Open Data publication, Open Source software release, and research support.
 
-* For any remaining hybrid journals that attain a higher proportion of open access over subscription articles, encourage them to ‘flip’ them to pure open access with an APC that reflects the running costs of the journal.
+  * Ensure that fairer and more rigorous research assessment policies are in place, and well-supported and monitored.
 
- * For remaining hybrid journals that have not attained this level, refuse to support publication of OA articles in those venues.
+* For any remaining hybrid journals that attain a higher proportion of Open Access over subscription articles, encourage them to ‘flip’ them to pure Open Access with an APC that reflects the running costs of the journal.
 
-* Increase funding for outreach, especially to underrepresented minorities.
+ * For remaining hybrid journals that have not attained this level, refuse to support publication of Open Access articles in those venues, and also refuse to renew subscriptions.
+
+* Increase funding for outreach, especially to under-represented demographics.
+
+* Engage library consortia (e.g., LIBER, EIFL) with national negotiation consortia, and any relevant higher education unions, in order to strengthen researcher coalitions. Supplement these with scholarly collaborations (e.g., eLife, NISO) in order to further develop relationships and collaborations across the scholarly communication sector.
+
+* Begin implementation of national or international scholarly infrastructures, with cross-stakeholder agreed upon open standards, roadmaps, and governance structures. Ensure this is supported with sustainable funding streams diverted from refreshed library budgets after expensive publishing contracts have been terminated or expired.
+
+* Publicise the outcomes of any research or invesitgations into the status of national-level scholarly publishing markets.
 
 
 ## 2.3 Long-term strategy (5-10 years) <a name="Long"></a>
 
+The expectation at this point is that specific parts of the short- and mid-term strategies will have been initiated, based on the needs of respective groups, and are either in place or in development. Often, these are ongoing processes, and therefore might overlap with the long-term strategy, and are not worth repeating here. However, all of the items mentioned in the [short-term strategy](#Short) and [mid-term strategy](#Middle) are still relevant at this stage, depending on the pace of development.
+
+
 **Individual Level**
 
-* Support the training of junior researchers in the usage of newly formed scholarly infrastructure tools and services.
+* Support the formal training of junior researchers in the usage and best practices of newly developed scholarly infrastructure tools and services.
 
 * Teach students about open lab notebooks, version control, continuous analysis, and other aspects of Open Scholarship processes in introductory research courses.
 
 * Develop training material (OER) for further Open Scholarship development.
 
+* Continue to link Open Scholarship communities together to foster increased inter-disciplinary engagement and collaboration.
+
 * Continue developing elements of the Short- and Mid-term strategies.
+
 
 **Group Level**
 
+* Continue development of and experimentation with emerging and established Open Scholarship workflows, integrating elements of newly established scholarly infrastructures.
+
+* Communicate the advantages or impact of adopting Open Scholarship workflows to other groups, and formalised training in these.
+
 * Continue developing elements of the Short- and Mid-term strategies.
 
-* Communicate the advantages or impact of adopting Open Scholarship workflows to other groups.
 
 **Institute Level**
 
-* Establish a permanent fund to be used towards open source software development, APCs, preprint servers, and other costs related to Open Scholarship.
+* Establish a permanent fund to be used towards more sustainable ventures, including Open Source software development, APCs, preprint servers, and other costs related to Open Scholarship.
 
 * Incentivize and mandate all research outputs to be published in Open Access journals or platforms.
 
 * Incentivize junior scholars to practice openness in their research.
+
+* Continue developing elements of the Short- and Mid-term strategies.
+
+
 
 **National (or higher) Level**
 
