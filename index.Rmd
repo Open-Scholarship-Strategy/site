@@ -2,6 +2,12 @@
 title: "Foundations for Open Scholarship Strategy Development"
 ---
 
+#### Version information
+
+- Version 1.0 | October 16, 2017 - Started document.
+- Version 1.1 | June 06, 2018 - Created website.
+
+
 ### Table of Contents
 
 * [Purpose of this Document](#Purpose)
@@ -18,21 +24,17 @@ title: "Foundations for Open Scholarship Strategy Development"
 * [Threats](#Threats)
 
 
-- Version 1.0 | October 16, 2017 - Started document.
-- Version 1.1 | June 06, 2018 - Created website.
-
-
 **Important Note** This project is currently in development and available for contributions on [GitHub](https://github.com/Open-Scholarship-Strategy/site). Please see the [README](README.md) file for more detail.
 
 
-Drafting Committee: [Jonathan Tennant](https://orcid.org/0000-0001-7794-0218), Jonathan Dugan, Rachel Harding, Tony Ross-Hellauer, [Kshitiz Khanal]( https://orcid.org/0000-0002-4765-4832), [Thomas Pasquier](https://orcid.org/0000-0001-6876-1306), Jeroen Bosman, [Asura Enkhbayar](https://orcid.org/0000-0002-3934-026X), Gail Clement, [David Eccles](https://orcid.org/0000-0003-4634-4995), [Fiona Bradley](https://orcid.org/0000-0002-3622-2794), ([Bj?rn Brembs]( http://orcid.org/0000-0001-7824-7650)), (Pawel Szczesny), Lisa Matthias, [Jesper Norgaard Kjaer](http://orcid.org/0000-0001-9183-9861), [Daniel S. Katz](http://orcid.org/0000-0001-5934-7525), [Tom Crick](https://orcid.org/0000-0001-5196-9389), [Christopher R. Madan](https://orcid.org/0000-0003-3228-6501), [Paul Macklin](https://orcid.org/0000-0002-9925-0151), [Johanna Havemann](https://orcid.org/0000-0002-6157-1494), [Jennifer E. Beamer](https://orcid.org/0000-0001-6887-6568), [Michael Schulte-Mecklenbeck](https://orcid.org/0000-0002-0406-8809), Dan Sholler, Paola Masuzzo, [Tobias Steiner](https://orcid.org/0000-0002-3158-3136), [Tim Koder](https://orcid.org/0000-0001-6152-7365), [David Nichols](https://orcid.org/0000-0003-0321-7267), [Daniel Graziotin](https://orcid.org/0000-0002-9107-7681), Alastair Dunning, [Andy Turner](http://orcid.org/0000-0002-6098-6313), [Neo Christopher Chung](https://orcid.org/0000-0001-6798-8867)
+Drafting Committee: [Jonathan Tennant](https://orcid.org/0000-0001-7794-0218)*, Jonathan Dugan, Rachel Harding, Tony Ross-Hellauer, [Kshitiz Khanal]( https://orcid.org/0000-0002-4765-4832), [Thomas Pasquier](https://orcid.org/0000-0001-6876-1306), Jeroen Bosman, [Asura Enkhbayar](https://orcid.org/0000-0002-3934-026X), Gail Clement, [David Eccles](https://orcid.org/0000-0003-4634-4995), [Fiona Bradley](https://orcid.org/0000-0002-3622-2794), ([Bj?rn Brembs]( http://orcid.org/0000-0001-7824-7650)), (Pawel Szczesny), Lisa Matthias, [Jesper Norgaard Kjaer](http://orcid.org/0000-0001-9183-9861), [Daniel S. Katz](http://orcid.org/0000-0001-5934-7525), [Tom Crick](https://orcid.org/0000-0001-5196-9389), [Christopher R. Madan](https://orcid.org/0000-0003-3228-6501), [Paul Macklin](https://orcid.org/0000-0002-9925-0151), [Johanna Havemann](https://orcid.org/0000-0002-6157-1494), [Jennifer E. Beamer](https://orcid.org/0000-0001-6887-6568), [Michael Schulte-Mecklenbeck](https://orcid.org/0000-0002-0406-8809), Dan Sholler, Paola Masuzzo, [Tobias Steiner](https://orcid.org/0000-0002-3158-3136), [Tim Koder](https://orcid.org/0000-0001-6152-7365), [David Nichols](https://orcid.org/0000-0003-0321-7267), [Daniel Graziotin](https://orcid.org/0000-0002-9107-7681), Alastair Dunning, [Andy Turner](http://orcid.org/0000-0002-6098-6313), [Neo Christopher Chung](https://orcid.org/0000-0001-6798-8867)
 
-[Contact](mailto:jon.tennant.2@gmail.com)
+*[Contact](mailto:jon.tennant.2@gmail.com)
 
 
 # 1. Purpose of this Document <a name="Purpose"></a>
 
-*This document aims to agree on a broad, international strategy for the implementation of open scholarship that meets the needs of different national and regional communities but works globally.*
+**This document aims to agree on a broad, international strategy for the implementation of open scholarship that meets the needs of different national and regional communities but works globally.**
 
 Scholarly research can be an inspirational process for advancing our collective knowledge to the benefit of all humankind. However, current research practices often struggle with a range of tensions and conflicts as it adapts to a largely digital system. What is broadly termed as 'Open Scholarship' is an attempt to realign modern research practices with this ideal. We do not propose a definition of 'Open Scholarship', but recognise that it is a holistic term that encompasses many disciplines, practices, and principles, sometimes also referred to as 'Open Science' or 'Open Research'. We choose the term 'Open Scholarship' to be more inclusive of these other terms.
 
@@ -57,7 +59,7 @@ We also note that this strategy can only be based on information which we as a c
 
 **Individual Level**
 
-1. Advocate for funding organisations, governments and research institutions to adopt policies and mandates related to Open Scholarship practices beyond Open Access (OA) and data sharing; for example, on open peer review, use of persistent identifiers (PIDs), open evaluation, and preprints.
+* Advocate for funding organisations, governments and research institutions to adopt policies and mandates related to Open Scholarship practices beyond Open Access (OA) and data sharing; for example, on open peer review, use of persistent identifiers (PIDs), open evaluation, and preprints.
 
 * Make one's own contributions to 'openness' visible in public (e.g., one a CV or personal website).
 
@@ -71,11 +73,11 @@ We also note that this strategy can only be based on information which we as a c
 
 * Establish support structures (e.g., openLab, walk-in labs, makerspaces in the wider sense) that help to guide other individuals along the path to Open Scholarship. This can include questions of how to publish, teach, learn and do research in the open, and what tools are available to use.
 
-![image alt text](image_0.png)
+![Figure_1](image_0.png)
 
 Kramer, Bianca, & Bosman, Jeroen. (2018, January). Rainbow of open science practices. Zenodo. [http://doi.org/10.5281/zenodo.1147025](http://doi.org/10.5281/zenodo.1147025)
 
-![image alt text](image_1.png)
+![Figure_2](image_1.png)
 
 Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018, February). Zenodo. [https://zenodo.org/record/1183806](https://zenodo.org/record/1183806)
 
@@ -292,7 +294,7 @@ We find [Fecher and Friesike (2013)](https://link.springer.com/chapter/10.1007%2
 
 These previous works have been, and remain to be, crucial for building a central identity for the global Open Scholarship community, communicating the case for Open Scholarship to wider society, and providing a basis to push the global movement forward. To realize the full potential and vision of Open Scholarship, we believe that a document is needed that asks critical questions about the internal structure of Open Scholarship as a movement, and addresses strategic questions about how we, as a global movement, can identify concrete steps to achieving these goals. For those unfamiliar with the ‘language’ of Open Scholarship, we refer them to the Open Research Glossary, hosted by the Right to Research Coalition (NOTE:  Open Research Glossary, accessed November 2017.).
 
-![image alt text](image_2.png)
+![Figure_3](image_2.png)
 
 Fecher and Frieseke (2015)'s five schools of thought in Open Scholarship ([Source](https://www.fosteropenscience.eu/content/what-open-science-introduction)).
 
@@ -318,7 +320,7 @@ Research practices and scholarly communications are constantly evolving. However
 
 Open Scholarship when performed (NOTE:  According to Bowker & Star (2000), scientific work is always composed of members of different communities of practice, and therefore the creation and management of boundary objects is a key process in developing and maintaining coherence across intersecting communities) as a boundary object ([Star, 1989](http://www.lchc.ucsd.edu/MCA/Mail/xmcamail.2012_08.dir/pdfMrgHgzULhA.pdf)) allows us to balance different categories and meanings across many communities of practice ([Star and Griesemer, 1989](http://www.lchc.ucsd.edu/MCA/Mail/xmcamail.2012_08.dir/pdfMrgHgzULhA.pdf)). Broadly, the core aspects of Open Scholarship can be divided into two major categories: practices and principles. For the former, this relates to aspects such as Open Access, Open Data, and Open Source. The core principles of Open Scholarship include participation, equality, transparency, cognitive justice (NOTE:  https://en.wikipedia.org/wiki/Cognitive_justice ), collaboration, sharing, equity, and inclusivity. Generally, it is agreed upon that the combination of these practices and principles will result in a better research process, all grouped under the broad heading of Open Scholarship.  Indeed, [Watson (2015)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0669-2) believes that these attributes are not exclusive to Open Scholarship, but should be key traits of good science in general. However, we acknowledge that Open Scholarship is not a simple construct to understand, and often has its own language. We fully acknowledge that such a barrier must be overcome in order to maximise participation and engagement with both the principles and the practices ([Masuzzo and Martens, 2017](https://peerj.com/preprints/2689/)).
 
-![image alt text](image_3.png)
+![Figure_4](image_3.png)
 
 Principles of Open Scholarship, by Tony Ross-Hellauer ([Source](https://www.slideshare.net/OpenAIRE_eu/peer-review-in-the-age-of-open-science), CC BY).
 
@@ -334,7 +336,7 @@ Four major elements exist as preconditions to Open Scholarship adoption:
 
 4. Incentives: Motivations to engage with the practices.
 
-![image alt text](image_4.png)
+![Figure_5](image_4.png)
 
 Adapted from the [Foster Open Scholarship Taxonomy](https://www.fosteropenscience.eu/taxonomy/term/102) (CC BY 4.0). Please note that this is a non-exhaustive taxonomy of all possible aspects of ‘Open Science’.
 
