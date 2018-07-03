@@ -2,22 +2,32 @@
 title: "Foundations for Open Scholarship Strategy Development"
 ---
 
-## Table of Contents
+### Table of Contents
 
-- [Purpose of this Document](#Purpose)
-- [Strategy](#Strategy)
+* [Purpose of this Document](#Purpose)
+* [Strategy](#Strategy)
+  * [Short-term strategy, >2 years](#Short)
+  * [Mid-term strategy, 2*5 years](#Middle)
+  * [Long-term strategy, 5+ years](#Long)
+* [What is Open Scholarship?](#What_is)
+* [State of the Movement](#State)
+* [Top Strategic Priorities for Open Scholarship](#Priorities)
+* [Movement Strengths](#Strengths)
+* [Movement Challenges](#Challenges)
+* [Opportunities](#Opportunities)
+* [Threats](#Threats)
 
 
-Version 1.0 | October 16, 2017 - Started document
-Version 1.1 | June 06, 2018 - Created website
+Version 1.0 | October 16, 2017 - Started document.
+Version 1.1 | June 06, 2018 - Created website.
 
-** Important Note** This project is currently in development and available for contributions on [GitHub](https://github.com/Open-Scholarship-Strategy/site).
 
-Drafting Committee: [Jonathan Tennant](https://orcid.org/0000-0001-7794-0218), Jonathan Dugan, Rachel Harding, Tony Ross-Hellauer, [Kshitiz Khanal]( https://orcid.org/0000-0002-4765-4832), [Thomas Pasquier](https://orcid.org/0000-0001-6876-1306), Jeroen Bosman, [Asura Enkhbayar](https://orcid.org/0000-0002-3934-026X), Gail Clement, [David Eccles](https://orcid.org/0000-0003-4634-4995), [Fiona Bradley](https://orcid.org/0000-0002-3622-2794), ([Bj�rn Brembs]( http://orcid.org/0000-0001-7824-7650)), (Pawel Szczesny), Lisa Matthias, [Jesper Norgaard Kjaer](http://orcid.org/0000-0001-9183-9861), [Daniel S. Katz](http://orcid.org/0000-0001-5934-7525), [Tom Crick](https://orcid.org/0000-0001-5196-9389), [Christopher R. Madan](https://orcid.org/0000-0003-3228-6501), [Paul Macklin](https://orcid.org/0000-0002-9925-0151), [Johanna Havemann](https://orcid.org/0000-0002-6157-1494), [Jennifer E. Beamer](https://orcid.org/0000-0001-6887-6568), [Michael Schulte-Mecklenbeck](https://orcid.org/0000-0002-0406-8809), Dan Sholler, Paola Masuzzo, [Tobias Steiner](https://orcid.org/0000-0002-3158-3136), [Tim Koder](https://orcid.org/0000-0001-6152-7365), [David Nichols](https://orcid.org/0000-0003-0321-7267), [Daniel Graziotin](https://orcid.org/0000-0002-9107-7681), Alastair Dunning, [Andy Turner](http://orcid.org/0000-0002-6098-6313), [Neo Christopher Chung](https://orcid.org/0000-0001-6798-8867)
+** Important Note** This project is currently in development and available for contributions on [GitHub](https://github.com/Open-Scholarship-Strategy/site). Please see the [README](README.md) file for more detail.
+
+
+Drafting Committee: [Jonathan Tennant](https://orcid.org/0000-0001-7794-0218), Jonathan Dugan, Rachel Harding, Tony Ross-Hellauer, [Kshitiz Khanal]( https://orcid.org/0000-0002-4765-4832), [Thomas Pasquier](https://orcid.org/0000-0001-6876-1306), Jeroen Bosman, [Asura Enkhbayar](https://orcid.org/0000-0002-3934-026X), Gail Clement, [David Eccles](https://orcid.org/0000-0003-4634-4995), [Fiona Bradley](https://orcid.org/0000-0002-3622-2794), ([Bj?rn Brembs]( http://orcid.org/0000-0001-7824-7650)), (Pawel Szczesny), Lisa Matthias, [Jesper Norgaard Kjaer](http://orcid.org/0000-0001-9183-9861), [Daniel S. Katz](http://orcid.org/0000-0001-5934-7525), [Tom Crick](https://orcid.org/0000-0001-5196-9389), [Christopher R. Madan](https://orcid.org/0000-0003-3228-6501), [Paul Macklin](https://orcid.org/0000-0002-9925-0151), [Johanna Havemann](https://orcid.org/0000-0002-6157-1494), [Jennifer E. Beamer](https://orcid.org/0000-0001-6887-6568), [Michael Schulte-Mecklenbeck](https://orcid.org/0000-0002-0406-8809), Dan Sholler, Paola Masuzzo, [Tobias Steiner](https://orcid.org/0000-0002-3158-3136), [Tim Koder](https://orcid.org/0000-0001-6152-7365), [David Nichols](https://orcid.org/0000-0003-0321-7267), [Daniel Graziotin](https://orcid.org/0000-0002-9107-7681), Alastair Dunning, [Andy Turner](http://orcid.org/0000-0002-6098-6313), [Neo Christopher Chung](https://orcid.org/0000-0001-6798-8867)
 
 [Contact](mailto:jon.tennant.2@gmail.com)
-
-This project and website are hosted on [GitHub](https://github.com/Open-Scholarship-Strategy/site), and available for contributions from anyone interested. Please see the [README](README.md) file for more detail.
 
 
 # 1. Purpose of this Document <a name="Purpose"></a>
@@ -43,7 +53,7 @@ We note that, due to the diversity of actors and stakeholders and their views an
 
 We also note that this strategy can only be based on information which we as a collective have, and it remains highly likely that there are many initiatives, policies and programs that we have inadvertently missed. As such, it is probable that there are strategies that we have missed or not even considered. Nonetheless, we have attempted to justify our strategy where possible using evidence and reasoning, the discussion of which can be found below the strategy in Section 5.
 
-## 2.1 Short-term strategy (>2 years)
+## 2.1 Short-term strategy (>2 years) <a name="Short"></a>
 
 **Individual Level**
 
@@ -53,9 +63,11 @@ We also note that this strategy can only be based on information which we as a c
 
 * Adopt a broad-scale approach to the variety of open scholarly research and education practices.
 
-* Adopt the use of open and free software for the conduct of research and analysis so that the computational processing can be audited by the community, and so that the tools used are available to everyone to increase productivity.
+* Adopt the use of open source and free software for the conduct of research and analysis so that the computational processing can be audited by the community, and so that the tools used are available to everyone to increase productivity.
 
 * Commit to a variety of personal Open Scholarship practices, such as sharing research data and materials in free, openly-licensed formats so that methods and results can be freely examined and built upon by the wider community.
+
+* Commit to sharing preprints for open and rapid dissemination of your work.
 
 * Establish support structures (e.g., openLab, walk-in labs, makerspaces in the wider sense) that help to guide other individuals along the path to Open Scholarship. This can include questions of how to publish, teach, learn and do research in the open, and what tools are available to use.
 
@@ -77,6 +89,8 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 * Sign the San Francisco Declaration on Research Assessment (DORA) (NOTE:  DORA.) as a commitment to improving how research is assessed. 
 
   * As an alternative, adopt the Leiden Manifesto.
+  
+* Refuse to sign copyright transfer agreements, unless you are allowed to retain copyright of your work under a Creative Commons license of your own chooising.
 
 **Group Level (e.g., labs, departments)**
 
@@ -98,6 +112,8 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 * Improve engagement between faculty advisory boards, researchers, students and librarians.
 
+* Refuse to engage with publishers who have restrictive preprint, open access, and copyright policies.
+
 **Institute Level (including research and funding bodies)**
 
 * Research libraries should collect information about how the sector as a whole interacts with the research literature. Such information could be used to help negotiations, break up publisher big deals, and cancel subscriptions by providing evidence into the cross-sectorial value of services, and includes: 
@@ -118,9 +134,17 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 * Research funders can define the limits of what is an acceptable standard of publication. They therefore have the power to mandate publication in journals with a cap on APCs, or in OA-only venues, or in those with short or zero-length embargoes (e.g., Emerald, The Royal Society).
 
+* Refuse to engage with publishers that 'double dip* on payments, and demand data in cases where there is a suspicion that this is occuring. 
+
+* Refuse to engage with publishers in which there is no transparency around pricing for either subscriptions or open access. This includes with publishers who insist on using non-disclosure agreements as part of licensing contract terms.
+
+* Insist that publishers make all bibliographic records, usage metrics, and citation data freely available and accessible in both a human- and machine-readable format.
+
 * Development of rights retention policies for scholarly research at research institutes that currently lack them.
 
 * Adoption of the CRediT (Contributor Rules Taxonomy) guidelines (NOTE:  CASRAI CRediT scheme.) to help identify author contributions more clearly.
+
+* Refuse to engage with publishers who have restrictive preprint, open access, and copyright policies.
 
 * Encourage further adoption by publishers of the Initiative for Open Citations (NOTE:  Initiative for Open Citations.) (I4OC) in conjunction with the wider uptake of open standards.
 
@@ -177,7 +201,8 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 1. Create showcases / highlights / good practices of Open Practices on national open scholarship / open science website together with relevant information and resources.
 
-## 2.2 Mid-term strategy (3 - 5 years)
+
+## 2.2 Mid-term strategy (2-5 years) <a name="Middle"></a>
 
 **Individual Level**
 
@@ -219,7 +244,8 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 * Increase funding for outreach, especially to underrepresented minorities.
 
-## 2.3 Long-term strategy (5 -10 years)
+
+## 2.3 Long-term strategy (5-10 years) <a name="Long"></a>
 
 **Individual Level**
 
@@ -255,7 +281,8 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 * Help researchers to take control of the research and evaluation processes based on what they believe will contribute most to scientific progress.
 
-# 3. What is Open Scholarship?
+
+# 3. What is Open Scholarship? <a name="What_is"></a>
 
 For more than two decades, the movement for Open Scholarship has evolved from a collection of small, localized efforts to a broad international network of institutions, organizations, governments, practitioners, advocates, and funders. While significant progress has been made on both expanding the understanding and practice of Open Scholarship (e.g., [Peters et al., 2012](https://www.routledge.com/Virtues-of-Openness-Education-Science-and-Scholarship-in-the-Digital/Peters-Roberts/p/book/9781594516863)) [Friesike et al.](https://link.springer.com/article/10.1007/s10961-014-9375-6)[, 2015](https://link.springer.com/article/10.1007/s10961-014-9375-6); [Munaf](https://www.nature.com/articles/s41562-016-0021)[ò et al., 2017](https://www.nature.com/articles/s41562-016-0021)), Open Scholarship practices and values are not yet the norm in most disciplines and adoption is spread unevenly around the world (NOTE: The Knowledge Gap:  Knowledge, power and inequality in Open Science policies, accessed November 2017.). In this document we consider the term "Open Scholarship" to broadly refer to the process, communication, and re-use of research as practiced in any scholarly research discipline, and its inclusion and role within wider society.
 
@@ -269,7 +296,7 @@ These previous works have been, and remain to be, crucial for building a central
 
 Fecher and Frieseke (2015)'s five schools of thought in Open Scholarship ([Source](https://www.fosteropenscience.eu/content/what-open-science-introduction)).
 
-# 4. State of the Movement
+# 4. State of the Movement <a name="State"></a>
 
 A movement can be defined as "a group of people working together to advance their shared political, social, or artistic ideas." (NOTE:  Oxford Dictionary, accessed November 2017.) Open Scholarship supporters are enormously diverse, including non-academic citizens, activists, faculty and students at a range of academic or career levels as well as research institutes, publishers, librarians, policymakers, and NGOs. These community members come from countries around the globe and a range of socio-economic situations. As such, Open Scholarship has a range of different social, economic and cultural contexts. While this diversity is a strength for the Open Scholarship movement by bringing a wide variety of perspectives, experiences, capacities, and resources, it also presents challenges for setting strategic direction and building shared plans. 
 
@@ -359,7 +386,7 @@ There are varied opinions, and a lack of consensus, around what extent of Open S
 
 * Adoption of open access by funding agencies; policies that explicitly allow use of preprints and other pre-publications in funding applications.
 
-# 5. Top Strategic Priorities for Open Scholarship
+# 5. Top Strategic Priorities for Open Scholarship <a name="Priorities"></a>
 
 Taking into account the strategic goals and success criteria listed above, it is possible to define several leading sub-domains of actions that need to be implemented in order to achieve them. While there is no consensus on this from the Open Scholarship movement, or what the priority order is, there is a general agreement that all of these actions are, at least to some degree, important. This strategy is adapted from [Fecher and Friesike (2013)](https://link.springer.com/chapter/10.1007%2F978-3-319-00026-8_2).
 
@@ -535,7 +562,7 @@ Motivated by the acknowledgement that scholarship requires all voices to be hear
 
     * Strengthen ability to participate intellectually, donate computing power, biological samples or other resources, including money (crowdfunded research)
 
-# 6. Movement Strengths
+# 6. Movement Strengths <a name="Strengths"></a>
 
 * Organisational structure and collective impact
 
@@ -573,7 +600,7 @@ Motivated by the acknowledgement that scholarship requires all voices to be hear
 
     * Open Scholarship activism as part of a broader open movement is benefitting from cross-collaborations with advocates of open data, open access, open education, open government, open source, and open culture. For example, now Open Scholarship is seen as a gateway to open education, but has policies strengthened by experiences from the open source movement.
 
-# 7. Movement Challenges
+# 7. Movement Challenges <a name="Challenges"></a>
 
 These challenges represent potential focal points of future discussion, research, and policy development. They include both external conditions in the greater research ecosystem, and internal conditions that exist within the Open Scholarship movement. Not all challenges are equal, or present in every potential context or community. However, these are frequently discussed in discussions about Open Scholarship strategy, and therefore should be highlighted here.
 
@@ -644,7 +671,7 @@ These challenges represent potential focal points of future discussion, research
 
     * Related - need to recognise that not all strategies fit all regions - allow for flexibility - make sure that other regions are not negatively impacted by decisions taken by other groups
 
-# 8. Opportunities
+# 8. Opportunities <a name="Opportunities"></a>
 
 * Universities and research institutes from across the world are waking up to the promise of Open Scholarship. Discussions are happening at different levels, and universities in particular are in a strong position to help guide and develop policy frameworks, best practices, and education on the various aspects of Open Scholarship, including by providing administrative support.
 
@@ -652,7 +679,7 @@ These challenges represent potential focal points of future discussion, research
 
 * Scholarly communication is a rapidly evolving landscape. There is a huge scope for systematic training and education in this domain, which could be adopted by research institutes. A huge global network of experts already exists with this professional capacity, but funding of such networks would be critical for any sort of sustainability. Platforms and technology exists today that can support this movement. 
 
-# 9. Threats
+# 9. Threats <a name="Threats"></a>
 
 * Continuing barriers to Open Access (OA): embargoes, continued transferal of copyright, lack of article-processing charge (APC) funding, wide application of high and unsustainable APCs (+ lack of knowledge in negotiating these difficulties), continuing perceptions of lack of prestige for many OA journals, 
 
@@ -697,6 +724,9 @@ These challenges represent potential focal points of future discussion, research
 * Continuing gap between positive attitudes to most aspects of openness & actual practice - how to close this?
 
 * Resistance to change: people are generally resistant to change, and giving them too much choice (as is common in open scholarship) could put them off changing at all. People tend to choose things that are most similar to what they already have, or things that are most similar to other choices they have (e.g. see Dan Ariely’s [TED talk](https://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions) on making decisions). It’s important to make sure that people can still do what they are already doing, even if they participate in open scholarship. [This can be seen in the example of the introduction of Linux in Munich, where an attempt to switch completely over to Linux [couldn’t find solutions for all existing software](http://www.zdnet.com/article/after-a-10-year-linux-migration-munich-considers-switching-back-to-windows-and-office/), resulting in a council vote to switch back to Windows by 2020. The city of Barcelona has a contrasting plan [aiming to introduce Linux](https://itsfoss.com/barcelona-open-source/), with a plan that prioritises making sure that existing user applications have an open source solution that works on Windows as well, eventually leaving a situation where the only existing software to change is the operating system.]
+
+#################################
+
 
 Policy Piece - TBD where/if it fits:
 
