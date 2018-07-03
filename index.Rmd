@@ -12,9 +12,9 @@ title: "Foundations for Open Scholarship Strategy Development"
 
 * [Purpose of this Document](#Purpose)
 * [Strategy](#Strategy)
-  * [Short-term strategy, >2 years](#Short)
-  * [Mid-term strategy, 2*5 years](#Middle)
-  * [Long-term strategy, 5+ years](#Long)
+ * [Short-term strategy, >2 years](#Short)
+ * [Mid-term strategy, 2*5 years](#Middle)
+ * [Long-term strategy, 5+ years](#Long)
 * [What is Open Scholarship?](#What_is)
 * [State of the Movement](#State)
 * [Top Strategic Priorities for Open Scholarship](#Priorities)
@@ -55,23 +55,24 @@ We note that, due to the diversity of actors and stakeholders and their views an
 
 We also note that this strategy can only be based on information which we as a collective have, and it remains highly likely that there are many initiatives, policies and programs that we have inadvertently missed. As such, it is probable that there are strategies that we have missed or not even considered. Nonetheless, we have attempted to justify our strategy where possible using evidence and reasoning, the discussion of which can be found below the strategy in Section 5.
 
+
 ## 2.1 Short-term strategy (>2 years) <a name="Short"></a>
 
 **Individual Level**
 
-* Advocate for funding organisations, governments and research institutions to adopt policies and mandates related to Open Scholarship practices beyond Open Access (OA) and data sharing; for example, on open peer review, use of persistent identifiers (PIDs), open evaluation, and preprints.
+* Advocate for funding organisations, governments and research institutions to adopt policies and mandates related to Open Scholarship practices beyond Open Access (OA) and data sharing; for example, on open peer review, use of persistent identifiers (PIDs), open research evaluation, and preprints.
 
-* Make one's own contributions to 'openness' visible in public (e.g., one a CV or personal website).
+* Make one's own contributions to 'openness' visible in public (e.g., on a CV, open platform, or personal website).
 
-* Adopt a broad-scale approach to the variety of open scholarly research and education practices.
+* Adopt a broad-scale approach to the variety of open scholarly research and education practices. See the [FOSTER Open Science taxonomy](https://www.fosteropenscience.eu/resources) for guidance.
 
-* Adopt the use of open source and free software for the conduct of research and analysis so that the computational processing can be audited by the community, and so that the tools used are available to everyone to increase productivity.
+* Adopt the use of open source and free software for the conduct of research and analysis so that the computational processing can be audited by the community, and so that the tools used are available to everyone to increase productivity and collaboration.
 
 * Commit to a variety of personal Open Scholarship practices, such as sharing research data and materials in free, openly-licensed formats so that methods and results can be freely examined and built upon by the wider community.
 
-* Commit to sharing preprints for open and rapid dissemination of your work.
+* Commit to sharing preprints for the open and rapid dissemination of your work.
 
-* Establish support structures (e.g., openLab, walk-in labs, makerspaces in the wider sense) that help to guide other individuals along the path to Open Scholarship. This can include questions of how to publish, teach, learn and do research in the open, and what tools are available to use.
+* Establish support structures (e.g., openLab, walk-in labs, makerspaces in the wider sense) that help to guide other individuals along the path towards Open Scholarship. This can include questions of how to publish, teach, learn and do research in the open, and what tools are available to use for these (Figures 1 and 2).
 
 ![Figure_1](images/image_0.png)
 
@@ -82,92 +83,100 @@ Kramer, Bianca, & Bosman, Jeroen. (2018, January). Rainbow of open science pract
 Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018, February). Zenodo. [https://zenodo.org/record/1183806](https://zenodo.org/record/1183806)
 
  
-* Form better relationships with other stakeholders involved in Open Scholarship developments (e.g., librarians, policymakers, publishers and other service providers, OA advocates, and those actively teaching in education).
+* Form better relationships with other stakeholders involved in Open Scholarship developments (e.g., librarians, policymakers, publishers and other service providers, Open Access advocates, and those actively teaching in education).
 
-* Work for and collaborate with researchers who practice various aspects of Open Scholarship, ranging from developing open source software and tools to posting preprints and citizen science.
+* Work for, and collaborate with, researchers who practice various aspects of Open Scholarship, ranging from developing Open Source software and tools to posting preprints and citizen science.
 
 * Encourage the wider adoption of an 'open mindset' that emphasises the importance of the research process over the outcome.
 
-* Sign the San Francisco Declaration on Research Assessment (DORA) (NOTE:  DORA.) as a commitment to improving how research is assessed. 
+* Sign the San Francisco Declaration on Research Assessment [(DORA)](https://sfdora.org/) as a commitment to improving how research is assessed. Make sure to adhere to the principles too in practice.
 
-  * As an alternative, adopt the Leiden Manifesto.
-  
-* Refuse to sign copyright transfer agreements, unless you are allowed to retain copyright of your work under a Creative Commons license of your own chooising.
+ * As an alternative, adopt the [Leiden Manifesto](http://www.leidenmanifesto.org/).
+ 
+* Refuse to sign copyright transfer agreements, unless you are allowed to retain copyright of your work under a [Creative Commons](https://creativecommons.org/) license of your own choosing.
+
 
 **Group Level (e.g., labs, departments)**
 
-* Locate Open Scholarship hotspots (i.e., venues or groups for regular exchange and discussion about community building) and find a way to link them together to help community expansion. 
+* Locate Open Scholarship hotspots (i.e., venues or groups for regular exchange and discussion about community building) and find a way to link them together to help community cohesion and expansion. 
 
-  * If a local one does not yet exist, establish it.
+ * If a local one does not yet exist, establish it (e.g., using the [Meetup](https://www.meetup.com/) platform).
 
 * Establish rights experts who might help with questions regarding copyright issues and the effective use of Creative Commons licenses.
 
-* Highlight Best Practice showcases in order to demonstrate what is actually possible with Open Scholarship, and what the wider advantages can be.
+* Highlight best practice showcases in order to demonstrate what is actually possible with Open Scholarship, and what the wider advantages can be.
 
-* Adopt best practices for Open Scholarship, including shared data as a research output and addressing publication bias and "questionable research practices" with bias-reducing workflows.
+* Adopt best practices for Open Scholarship, including shared data as a research output, addressing publication bias, and "questionable research practices" with bias-reducing workflows.
 
 * Advocate to decision makers at scholarly journals, publishers, funders, and higher education and research institutes to recognize and reward a variety of Open Scholarship activities, particularly regarding research evaluation policies.
 
-* Start lobbying University Ranking Providers (e.g., QS, Times Higher Education) to include an openness element to their indicators. 
+* Start discussions with University Ranking Providers (e.g., QS, Times Higher Education) to include an openness element to their indicators. 
 
-* Initiate debates on meaningful standards and practices at a disciplinary level for publishing data (e.g., the FAIR principles).
+* Initiate debates on meaningful standards and practices at a disciplinary level for publishing data (e.g., the [FAIR principles](https://www.go-fair.org/fair-principles/)).
 
-* Improve engagement between faculty advisory boards, researchers, students and librarians.
+* Improve engagement between faculty advisory boards, researchers, students and librarians regarding Open Scholarship practices and principles.
 
-* Refuse to engage with publishers who have restrictive preprint, open access, and copyright policies.
+* Refuse to engage with publishers who have restrictive preprint, Open Access, and copyright policies.
+
 
 **Institute Level (including research and funding bodies)**
 
-* Research libraries should collect information about how the sector as a whole interacts with the research literature. Such information could be used to help negotiations, break up publisher big deals, and cancel subscriptions by providing evidence into the cross-sectorial value of services, and includes: 
+* Research libraries should collect information about how the sector as a whole interacts with the research literature. Such information could be used to help with publisher negotiations, break up 'big deal' contracts, and cancel subscriptions by providing evidence into the cross-sectorial value of services, and includes: 
 
-  * Which venues researchers are publishing in;
+ * Which venues researchers are publishing in;
 
-  * Who is doing the editorial and peer review work;
+ * Who is doing the editorial and peer review work;
 
-  * How much is being spent on serial subscriptions; 
+ * How much is being spent on serial subscriptions; 
 
-  * How much is being spent on Article Processing Charges (APCs) for Open Access; and 
+ * How much is being spent on Article Processing Charges (APCs) for Open Access; and 
 
-  * Which articles are being downloaded and cited. 
+ * Which articles are being downloaded and cited.
 
-* Map and coordinate when current subscription and big deal licenses will run out across institutes, and let it happen. Where cancellations or terminations occur, ensure that there is adequate post-subscription access using existing legal mechanisms (e.g., Inter-Library Loan). Explore routes for reinvesting money saved for library budgets.
+* Map and coordinate when current subscription and 'big deal' licenses will run out across research institutes, and let it happen. Where cancellations or terminations occur, ensure that there is adequate post-subscription access and support using existing sustainable and legal mechanisms (e.g., Inter-Library Loan). Explore routes for reinvesting money saved for library budgets.
 
-* Purchase back any legacy documents and incorporate them into the scholarly body of work. Also improve the open sharing and archiving of legacy articles on which copyright has expired (NOTE:  Author Alliance termination of transfer tool.).
+* Purchase back any legacy documents and incorporate them into the scholarly body of work. Also improve the open sharing and archiving of legacy articles on which copyright has expired. 
+  
+  * Help to inform researchers more about the [Author Alliance termination of transfer](https://www.authorsalliance.org/resources/termination-of-transfer/) tool to help them retain their rights as authors.
 
-* Research funders can define the limits of what is an acceptable standard of publication. They therefore have the power to mandate publication in journals with a cap on APCs, or in OA-only venues, or in those with short or zero-length embargoes (e.g., Emerald, The Royal Society).
+* Research funders can define the limits of what is an acceptable standard of publication. They therefore have the power to mandate publication in journals with a cap on APCs, or in OA-only venues (with specific licenses), or in those with short or zero-length embargoes on self-archiving (e.g., Emerald, The Royal Society).
 
-* Refuse to engage with publishers that 'double dip* on payments, and demand data in cases where there is a suspicion that this is occuring. 
+* Refuse to engage with publishers that '[double dip](http://www.rluk.ac.uk/about-us/blog/the-costs-of-double-dipping/)' on payments, and demand transparency and data in cases where there is a suspicion that this is occuring. 
 
-* Refuse to engage with publishers in which there is no transparency around pricing for either subscriptions or open access. This includes with publishers who insist on using non-disclosure agreements as part of licensing contract terms.
+* Refuse to engage with publishers in which there is no transparency around pricing for either subscriptions or Open Access. This includes with publishers who insist on using non-disclosure agreements as part of licensing contract terms.
+
+  * Engage publishers on being more transparent about the financial aspects of their publishing workflows, similar to those such as [Ubiquity Press](https://www.ubiquitypress.com/site/publish/).
 
 * Insist that publishers make all bibliographic records, usage metrics, and citation data freely available and accessible in both a human- and machine-readable format.
 
 * Development of rights retention policies for scholarly research at research institutes that currently lack them.
 
-* Adoption of the CRediT (Contributor Rules Taxonomy) guidelines (NOTE:  CASRAI CRediT scheme.) to help identify author contributions more clearly.
+* Adoption of the [CASRAI CRediT](http://docs.casrai.org/CRediT) (Contributor Rules Taxonomy) guidelines to help identify author contributions more clearly.
 
-* Refuse to engage with publishers who have restrictive preprint, open access, and copyright policies.
+* Refuse to engage with publishers who have restrictive preprint, Open Access, and copyright policies.
 
-* Encourage further adoption by publishers of the Initiative for Open Citations (NOTE:  Initiative for Open Citations.) (I4OC) in conjunction with the wider uptake of open standards.
+* Encourage further adoption by publishers of the [Initiative for Open Citations](https://i4oc.org/) (I4OC) in conjunction with the wider uptake of open standards.
 
-* For research institutes that currently lack them, either launch and maintain an Open Access repository or find an existing resource to use, and adopt an Open Access policy (NOTE:  Good practices for university open-access policies, Harvard University.). Make these easily discoverable and accessible on the institutional website.
+* For research institutes that currently lack them, either launch and maintain an Open Access repository or find an existing resource to use, and adopt an [Open Access policy](https://cyber.harvard.edu/hoap/Good_practices_for_university_open-access_policies). Make these easily discoverable and accessible on the institutional website, and any relevant indexing services.
 
 * Promote and compensate time and effort spent on training and advocacy for the various aspects of Open Scholarship, including Open Source, Open Access, and Open Education.
 
 * Engage with research communities to develop and advertise quantifiable incentives for sharing preprints, open data, reproducible analyses, and OA in hiring, promotion, and tenure decisions. Define new ways of describing these wider contributions to scientific communities.
 
+* Encourage and adopt the principles for fairer research assessment outlined in DORA. Make sure that those in charge of research assessment, including hiring, tenure, and grant-awarding committees adhere to these.
+
 
 **National Level (or higher)**
 
-* Create new or support/contact existing international library consortia/collaborations (e.g., the International Coalition of Library Consortia (NOTE:  International Coalition of Library Consortia. )) to co-operate on infrastructure developments (e.g., [LIBER](http://libereurope.eu/), [EIFL](http://www.eifl.net/), [ARL](http://www.arl.org/), [SPARC](https://sparcopen.org/)).
+* Create new or support/contact existing international library consortia/collaborations (e.g., the [International Coalition of Library Consortia](http://icolc.net/)) to co-operate on infrastructure developments (e.g., [LIBER](http://libereurope.eu/), [EIFL](http://www.eifl.net/), [ARL](http://www.arl.org/), and [SPARC](https://sparcopen.org/)).
 
-   * Consortia like Projekt DEAL could provide examples of how to take the first step towards this at a national level. Support from SPARC for any such developments would also be useful.
+  * Consortia like the German [Projekt DEAL](https://www.projekt-deal.de/) could provide examples of how to take the first step towards this at a national level. Gaining support from SPARC for any such developments would also be useful.
 
-* Build on faculty and funder support for OA and related quality assurance initiatives (e.g., peer review) that are decoupled from journals. Agree on a governance structure for a world-wide scholarly infrastructure. (e.g., [W3C](https://www.w3.org/)).
+* Build on faculty and funder support for Open Access and related quality assurance initiatives (e.g., peer review) that are decoupled from journals. Agree on, and develop, a governance structure for a world-wide scholarly infrastructure (e.g., [W3C](https://www.w3.org/)).
 
-* Create scholarly standards to implement an alternative scholarly publishing platform/environment (using the funds freed from subscriptions, building on existing repositories/environments). 
+* Create scholarly standards to implement an alternative non-profit and community-owned scholarly publishing platform/environment (using the funds freed from subscriptions, building on existing repositories/environments and infrastructure). 
 
-* Support collaborations such as Metadata 2020 (NOTE:  Metadata 2020 (http://www.metadata2020.org/, accessed January 2018).), [NISO](http://www.niso.org/)/[NIST](https://www.nist.gov/), and [eLife](https://elifesciences.org/), to help build a richer connectivity between systems and communities.
+* Support collaborations such as [Metadata 2020](http://www.metadata2020.org/), [NISO](http://www.niso.org/)/[NIST](https://www.nist.gov/), and [eLife](https://elifesciences.org/), to help build a richer connectivity between scholarly communication systems and communities.
 
 * Take action against the privatisation of scholarly works and processes in order to achieve transformation of the publishing industry into one comprised of fair licensing, fair market competition, and under the ownership of the scholarly community.
 
@@ -175,33 +184,42 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 * Implement currently available sort, filter and search/discovery technology across scholarship outputs.
 
+  * Enable unrestricted text and data mining over this content.
+
 * Research funders and libraries hold most of the purse strings, and further engagement on this front is essential, especially in defining their relative roles in developing or funding scholarly infrastructure. Simply channeling more money into the existing system, with perverse incentives and skewed power dynamics, is clearly no longer sustainable for research.
 
-* Encourage research funders to diversify the portfolio of what is considered as a research output for assessment purposes. 
+  * Develop sustainable, national roadmaps for Open Scholarship.
 
-    * Wider adoption of preprint and OA policies similar to those at the NIH and Wellcome Trust.
+* Encourage research funders to diversify the portfolio of what is considered as a 'research output' for assessment purposes. 
+
+  * Wider adoption of preprint and Open Access policies similar to those at the NIH (USA) and Wellcome Trust (UK).
 
 * A reduction of article-processing charges (APCs) in hybrid titles to match the market average for OA-only journals.
 
-    * The scholarly publishing market might require a detailed government-level investigation in order to stabilise this.
+  * The scholarly publishing market might require a detailed government-level investigation in order to stabilise this.
 
-* Mandating ORCID for researchers across all research outputs to help assist in the identification of authors across the entire research literature, and easier research discoverability.
+* Mandating [ORCID](http://orcid.org/) for researchers across all research outputs to help assist in the persistent identification of authors across the entire research literature, and easier research discoverability.
 
-* Where subscriptions have not yet expired, mandating offsetting agreements for hybrid titles in order to reduce double-dipping. 
+* Where subscriptions have not yet expired, mandating offsetting agreements for hybrid journal titles in order to reduce double-dipping. 
 
-    * Where offsetting deals are in place, these can be streamlined and standardised across sectors to reduce administrative burden.
+  * Where offsetting deals are in place, these can be streamlined and standardised across sectors to reduce administrative burden.
 
-* For scholarly publishers to engage with the new UK Scholarly Communications License (SCL). This would reduce the time spent on embargo processing, the cost spent on hybrid APCs, and for researchers in the UK, help them to comply with the RCUK open access policy (NOTE:  UKSCL.). 
+* For scholarly publishers to engage with the new [UK Scholarly Communications License](http://ukscl.ac.uk/) that enables authors to retain more of their rights. This would reduce the time spent on embargo processing, the cost spent on hybrid APCs, and for researchers in the UK, help them to comply with the [UKRI Open Access policy](https://www.ukri.org/funding/information-for-award-holders/open-access/open-access-policy/). 
 
-    * For those outside of the UK to consider extending the UK SCL (or relevant variations of it) towards other regional funding strategies.
+  * For those outside of the UK to consider extending the UK SCL (or relevant variations of it) towards other regional funding and licensing strategies.
 
-* Sector-wide adoption of no-questions-asked fee waiver policies for researchers from lower to middle income countries.
+* Sector-wide adoption of no-questions-asked fee waiver policies for researchers from lower- to middle-income countries, or those with a demonstable financial need.
 
-* To transform the majority of scholarly journals from subscription to OA publishing in accordance with community-specific publication preferences. (NOTE:  Converting scholarly journals to Open Access: A review of approaches and experiences.)
+* To [transform](https://dash.harvard.edu/handle/1/27803834) (or 'flip') the majority of scholarly journals from subscription to Open Access publishing in accordance with community-specific publication preferences.
 
-* To invite universities, research institutions, funders, libraries, and publishers to collaborate on a transition to open practices for the benefit of scholarship and society at large. (NOTE:  Open Access policies and Science Europe: State of play.)
+* To invite all [relevant stakeholders](https://content.iospress.com/articles/information-services-and-use/isu839), including universities, research institutions, learned societies, funders, libraries, and publishers, to collaborate on a transition to open research practices for the benefit of scholarship and society at large.
 
-1. Create showcases / highlights / good practices of Open Practices on national open scholarship / open science website together with relevant information and resources.
+* Create showcases/highlights/good practices of Open Scholarship practices on national websites or portals, together with relevant information and resources.
+
+  * Encourage the formalisation of Open Science Training Courses, such as that offered by [FOSTER](https://www.fosteropenscience.eu/toolkit), in graduate school training programs (and further).
+
+* Encourage and adopt the principles for fairer research assessment outlined in DORA. Make sure that those in charge of research assessment, including hiring, tenure, and grant-awarding committees adhere to these.
+
 
 
 ## 2.2 Mid-term strategy (2-5 years) <a name="Middle"></a>
@@ -226,9 +244,9 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 * Implement opt-out automatization of manuscript handling/single-click submission to an open repository under default open licenses.
 
-  * Implement opt-out automatization of data deposition under default open licenses.
+ * Implement opt-out automatization of data deposition under default open licenses.
 
-  * Implement opt-out automatization of code accessibility and version control under default open licenses.
+ * Implement opt-out automatization of code accessibility and version control under default open licenses.
 
 * To convert resources currently spent on journal subscriptions into funds supporting sustainable OA business models and scholarly infrastructure.
 
@@ -242,7 +260,7 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 * For any remaining hybrid journals that attain a higher proportion of open access over subscription articles, encourage them to ‘flip’ them to pure open access with an APC that reflects the running costs of the journal.
 
-  * For remaining hybrid journals that have not attained this level, refuse to support publication of OA articles in those venues.
+ * For remaining hybrid journals that have not attained this level, refuse to support publication of OA articles in those venues.
 
 * Increase funding for outreach, especially to underrepresented minorities.
 
@@ -286,13 +304,13 @@ Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018
 
 # 3. What is Open Scholarship? <a name="What_is"></a>
 
-For more than two decades, the movement for Open Scholarship has evolved from a collection of small, localized efforts to a broad international network of institutions, organizations, governments, practitioners, advocates, and funders. While significant progress has been made on both expanding the understanding and practice of Open Scholarship (e.g., [Peters et al., 2012](https://www.routledge.com/Virtues-of-Openness-Education-Science-and-Scholarship-in-the-Digital/Peters-Roberts/p/book/9781594516863)) [Friesike et al.](https://link.springer.com/article/10.1007/s10961-014-9375-6)[, 2015](https://link.springer.com/article/10.1007/s10961-014-9375-6); [Munaf](https://www.nature.com/articles/s41562-016-0021)[ò et al., 2017](https://www.nature.com/articles/s41562-016-0021)), Open Scholarship practices and values are not yet the norm in most disciplines and adoption is spread unevenly around the world (NOTE: The Knowledge Gap:  Knowledge, power and inequality in Open Science policies, accessed November 2017.). In this document we consider the term "Open Scholarship" to broadly refer to the process, communication, and re-use of research as practiced in any scholarly research discipline, and its inclusion and role within wider society.
+For more than two decades, the movement for Open Scholarship has evolved from a collection of small, localized efforts to a broad international network of institutions, organizations, governments, practitioners, advocates, and funders. While significant progress has been made on both expanding the understanding and practice of Open Scholarship (e.g., [Peters et al., 2012](https://www.routledge.com/Virtues-of-Openness-Education-Science-and-Scholarship-in-the-Digital/Peters-Roberts/p/book/9781594516863)) [Friesike et al.](https://link.springer.com/article/10.1007/s10961-014-9375-6)[, 2015](https://link.springer.com/article/10.1007/s10961-014-9375-6); [Munaf](https://www.nature.com/articles/s41562-016-0021)[ò et al., 2017](https://www.nature.com/articles/s41562-016-0021)), Open Scholarship practices and values are not yet the norm in most disciplines and adoption is spread unevenly around the world (NOTE: The Knowledge Gap: Knowledge, power and inequality in Open Science policies, accessed November 2017.). In this document we consider the term "Open Scholarship" to broadly refer to the process, communication, and re-use of research as practiced in any scholarly research discipline, and its inclusion and role within wider society.
 
 The goals and broader vision for Open Scholarship are outlined in foundational documents including the [Budapest Open Access Initiative](http://www.budapestopenaccessinitiative.org/), The [Open Archives Initiative](https://www.openarchives.org/), [Vienna Principles](http://viennaprinciples.org/), [Scholarly Commons principles](https://www.force11.org/scholarly-commons/principles), and The [Panton Principles](https://en.wikipedia.org/wiki/Panton_Principles). Through time, there have been dozens of [declarations](http://oad.simmons.edu/oadwiki/Declarations_in_support_of_OA), [charters](https://docs.google.com/spreadsheets/d/1-aRXFiRg-VL9hpLpxoJqX6-OC-A0R2oCogHfIx52Nug/edit#gid=956616118), and statements about the priorities of Open Scholarship. The result of this is that there are now numerous competing, parallel, or overlapping definitions of what Open Scholarship comprises in terms of both research principles and practice, which aim to encapsulate the movement towards fostering scientific growth alongside public access. Herein, we consider Open Scholarship to be analogous to a ‘boundary object’, in that it is flexibly adaptive, interpreted differently across communities but with enough immutable content to maintain integrity. 
 
 We find [Fecher and Friesike (2013)](https://link.springer.com/chapter/10.1007%2F978-3-319-00026-8_2)’s five "schools of thought" to be particularly useful in framing this strategy: Infrastructure, Measurement, Public, Democratic and Pragmatic. Furthermore, we extend this to suggest a sixth school of Community and Inclusion. The OCSD (Open and Collaborative Science in Development) Network has an [Open Science Manifesto](https://ocsdnet.org/manifesto/open-science-manifesto/) for a more inclusive Open Science for social and environmental well-being that is also highly useful in framing for this strategy.
 
-These previous works have been, and remain to be, crucial for building a central identity for the global Open Scholarship community, communicating the case for Open Scholarship to wider society, and providing a basis to push the global movement forward. To realize the full potential and vision of Open Scholarship, we believe that a document is needed that asks critical questions about the internal structure of Open Scholarship as a movement, and addresses strategic questions about how we, as a global movement, can identify concrete steps to achieving these goals. For those unfamiliar with the ‘language’ of Open Scholarship, we refer them to the Open Research Glossary, hosted by the Right to Research Coalition (NOTE:  Open Research Glossary, accessed November 2017.).
+These previous works have been, and remain to be, crucial for building a central identity for the global Open Scholarship community, communicating the case for Open Scholarship to wider society, and providing a basis to push the global movement forward. To realize the full potential and vision of Open Scholarship, we believe that a document is needed that asks critical questions about the internal structure of Open Scholarship as a movement, and addresses strategic questions about how we, as a global movement, can identify concrete steps to achieving these goals. For those unfamiliar with the ‘language’ of Open Scholarship, we refer them to the Open Research Glossary, hosted by the Right to Research Coalition (NOTE: Open Research Glossary, accessed November 2017.).
 
 ![Figure_3](images/image_2.png)
 
@@ -300,7 +318,7 @@ Fecher and Frieseke (2015)'s five schools of thought in Open Scholarship ([Sourc
 
 # 4. State of the Movement <a name="State"></a>
 
-A movement can be defined as "a group of people working together to advance their shared political, social, or artistic ideas." (NOTE:  Oxford Dictionary, accessed November 2017.) Open Scholarship supporters are enormously diverse, including non-academic citizens, activists, faculty and students at a range of academic or career levels as well as research institutes, publishers, librarians, policymakers, and NGOs. These community members come from countries around the globe and a range of socio-economic situations. As such, Open Scholarship has a range of different social, economic and cultural contexts. While this diversity is a strength for the Open Scholarship movement by bringing a wide variety of perspectives, experiences, capacities, and resources, it also presents challenges for setting strategic direction and building shared plans. 
+A movement can be defined as "a group of people working together to advance their shared political, social, or artistic ideas." (NOTE: Oxford Dictionary, accessed November 2017.) Open Scholarship supporters are enormously diverse, including non-academic citizens, activists, faculty and students at a range of academic or career levels as well as research institutes, publishers, librarians, policymakers, and NGOs. These community members come from countries around the globe and a range of socio-economic situations. As such, Open Scholarship has a range of different social, economic and cultural contexts. While this diversity is a strength for the Open Scholarship movement by bringing a wide variety of perspectives, experiences, capacities, and resources, it also presents challenges for setting strategic direction and building shared plans. 
 
 Perhaps the most widespread commonality between Open Scholarship stakeholders is the belief that increased adoption of Open Scholarship practices is a ‘good thing’, and that it would bring wider benefits to the research community, environment, global economies and society. Given this common value, we can identify the core challenges and opportunities in Open Scholarship to define strategies that can be adopted at different levels and by varying stakeholder groups. From this, we gain a collective sense of priority as to the sorts of definitive actions that can be taken to help the advancement of Open Scholarship.
 
@@ -318,7 +336,7 @@ Research practices and scholarly communications are constantly evolving. However
 
 ### 4.1.3 Definition as a ‘boundary object’
 
-Open Scholarship when performed (NOTE:  According to Bowker & Star (2000), scientific work is always composed of members of different communities of practice, and therefore the creation and management of boundary objects is a key process in developing and maintaining coherence across intersecting communities) as a boundary object ([Star, 1989](http://www.lchc.ucsd.edu/MCA/Mail/xmcamail.2012_08.dir/pdfMrgHgzULhA.pdf)) allows us to balance different categories and meanings across many communities of practice ([Star and Griesemer, 1989](http://www.lchc.ucsd.edu/MCA/Mail/xmcamail.2012_08.dir/pdfMrgHgzULhA.pdf)). Broadly, the core aspects of Open Scholarship can be divided into two major categories: practices and principles. For the former, this relates to aspects such as Open Access, Open Data, and Open Source. The core principles of Open Scholarship include participation, equality, transparency, cognitive justice (NOTE:  https://en.wikipedia.org/wiki/Cognitive_justice ), collaboration, sharing, equity, and inclusivity. Generally, it is agreed upon that the combination of these practices and principles will result in a better research process, all grouped under the broad heading of Open Scholarship.  Indeed, [Watson (2015)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0669-2) believes that these attributes are not exclusive to Open Scholarship, but should be key traits of good science in general. However, we acknowledge that Open Scholarship is not a simple construct to understand, and often has its own language. We fully acknowledge that such a barrier must be overcome in order to maximise participation and engagement with both the principles and the practices ([Masuzzo and Martens, 2017](https://peerj.com/preprints/2689/)).
+Open Scholarship when performed (NOTE: According to Bowker & Star (2000), scientific work is always composed of members of different communities of practice, and therefore the creation and management of boundary objects is a key process in developing and maintaining coherence across intersecting communities) as a boundary object ([Star, 1989](http://www.lchc.ucsd.edu/MCA/Mail/xmcamail.2012_08.dir/pdfMrgHgzULhA.pdf)) allows us to balance different categories and meanings across many communities of practice ([Star and Griesemer, 1989](http://www.lchc.ucsd.edu/MCA/Mail/xmcamail.2012_08.dir/pdfMrgHgzULhA.pdf)). Broadly, the core aspects of Open Scholarship can be divided into two major categories: practices and principles. For the former, this relates to aspects such as Open Access, Open Data, and Open Source. The core principles of Open Scholarship include participation, equality, transparency, cognitive justice (NOTE: https://en.wikipedia.org/wiki/Cognitive_justice ), collaboration, sharing, equity, and inclusivity. Generally, it is agreed upon that the combination of these practices and principles will result in a better research process, all grouped under the broad heading of Open Scholarship. Indeed, [Watson (2015)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0669-2) believes that these attributes are not exclusive to Open Scholarship, but should be key traits of good science in general. However, we acknowledge that Open Scholarship is not a simple construct to understand, and often has its own language. We fully acknowledge that such a barrier must be overcome in order to maximise participation and engagement with both the principles and the practices ([Masuzzo and Martens, 2017](https://peerj.com/preprints/2689/)).
 
 ![Figure_4](images/image_3.png)
 
@@ -346,9 +364,9 @@ As well as these shared commonalities, tensions also exist between the best way 
 
 ### 4.2.1 Geographic specificities
 
-* Hundreds of individual initiatives and organisations already exist to help provide and promote Open Access at different levels around the world (NOTE:  Open Access Directory, Advocacy Organizations for OA (accessed 24/11/2017).).
+* Hundreds of individual initiatives and organisations already exist to help provide and promote Open Access at different levels around the world (NOTE: Open Access Directory, Advocacy Organizations for OA (accessed 24/11/2017).).
 
-* Thousands of individual initiatives and organisations already exist to help provide and promote Open Education at different levels around the world (NOTE:  OER World Map (accessed 06/03/2018).).
+* Thousands of individual initiatives and organisations already exist to help provide and promote Open Education at different levels around the world (NOTE: OER World Map (accessed 06/03/2018).).
 
 * High costs associated with Open Access publishing actively discriminate against researchers from Low and Middle Income Countries (LMICs).
 
@@ -360,7 +378,7 @@ As well as these shared commonalities, tensions also exist between the best way 
 
 * Accounting for domain-specific issues. For example, accounting for variation in biological supplies from different laboratory companies is a significant issue in reproducibility for biological research. Open Access books are a major problem in the Humanities ([Eve, 2014](https://www.martineve.com/images/uploads/2014/11/Eve_2014_Open-Access-and-the-Humanities.pdf)), but less so in STEM, and are often sidelined as an issue as a result.
 
-* At the present there are few preprints from the pharmaceutical industry (NOTE:  https://openpharma.blog/2017/08/14/when-will-preprints-take-off-in-medicine/), and none covering primary clinical data. There are at present considerable barriers to preprints of industry work, including the possibility of material that has not yet been peer-reviewed being seen as promotional, and the possibility of readers changing clinical practice based on material that has not yet been peer-reviewed – however well labeled a preprint is.
+* At the present there are few preprints from the pharmaceutical industry (NOTE: https://openpharma.blog/2017/08/14/when-will-preprints-take-off-in-medicine/), and none covering primary clinical data. There are at present considerable barriers to preprints of industry work, including the possibility of material that has not yet been peer-reviewed being seen as promotional, and the possibility of readers changing clinical practice based on material that has not yet been peer-reviewed – however well labeled a preprint is.
 
 ### 4.2.3 Stakeholder specificities
 
@@ -380,7 +398,7 @@ There are varied opinions, and a lack of consensus, around what extent of Open S
 
 * Mainstreaming Open Scholarship so that it competes with traditional processes, in terms of reach, uptake, and incentivisation and reward.
 
-* Building a  significant number of education, training and support systems based on Open Scholarship skills development.
+* Building a significant number of education, training and support systems based on Open Scholarship skills development.
 
 * Replacing entire research workflows by Open Scholarship methodologies.
 
@@ -398,17 +416,17 @@ Believing that there is an unequal distribution of access to knowledge, Open Sch
 
 Importantly, democracy in Open Scholarship means not only equal access to knowledge, but also equal possibilities to contribute to knowledge and equal rights to participate in the world-wide community’s decisions that affect knowledge creation and distribution. The latter means that Open Scholarship is antithetical to closed power clubs which are limited to a small number of participants deciding for the whole international community, whether such closed clubs are supported by institutional/governmental funders or are bottom-up organisations (e.g., small groups of prestigious authors). Indeed, it is quite unlikely that more than 10 million scientists, highly educated and intelligent, would agree with some rules created for them by a small number of people (or even worse, by some groups with financial interest). A more likely scenario is that the new rules governing Open Scholarship will appear in the open debate, through many collective projects, just like collectively editing this manuscript. Several specific mechanisms have been proposed to realise democratic values in Open Scholarship in a decentralised way, blockchain mechanism being one of them [refs to be added, section to be extended -- VT].
 
-* Open Access publishing that allows not only free to read access but also free to reuse and free to distribute (NOTE:  Open Access (the book) - Peter Suber (bit.ly/oa-book)).
+* Open Access publishing that allows not only free to read access but also free to reuse and free to distribute (NOTE: Open Access (the book) - Peter Suber (bit.ly/oa-book)).
 
-    * One of the strongest arguments for Open Access is that publicly (or taxpayer) funded research should be accessible to the public. The increasing private sector funding of research is a difficult aspect to reconcile with this view at the present.
+  * One of the strongest arguments for Open Access is that publicly (or taxpayer) funded research should be accessible to the public. The increasing private sector funding of research is a difficult aspect to reconcile with this view at the present.
 
 * Open Licences, licensing, and rights waivers for copyright that are understandable by both humans and machines. Typically, this has been administered through some combination of Creative Commons and Open Source licensing.
 
-    * In working towards principles of Open Scholarship, we acknowledge that there is the potential for complexity, or even conflict in our objectives as policies and working practices evolve. Awareness of the broader research, industry and education landscape will help to position Open Scholarship to have the greatest possible impact, and to mitigate the potential of other policies and priorities to limit its potential. For example, copyright proposals in the EU that would limit who is permitted to undertake TDM (text and data mining), or policies promoting intellectual property (IP) and commercialisation should be balanced with policies that permit a wide range of uses of data, research, and knowledge.
+  * In working towards principles of Open Scholarship, we acknowledge that there is the potential for complexity, or even conflict in our objectives as policies and working practices evolve. Awareness of the broader research, industry and education landscape will help to position Open Scholarship to have the greatest possible impact, and to mitigate the potential of other policies and priorities to limit its potential. For example, copyright proposals in the EU that would limit who is permitted to undertake TDM (text and data mining), or policies promoting intellectual property (IP) and commercialisation should be balanced with policies that permit a wide range of uses of data, research, and knowledge.
 
 * Moving away from patenting
 
-    * One example of the open approach to patent management is "weak licensing - strong certification" - a situation especially easy to apply in medicine, where therapeutic devices or compounds are weakly licensed in terms of patents but the requirements for entering the market are set high from the regulator.
+  * One example of the open approach to patent management is "weak licensing - strong certification" - a situation especially easy to apply in medicine, where therapeutic devices or compounds are weakly licensed in terms of patents but the requirements for entering the market are set high from the regulator.
 
 * Recognising the value of open source and open scholarship in accelerating innovation and research discovery (e.g., [Woelfle et al., 2011](https://www.nature.com/articles/nchem.1149); [Balasegaram et al., 2017](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002276)).
 
@@ -420,13 +438,13 @@ Importantly, democracy in Open Scholarship means not only equal access to knowle
 
 * Research material repositories and the sharing of physical research outputs
 
-    * Research material sharing is critical for issues of reproducibility, reducing redundancy, and promoting open scientific collaboration. Issues were empirically examined by [Science Commons](http://sciencecommons.org/projects/licensing/empirical-data-about-materials-transfer/ ). 
+  * Research material sharing is critical for issues of reproducibility, reducing redundancy, and promoting open scientific collaboration. Issues were empirically examined by [Science Commons](http://sciencecommons.org/projects/licensing/empirical-data-about-materials-transfer/ ). 
 
-    * Sharing well curated and annotated materials within communities without restrictive licensing or complex material transfer agreements which slow scientific progress due to complex legal jargon or stringent terms and conditions
+  * Sharing well curated and annotated materials within communities without restrictive licensing or complex material transfer agreements which slow scientific progress due to complex legal jargon or stringent terms and conditions
 
-    * Streamlined Material Transfer Agreements (MTAs) and Open Scholarship Trust Agreements (OSTAs) - legal agreement templates which may be easily amended for any researcher, irrespective of discipline, at any institution to simply share almost all categories of research materials they generate in the course of their research allowing efficient, open and collaborative scientific practices. Principles described herein  "The core feature of trusts—holding property for the benefit of others—is well suited to constructing a research community that treats reagents as public goods." [Edwards et al (2017)](http://stm.sciencemag.org/content/9/392/eaai9055.full?ijkey=uMGKxsCEiOb5s&keytype=ref&siteid=scitransmed) 
+  * Streamlined Material Transfer Agreements (MTAs) and Open Scholarship Trust Agreements (OSTAs) - legal agreement templates which may be easily amended for any researcher, irrespective of discipline, at any institution to simply share almost all categories of research materials they generate in the course of their research allowing efficient, open and collaborative scientific practices. Principles described herein "The core feature of trusts—holding property for the benefit of others—is well suited to constructing a research community that treats reagents as public goods." [Edwards et al (2017)](http://stm.sciencemag.org/content/9/392/eaai9055.full?ijkey=uMGKxsCEiOb5s&keytype=ref&siteid=scitransmed) 
 
-    * E.g. OSTA template: [SGC](http://www.thesgc.org/click-trust) "click-trust" agreement  E.g. MTA (Material Transfer Agreement) templates through [Science Commons](http://sciencecommons.org/projects/licensing/) 
+  * E.g. OSTA template: [SGC](http://www.thesgc.org/click-trust) "click-trust" agreement E.g. MTA (Material Transfer Agreement) templates through [Science Commons](http://sciencecommons.org/projects/licensing/) 
 
 * OER (Open Educational Resources)
 
@@ -438,17 +456,17 @@ Following the principle that the creation of knowledge is made more efficient th
 
 * Reproducibility ([Leek and Peng, 2015](http://www.pnas.org/content/112/6/1645); [Patil et al., 2016](https://www.biorxiv.org/content/early/2016/07/29/066803))
 
-    * Crisis in medicine, psychology, economics, and sociology
+  * Crisis in medicine, psychology, economics, and sociology
 
-    * To generate the results in a research paper through data and code
+  * To generate the results in a research paper through data and code
 
 * Sustainability 
 
-    * Being able to durably test a paper's results over time, which would include data archiving and software longevity and versioning.
+  * Being able to durably test a paper's results over time, which would include data archiving and software longevity and versioning.
 
 * Replicability
 
-    * To obtain the similar conclusions from new experiments, observations, and analyses based on a previously published manuscript
+  * To obtain the similar conclusions from new experiments, observations, and analyses based on a previously published manuscript
 
 * Benefaction? (starting from and expanding someone workflow/codebase/tools, avoiding unnecessary duplication of technical task)
 
@@ -522,11 +540,11 @@ Motivated by the acknowledgement that traditional metrics for measuring scientif
 
 * Consider alternative metrics, including those explicitly designed to measure openness ([Nichols and Twidale, 2017](https://researchcommons.waikato.ac.nz/handle/10289/10842)) 
 
-    * See also the [Humane Metrics Initiative](http://humetricshss.org/about/) and the [Metrics Toolkit](http://www.metrics-toolkit.org/).
+  * See also the [Humane Metrics Initiative](http://humetricshss.org/about/) and the [Metrics Toolkit](http://www.metrics-toolkit.org/).
 
-    * Pre-registrations
+  * Pre-registrations
 
-    * Registered Reports
+  * Registered Reports
 
 * Science-based assessment: experimentation before implementation of any metric
 
@@ -538,31 +556,31 @@ Motivated by the acknowledgement that scholarship requires all voices to be hear
 
 * Diversity and inclusion
 
-    * Definition
+  * Definition
 
-    * Build awareness
+  * Build awareness
 
-    * Develop tools and techniques to fix existing issues
+  * Develop tools and techniques to fix existing issues
 
-    * Create and disseminate research resources
+  * Create and disseminate research resources
 
 * Community cohesion and messaging
 
-    * Develop practice standards
+  * Develop practice standards
 
-    * Create educational curriculum for practitioners
+  * Create educational curriculum for practitioners
 
-    * Public goods and public funding
+  * Public goods and public funding
 
-    * Collaborate with other related or overlapping communities, including Open Scholarship Hardware, Open Source Software on common areas of interest 
+  * Collaborate with other related or overlapping communities, including Open Scholarship Hardware, Open Source Software on common areas of interest 
 
 * Community science (also known as Citizen Science)
 
-    * Tackling megaprojects
+  * Tackling megaprojects
 
-    * Spill-over effects to and from education
+  * Spill-over effects to and from education
 
-    * Strengthen ability to participate intellectually, donate computing power, biological samples or other resources, including money (crowdfunded research)
+  * Strengthen ability to participate intellectually, donate computing power, biological samples or other resources, including money (crowdfunded research)
 
 # 6. Movement Strengths <a name="Strengths"></a>
 
@@ -570,23 +588,23 @@ Motivated by the acknowledgement that scholarship requires all voices to be hear
 
 * Diverse participation of passionate individuals
 
-    * Significant successes in Open Scholarship are often attributed to passionate, persevering champions, particularly in the policy and advocacy/adoption arenas. These individuals demonstrate a great capacity to achieve substantial changes, and create strong influences, almost single-handedly. As an asset to the movement, they become especially important when their experiences and knowledge can be shared and multiplied, through building of collaborations, networks and communities, and mentorship models.
+  * Significant successes in Open Scholarship are often attributed to passionate, persevering champions, particularly in the policy and advocacy/adoption arenas. These individuals demonstrate a great capacity to achieve substantial changes, and create strong influences, almost single-handedly. As an asset to the movement, they become especially important when their experiences and knowledge can be shared and multiplied, through building of collaborations, networks and communities, and mentorship models.
 
 * Concurrent movements like open access, Open Scholarship, open data, open hardware, open source software etc. based on similar principles
 
 * Strength of research and evidence supporting Open Scholarship practices (e.g., [McKiernan et al., 2016](https://elifesciences.org/articles/16800)).
 
-    * Key projects, groups, and scholars have been conducting research into various aspects of Open Scholarship and its impacts, finding them to be almost overwhelmingly positive. As the movement grows, the evidence base, and the depth of critical analysis continues to develop.
+  * Key projects, groups, and scholars have been conducting research into various aspects of Open Scholarship and its impacts, finding them to be almost overwhelmingly positive. As the movement grows, the evidence base, and the depth of critical analysis continues to develop.
 
 * Breadth of creativity in coming up with technical and sociotechnical solutions.
 
-    * For example, green and gold routes to Open Access. The former relates to self-archiving, and the latter to publishing in an Open Access journal. While some variations exist, these models generally transcend geographical, institutional, or sectoral variations.
+  * For example, green and gold routes to Open Access. The former relates to self-archiving, and the latter to publishing in an Open Access journal. While some variations exist, these models generally transcend geographical, institutional, or sectoral variations.
 
-    * The growth and adoption of preprints as a method of getting research out sooner and more transparently
+  * The growth and adoption of preprints as a method of getting research out sooner and more transparently
 
 * Availability of many charters and declarations offering (internally) consistent sets of goals and actions that are result of a lot of thinking and discussing
 
-* Strong push to develop policy models: Dynamic, broad and cohesive top-down (policy initiatives from funders, governments, institutions) and bottom-up (grassroots) approaches. It remains important that the imperative and agenda for Open Scholarship remains recognised at the highest political levels. The UK House of Commons Science and Technology Committee into research integrity is an excellent example of this (NOTE:  Research integrity examined with experts and academics (https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/news-parliament-2017/research-integrity3-evidence-17-19/ - accessed December, 2017).). 
+* Strong push to develop policy models: Dynamic, broad and cohesive top-down (policy initiatives from funders, governments, institutions) and bottom-up (grassroots) approaches. It remains important that the imperative and agenda for Open Scholarship remains recognised at the highest political levels. The UK House of Commons Science and Technology Committee into research integrity is an excellent example of this (NOTE: Research integrity examined with experts and academics (https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/news-parliament-2017/research-integrity3-evidence-17-19/ - accessed December, 2017).). 
 
 * Diversity of goals enables progress on many fronts simultaneously.
 
@@ -594,13 +612,13 @@ Motivated by the acknowledgement that scholarship requires all voices to be hear
 
 * Geographical heterogeneity and variably successful initiatives (e.g., SciELO in Latin America).
 
-    * Open Scholarship has been recognised by key international organisations active in research and education, and has strong support from institutes around the world.
+  * Open Scholarship has been recognised by key international organisations active in research and education, and has strong support from institutes around the world.
 
 * Uptake (albeit spotty) from influential research institutions.
 
 * Growing ties with the Open Movement.
 
-    * Open Scholarship activism as part of a broader open movement is benefitting from cross-collaborations with advocates of open data, open access, open education, open government, open source, and open culture. For example, now Open Scholarship is seen as a gateway to open education, but has policies strengthened by experiences from the open source movement.
+  * Open Scholarship activism as part of a broader open movement is benefitting from cross-collaborations with advocates of open data, open access, open education, open government, open source, and open culture. For example, now Open Scholarship is seen as a gateway to open education, but has policies strengthened by experiences from the open source movement.
 
 # 7. Movement Challenges <a name="Challenges"></a>
 
@@ -615,7 +633,7 @@ These challenges represent potential focal points of future discussion, research
 
 * Researcher awareness and apathy
 
-    * Awareness of Open Scholarship is still very low. This is true in the understanding that Open Scholarship exists as a way of increasing standard research workflow efficiency (not as a direct alternative), and the benefits of doing so. It is also strange that many researchers appear to adopt Open Scholarship practices (e.g., data sharing, Open Access publishing), but just do not equate this with the term ‘Open Scholarship’. Even where awareness levels are high, this does not necessarily translate into adoption, often due to a lack of information, sufficient incentives and motivation, or general disinterest.
+  * Awareness of Open Scholarship is still very low. This is true in the understanding that Open Scholarship exists as a way of increasing standard research workflow efficiency (not as a direct alternative), and the benefits of doing so. It is also strange that many researchers appear to adopt Open Scholarship practices (e.g., data sharing, Open Access publishing), but just do not equate this with the term ‘Open Scholarship’. Even where awareness levels are high, this does not necessarily translate into adoption, often due to a lack of information, sufficient incentives and motivation, or general disinterest.
 
 * That researchers might adopt open scholarship practices based on pragmatic reasons, but don’t use the label or identify it as open scholarship, or that they are open scholars.
 
@@ -635,7 +653,7 @@ These challenges represent potential focal points of future discussion, research
 
 * Overcoming the misconception that Open Scholarship is anti-commercial/demonstrating return on investment (e.g., [Balasegaram et al., 2017](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002276); [Hakoum et al., 2017](http://bmjopen.bmj.com/content/7/10/e015997)).
 
-* Resolving frictions between a scholarly commons model for research, and its operation within a capitalistic model (NOTE:  https://danielskatzblog.wordpress.com/2016/10/25/clash-of-cultures-why-all-science-isnt-open-science/). 
+* Resolving frictions between a scholarly commons model for research, and its operation within a capitalistic model (NOTE: https://danielskatzblog.wordpress.com/2016/10/25/clash-of-cultures-why-all-science-isnt-open-science/). 
 
 * Seek development of alternative business models, such as the Open Library of Humanities ([Eve and Edwards, 2015](http://doi.org/10.16995/olh.46))
 
@@ -655,7 +673,7 @@ These challenges represent potential focal points of future discussion, research
 
 * Rate of growth
 
-    * All current evidence indicates that Open Scholarship momentum is building, in terms of more widespread understanding of issues and adoption of practices (e.g., in terms of number of institutional Open Access policies (NOTE:  ROARMAP)). But such diffusion is often slow and granular, and beset by frictions. Further experimentation should be encouraged to demonstrate the applicability of larger-scale adoption of practices and to increase the rate of growth, and ultimate impact, of Open Scholarship.
+  * All current evidence indicates that Open Scholarship momentum is building, in terms of more widespread understanding of issues and adoption of practices (e.g., in terms of number of institutional Open Access policies (NOTE: ROARMAP)). But such diffusion is often slow and granular, and beset by frictions. Further experimentation should be encouraged to demonstrate the applicability of larger-scale adoption of practices and to increase the rate of growth, and ultimate impact, of Open Scholarship.
 
 * Avoiding quarreling about details, not realizing amount of agreement on the main issues.
 
@@ -663,15 +681,15 @@ These challenges represent potential focal points of future discussion, research
 
 * Lack of patience among Open Scholarship proponents.
 
-    * We fully recognise the burdens and pressures that researchers already have, in maintaining high productivity levels, funding applications, administration, teaching, and other duties. This means that often, Open Scholarship, is not highly prioritised, as the current reward system is still highly focussed on publication of novel results in high impact journals, which can stifle the rate of growth. Open Scholarship proponents need to be patient and understand this burden.
+  * We fully recognise the burdens and pressures that researchers already have, in maintaining high productivity levels, funding applications, administration, teaching, and other duties. This means that often, Open Scholarship, is not highly prioritised, as the current reward system is still highly focussed on publication of novel results in high impact journals, which can stifle the rate of growth. Open Scholarship proponents need to be patient and understand this burden.
 
 * Seeing how diverse initiatives working at different speeds in different communities can still reinforce each other in working towards the same broad goals.
 
-    * Researchers do not necessarily need to be ‘open activists’. However, they should be aware of the functions of the wider scholarly communication system, and the diverse range of processes and norms that are involved in this.
+  * Researchers do not necessarily need to be ‘open activists’. However, they should be aware of the functions of the wider scholarly communication system, and the diverse range of processes and norms that are involved in this.
 
 * Dealing with (lack of) diversity, bias of English speaking communities
 
-    * Related - need to recognise that not all strategies fit all regions - allow for flexibility - make sure that other regions are not negatively impacted by decisions taken by other groups
+  * Related - need to recognise that not all strategies fit all regions - allow for flexibility - make sure that other regions are not negatively impacted by decisions taken by other groups
 
 # 8. Opportunities <a name="Opportunities"></a>
 
@@ -685,35 +703,35 @@ These challenges represent potential focal points of future discussion, research
 
 * Continuing barriers to Open Access (OA): embargoes, continued transferal of copyright, lack of article-processing charge (APC) funding, wide application of high and unsustainable APCs (+ lack of knowledge in negotiating these difficulties), continuing perceptions of lack of prestige for many OA journals, 
 
-    * Publisher embargo rules are currently complex, confusing, and time-consuming and expensive to navigate and comply with. They are also often lacking in evidence to support, and in direct conflict with funder policies on self-archiving.
+  * Publisher embargo rules are currently complex, confusing, and time-consuming and expensive to navigate and comply with. They are also often lacking in evidence to support, and in direct conflict with funder policies on self-archiving.
 
-    * OA: If APC model becomes universal (esp. If publishers are allowed to dictate costs), Global South lose publishing options, current journal ecosystem could be carried over (w/ flaws which incentivise bad research and all), just with author-pays OA and no reduction in costs
+  * OA: If APC model becomes universal (esp. If publishers are allowed to dictate costs), Global South lose publishing options, current journal ecosystem could be carried over (w/ flaws which incentivise bad research and all), just with author-pays OA and no reduction in costs
 
-    * OA: Still no widely agreed large-scale solution for issue of OA for books.
+  * OA: Still no widely agreed large-scale solution for issue of OA for books.
 
-    * Offsetting deals.
+  * Offsetting deals.
 
-    * Note that around 70% of journals indexed in the DOAJ do not charge article processing charges (NOTE:  https://sustainingknowledgecommons.org/2018/02/06/doaj-apc-information-as-of-jan-31-2018/).
+  * Note that around 70% of journals indexed in the DOAJ do not charge article processing charges (NOTE: https://sustainingknowledgecommons.org/2018/02/06/doaj-apc-information-as-of-jan-31-2018/).
 
 * Barriers to data sharing: 
 
-    * lack of skills & awareness of best practice, 
+  * lack of skills & awareness of best practice, 
 
-    * lack of agreement on how Research Data Management (RDM) activities should be funded, 
+  * lack of agreement on how Research Data Management (RDM) activities should be funded, 
 
-    * licensing issues (& lack of awareness), 
+  * licensing issues (& lack of awareness), 
 
-    * lack of infrastructure to support good RDM throughout research lifecycle
+  * lack of infrastructure to support good RDM throughout research lifecycle
 
-    * Neglect to explicitly grant reuse rights in data, so they inherit poor reuse right from publications (see my comment above, and an example of an "open access" journal that has a no derivatives clause that disallows data reuse in any meaningful way. "You can see the knowledge for free, but you can't use it."
+  * Neglect to explicitly grant reuse rights in data, so they inherit poor reuse right from publications (see my comment above, and an example of an "open access" journal that has a no derivatives clause that disallows data reuse in any meaningful way. "You can see the knowledge for free, but you can't use it."
 
-    * A lack of suitable incentives creating fear from traditionally-embedded mentality and practices; for instance that sharing data reduces one's competitiveness (e.g. "someone will use my data in the 'wrong' way," or "I need to get 5 more publications out of this data""). 
+  * A lack of suitable incentives creating fear from traditionally-embedded mentality and practices; for instance that sharing data reduces one's competitiveness (e.g. "someone will use my data in the 'wrong' way," or "I need to get 5 more publications out of this data""). 
 
 * Incentives must change to facilitate cultural change. 
 
-    * Continued reliance on non-transparent, non-reproducible metrics information from commercial providers will be detrimental to scholarship.
+  * Continued reliance on non-transparent, non-reproducible metrics information from commercial providers will be detrimental to scholarship.
 
-    * New metrics must be designed to create incentives to influence researcher behaviour, preferably based around openness.
+  * New metrics must be designed to create incentives to influence researcher behaviour, preferably based around openness.
 
 * Big publishers - Elsevier & Holzbrinck (via Digital Science) seem to be developing services for across research workflow - definite threat that they will start trying to bundle these services for institutions via "big deals" - so that institutions get locked into using sub-optimal services for some things in order to have access to services they consider vital (i.e., same strategy used in bundling journals) ([Moody 2017](https://www.techdirt.com/articles/20170804/05454537924/elsevier-continues-to-build-monopoly-solution-all-aspects-scholarly-communication.shtml); [Posada and Chen 2017](http://knowledgegap.org/index.php/sub-projects/rent-seeking-and-financialization-of-the-academic-publishing-industry/preliminary-findings/); [Schonfeld 2017](http://www.sr.ithaka.org/blog/the-center-for-open-science-alternative-to-elsevier-announces-new-preprint-services-today/)) - this would lead to new inefficiencies, lock-in, price bloat
 
@@ -721,7 +739,7 @@ These challenges represent potential focal points of future discussion, research
 
 * Overall: need to harmonise policy landscape to simplify compliance for researchers 
 
-    * need to avoid license proliferation, with many one-off licences that may not be mutually compatible, and require too much work to interpret. Open source "solved" this with OSI-approved licenses, and MIT/BSD/GPL emerged as most common licenses with clearly understood mutual compatibility. Need equivalent for data licenses (I would propose something closer to CC BY.) 
+  * need to avoid license proliferation, with many one-off licences that may not be mutually compatible, and require too much work to interpret. Open source "solved" this with OSI-approved licenses, and MIT/BSD/GPL emerged as most common licenses with clearly understood mutual compatibility. Need equivalent for data licenses (I would propose something closer to CC BY.) 
 
 * Continuing gap between positive attitudes to most aspects of openness & actual practice - how to close this?
 
@@ -736,69 +754,69 @@ As noted earlier in this document, Open Scholarship is characterized by "numerou
 
 Top-down policies impose rules, regulations, and guidelines upon the scientific research community via mechanisms including government policies, grant funding requirements, institutional mandates, and … 
 
-    * Top-down
+  * Top-down
 
-        * Governments: Legislation, Directives, etc.
+    * Governments: Legislation, Directives, etc.
 
-            * Africa
+      * Africa
 
-            * Antarctica
+      * Antarctica
 
-            * Asia
+      * Asia
 
-            * Australia
+      * Australia
 
-            * Europe
+      * Europe
 
-                * EU Horizon 2020 is one of the most notable government initiatives involving Open Scholarship policies. For example, the Responsible Research and Innovation (RRI) component of the Work Programme "Science with and for Society" makes open education, research, and access explicit targets of EU policy. 
+        * EU Horizon 2020 is one of the most notable government initiatives involving Open Scholarship policies. For example, the Responsible Research and Innovation (RRI) component of the Work Programme "Science with and for Society" makes open education, research, and access explicit targets of EU policy. 
 
-                * EU Statement on Making All Research Open by 2020; Horizon 2020; 
+        * EU Statement on Making All Research Open by 2020; Horizon 2020; 
 
-            * North America
+      * North America
 
-                * USA (perhaps break down federal vs. state)
+        * USA (perhaps break down federal vs. state)
 
-                    * FASTR Act; OPEN Government Data Act; Federal Source Code Policy ([https://sourcecode.cio.gov](https://sourcecode.cio.gov/)); Affordable College Textbook Act; U.S. National Cancer Moonshot Initiative; Dept of Ed Open Licensing Rule; Executive Directive on Public Access; California Taxpayer Access to Publicly Funded Research Act; Illinois Open Access to Articles Act
+          * FASTR Act; OPEN Government Data Act; Federal Source Code Policy ([https://sourcecode.cio.gov](https://sourcecode.cio.gov/)); Affordable College Textbook Act; U.S. National Cancer Moonshot Initiative; Dept of Ed Open Licensing Rule; Executive Directive on Public Access; California Taxpayer Access to Publicly Funded Research Act; Illinois Open Access to Articles Act
 
-            * South America
+      * South America
 
-        * Funders 
+    * Funders 
 
-            * *[Open Research Funders Grou*p](http://www.orfg.org)
+      * *[Open Research Funders Grou*p](http://www.orfg.org)
 
-            * Public
+      * Public
 
-                * US NIH Public Access Policy;
+        * US NIH Public Access Policy;
 
-            * Private
+      * Private
 
-                * Bill and Melinda Gates Foundation
+        * Bill and Melinda Gates Foundation
 
-                * The Wellcome Trust ([https://wellcome.ac.uk/news/our-new-policy-sharing-research-data-what-it-means-you](https://wellcome.ac.uk/news/our-new-policy-sharing-research-data-what-it-means-you))
+        * The Wellcome Trust ([https://wellcome.ac.uk/news/our-new-policy-sharing-research-data-what-it-means-you](https://wellcome.ac.uk/news/our-new-policy-sharing-research-data-what-it-means-you))
 
-        * Industry
+    * Industry
 
-        * Institutions
+    * Institutions
 
-        * Subject policies (?)
+    * Subject policies (?)
 
-        * Resources:
+    * Resources:
 
-            * [Registry of Open Access Repository Mandates and Policies (ROARMAP)](http://roarmap.eprints.org/)
+      * [Registry of Open Access Repository Mandates and Policies (ROARMAP)](http://roarmap.eprints.org/)
 
-            * [SHERPA/JULIET](http://www.sherpa.ac.uk/juliet/index.php?la=en&mode=simple&page=browse)
+      * [SHERPA/JULIET](http://www.sherpa.ac.uk/juliet/index.php?la=en&mode=simple&page=browse)
 
-            * [SPARC Article and Data Sharing Policies](http://researchsharing.sparcopen.org/)
+      * [SPARC Article and Data Sharing Policies](http://researchsharing.sparcopen.org/)
 
 One issue with top-down policies is that bodies such as governments and funders demand researchers to comply with rules about data sharing, open code, and the like, yet do not always provide the resources or structures necessary for compliant behavior.
 
 Bottom-up policies weave together best-practices from existing scientific research communities and, compared to top-down approaches, are more often voluntary than mandatory. 
 
-        * Open source/science projects
+    * Open source/science projects
 
-        * Community efforts/community (citizen) science
+    * Community efforts/community (citizen) science
 
-    * (Mis)alignment between top-down and bottom-up approaches
+  * (Mis)alignment between top-down and bottom-up approaches
 
 	Evaluating the degree of alignment between top-down and bottom-up policies might help to illustrate how both approaches can better accommodate and promote Open Scholarship. 
 
