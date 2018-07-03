@@ -73,11 +73,11 @@ We also note that this strategy can only be based on information which we as a c
 
 * Establish support structures (e.g., openLab, walk-in labs, makerspaces in the wider sense) that help to guide other individuals along the path to Open Scholarship. This can include questions of how to publish, teach, learn and do research in the open, and what tools are available to use.
 
-![Figure_1](https://github.com/Open-Scholarship-Strategy/site/blob/master/image_0.png)
+![Figure_1](images/image_0.png)
 
-Kramer, Bianca, & Bosman, Jeroen. (2018, January). Rainbow of open science practices. Zenodo. [http://doi.org/10.5281/zenodo.1147025](http://doi.org/10.5281/zenodo.1147025)
+Kramer, Bianca, & Bosman, Jeroen. (2018, January). Rainbow of open science practices. Zenodo. [http://doi.org/10.5281/zenodo.1147025](http://doi.org/10.5281/zenodo.1147025).
 
-![Figure_2](https://github.com/Open-Scholarship-Strategy/site/blob/master/image_1.png)
+![Figure_2](images/image_1.png)
 
 Steiner, Tobias. Open Educational Practice (OEP): collection of scenarios. (2018, February). Zenodo. [https://zenodo.org/record/1183806](https://zenodo.org/record/1183806)
 
@@ -294,7 +294,7 @@ We find [Fecher and Friesike (2013)](https://link.springer.com/chapter/10.1007%2
 
 These previous works have been, and remain to be, crucial for building a central identity for the global Open Scholarship community, communicating the case for Open Scholarship to wider society, and providing a basis to push the global movement forward. To realize the full potential and vision of Open Scholarship, we believe that a document is needed that asks critical questions about the internal structure of Open Scholarship as a movement, and addresses strategic questions about how we, as a global movement, can identify concrete steps to achieving these goals. For those unfamiliar with the ‘language’ of Open Scholarship, we refer them to the Open Research Glossary, hosted by the Right to Research Coalition (NOTE:  Open Research Glossary, accessed November 2017.).
 
-![Figure_3](https://github.com/Open-Scholarship-Strategy/site/blob/master/image_2.png)
+![Figure_3](images/image_2.png)
 
 Fecher and Frieseke (2015)'s five schools of thought in Open Scholarship ([Source](https://www.fosteropenscience.eu/content/what-open-science-introduction)).
 
@@ -320,7 +320,7 @@ Research practices and scholarly communications are constantly evolving. However
 
 Open Scholarship when performed (NOTE:  According to Bowker & Star (2000), scientific work is always composed of members of different communities of practice, and therefore the creation and management of boundary objects is a key process in developing and maintaining coherence across intersecting communities) as a boundary object ([Star, 1989](http://www.lchc.ucsd.edu/MCA/Mail/xmcamail.2012_08.dir/pdfMrgHgzULhA.pdf)) allows us to balance different categories and meanings across many communities of practice ([Star and Griesemer, 1989](http://www.lchc.ucsd.edu/MCA/Mail/xmcamail.2012_08.dir/pdfMrgHgzULhA.pdf)). Broadly, the core aspects of Open Scholarship can be divided into two major categories: practices and principles. For the former, this relates to aspects such as Open Access, Open Data, and Open Source. The core principles of Open Scholarship include participation, equality, transparency, cognitive justice (NOTE:  https://en.wikipedia.org/wiki/Cognitive_justice ), collaboration, sharing, equity, and inclusivity. Generally, it is agreed upon that the combination of these practices and principles will result in a better research process, all grouped under the broad heading of Open Scholarship.  Indeed, [Watson (2015)](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0669-2) believes that these attributes are not exclusive to Open Scholarship, but should be key traits of good science in general. However, we acknowledge that Open Scholarship is not a simple construct to understand, and often has its own language. We fully acknowledge that such a barrier must be overcome in order to maximise participation and engagement with both the principles and the practices ([Masuzzo and Martens, 2017](https://peerj.com/preprints/2689/)).
 
-![Figure_4](https://github.com/Open-Scholarship-Strategy/site/blob/master/image_3.png)
+![Figure_4](images/image_3.png)
 
 Principles of Open Scholarship, by Tony Ross-Hellauer ([Source](https://www.slideshare.net/OpenAIRE_eu/peer-review-in-the-age-of-open-science), CC BY).
 
@@ -336,7 +336,7 @@ Four major elements exist as preconditions to Open Scholarship adoption:
 
 4. Incentives: Motivations to engage with the practices.
 
-![Figure_5](https://github.com/Open-Scholarship-Strategy/site/blob/master/image_4.png)
+![Figure_5](images/image_4.png)
 
 Adapted from the [Foster Open Scholarship Taxonomy](https://www.fosteropenscience.eu/taxonomy/term/102) (CC BY 4.0). Please note that this is a non-exhaustive taxonomy of all possible aspects of ‘Open Science’.
 
