@@ -582,29 +582,37 @@ Additional key aspects include:
 
 ## 5.3 Infrastructure <a name="Infrastructure"></a>
 
-Achieving the full benefits of Open Scholarship requires platforms, tools and services for dissemination and collaboration. Such infrastructure can be built with current off-shelf technologies and at a much lower cost than traditional publishing methods. Presently, there is a general lack of funding and support for critical existing aspects of open scholarly infrastructure. Examples of these include the DOAJ, arXiv, the Open Scholarship Foundation, Sherpa/RoMEO, ORCID, the Open Scholarship Framework, Public Knowledge Project, [add more], which offer crucial services to a range of stakeholders. Without sustainable funding sources, these services remain vulnerable to either collapse, or being acquired by players in the private sector, an increasingly common occurrence.
+Achieving the full benefits of Open Scholarship requires platforms, tools and services for dissemination and collaboration. Such technical infrastructure can be built with current off-shelf technologies and at a much lower cost than traditional publishing methods. Presently, there is a general lack of funding and support for critical existing aspects of open scholarly infrastructure, despite its clear role in defining particular research practices and workflows.
+
+Examples of existing infrastructure include the [DOAJ](https://doaj.org/), [arXiv](https://arxiv.org/), the [Open Science Foundation](http://opensciencefoundation.eu/), [Sherpa/RoMEO](http://www.sherpa.ac.uk/romeo/index.php), [ORCID](https://orcid.org/), the [Open Science Framework](https://osf.io/), [Public Knowledge Project](https://pkp.sfu.ca/), among others, which offer crucial services to a range of stakeholders. Without sustainable funding sources, these services remain vulnerable to either collapse, or being acquired by players in the private sector, an increasingly common occurrence.
 
 To reduce the risk of infrastructure collapse, and to increase its capacity, continued funder support is required for any sort of sustainable scholarly infrastructure (e.g., [Anderson et al., 2017](https://www.biorxiv.org/content/early/2017/04/27/110825)). A proportion of research funder budgets should be allocated to support this (e.g., 2%). This includes elements such as:
 
-* Standards & Persistent Identifiers
+* Standards & Persistent Identifiers (PIDs);
 
-* Shared services (Abstracting/indexing services, research data)
+* Shared services, including abstracting/indexing services and research data (e.g., DOAJ);
 
-* Support and dissemination services
+* Support and dissemination services (e.g., Sherpa/RoMEO);
 
-* Repository services 
+* Repository services (e.g., [COAR](https://www.coar-repositories.org/));
 
-* Publishing services
+* Publishing services (e.g., arXiv);
 
-* Collaboration platforms and tools
+* Collaboration platforms and tools (e.g., the Open Science Framework);
 
-* Automation of open practices ("open by default")
+* Automation of open practices ("open by default");
 
-* Open citation services building upon ORCID and CrossRef initiative ([opencitations](http://opencitations.net/)). (Also [I4OC](https://i4oc.org/))
+* Open citation services building upon ORCID and CrossRef initiatives (e.g., [opencitations](http://opencitations.net/) and [I4OC](https://i4oc.org/));
 
-* Interoperability of services
+* Social Virtual Research Environments (SVREs), to facilitate the management and sharing of research objects, provide the incentives for Open Scholarship, integrate existing software and tools, and provide the actual platform for conducting of research;
 
-* Semantic web technology: metadata, harvesting, exchange services 
+* Interoperability of services (e.g., based on FAIR principles); and,
+
+* Semantic web technology: metadata, harvesting, exchange services.
+
+Perhaps the best way to regard infrastructure is as existing interactive technologies that you do not really notice until they cease to work as they should. For example, automated and integrated data sharing without individual submissions to fragmented online data repositories. 
+
+Ultimately, what we might want to achieve with such infrastructures is a streamlined process of large-scale, data-intensive research, operated collaboratively through high-performance computer clusters that transcend all geographical, technical, and disciplinary boundaries. The potential social aspects of such services means that there is additional scope for a range of purposes, including networking, marketing and promotion, non-academic information exchange, and discussion forums.
 
 ## 5.4 Public good <a name="Public"></a>
 
@@ -624,27 +632,39 @@ Based on the recognition that true societal impact requires societal engagement 
 
 ## 5.5 Measurement <a name="Measurement"></a>
 
-To shift the behaviour of academics it is necessary to change how they are measured; to change how they are measured means new metrics that reflect different values.
+To shift the behaviour of academics it is necessary to change how they are measured; to change how they are measured means new metrics that reflect different values. Ironically perhaps, the usage of advanced metrics and analytics for research assessment is in its relative infancy within the halls of academia.
 
-Practically, getting a research openness measure to factor into University Ranking systems calculations would be a way to embed openness values into policy and align measures with values. Alternatively, doing away with any form of measurement, which some consider to be generally bad for scientific research.
+Practically, find a way to integrate a research openness metric into University Ranking system algorithms would embed openness values into policy and align measures with open values. An alternative, which does not seem too appealing to many, would be to do away with any form of measurement, which often is considered to be bad for the progress of scientific research.
 
-Motivated by the acknowledgement that traditional metrics for measuring scientific impact have proven problematic (by being too heavily focused on publications, often only at the journal-level, for instance), Open Scholarship seeks "alternative metrics" (also known broadly as altmetrics; not to be confused with the company, Altmetric) that can make use of the new possibilities of digitally networked tools to track and measure the impact of scholarship through formerly invisible activities. Of course, there are also dangers with new metrics, since all metrics can be gamed, and new metrics offer new, little understood opportunities for gaming. New metrics will also not solve the publish or perish problem, but only transfer it.
+There is a widespread acknowledgement that traditional metrics for measuring scientific impact have proven problematic, for example by being too heavily focused on journal publications or inappropriately applied at the journal-level. Open Scholarship seeks "alternative metrics" (also known broadly as altmetrics; not to be confused with the company, Altmetric) that can make use of the new possibilities of digitally networked tools to track and measure the impact of scholarship through formerly invisible activities. Of course, there are also dangers with new metrics, since all metrics can be gamed, and new metrics offer new, little understood opportunities for gaming. New metrics will also not solve the publish or perish problem, but only transfer it.
 
-* Changing norms of research evaluation
+Therefore, the principles of 'responsible metrics' use are closely aligned with the goals of Open Scholarship:
 
-* Stop using the Impact factor and commit to [San Francisco Declaration on Research Assessment](http://www.ascb.org/dora/) (DORA), Leiden Manifest, see also [UK Research Councils statement](http://www.rcuk.ac.uk/media/news/180207/), also [this](https://www.nature.com/articles/d41586-018-01642-w)
+* **Robustness**: Basing metrics on the best possible data in terms of accuracy and scope;
+
+* **Humility**: Recognising that quantitative evaluation should support – but not supplant – qualitative, expert assessment;
+
+* **Transparency**: Keeping data collection and analytical processes open and transparent, so that those being evaluated can test and verify the results;
+
+* **Diversity**: Accounting for variation by field, and using a range of indicators to reflect and support a plurality of research and researcher career paths across the system;
+
+* **Reflexivity**: Recognising and anticipating the systemic and potential effects of indicators, and updating them in response.
+
+Along with this, measurement play a core role in the future of Open Scholarship through:
+
+* Changing norms of research evaluation from traditional metrics, to a more rigorous, evidence-based, and diverse/holistic suite of sources.
+
+* Stop using the Journal Impact Factor in any form, and commit to the principles and practices outlined in the [San Francisco Declaration on Research Assessment](https://sfdora.org/) (DORA), and the [Leiden Manifesto](http://www.leidenmanifesto.org/), and a fairer, more objective and robust system of research evaluation.
 
 * Consider alternative metrics, including those explicitly designed to measure openness ([Nichols and Twidale, 2017](https://researchcommons.waikato.ac.nz/handle/10289/10842)) 
 
   * See also the [Humane Metrics Initiative](http://humetricshss.org/about/) and the [Metrics Toolkit](http://www.metrics-toolkit.org/).
+  
+  * Investigate the potential utility of a wide range of potential research evaluation sources, including pre-registrations, registered reports, those regarding software, materials, and data, and also public outreach efforts and citizen science.
 
-  * Pre-registrations
+* Science-based assessment: experimentation before implementation of any metric, in order to better understand the scope, biases, and constraints of any quantitative measures.
 
-  * Registered Reports
-
-* Science-based assessment: experimentation before implementation of any metric
-
-Issues of transparency and reproducibility apply both to scholarship itself and to the mechanisms through which our research is measured (e.g. can this metric be independently reproduced?). [Furner (2014)](http://www.jonathanfurner.info/docs/furnerInPress-a.pdf) provides an ethical framework for bibliometrics, which can be generalised to broader sets of metrics.
+Issues of transparency and reproducibility apply both to scholarship itself and to the mechanisms through which our research is measured (e.g., whether a metric can be independently reproduced). [Furner (2014)](http://www.jonathanfurner.info/docs/furnerInPress-a.pdf) provides an ethical framework for bibliometrics, which can be generalised to broader sets of metrics.
 
 ## 5.6 Community and inclusion <a name="Community"></a>
 
