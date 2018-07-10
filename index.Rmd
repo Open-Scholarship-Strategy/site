@@ -642,7 +642,7 @@ Therefore, the principles of 'responsible metrics' use are closely aligned with 
 
 * **Robustness**: Basing metrics on the best possible data in terms of accuracy and scope;
 
-* **Humility**: Recognising that quantitative evaluation should support – but not supplant – qualitative, expert assessment;
+* **Humility**: Recognising that quantitative evaluation should support - but not supplant - qualitative, expert assessment;
 
 * **Transparency**: Keeping data collection and analytical processes open and transparent, so that those being evaluated can test and verify the results;
 
