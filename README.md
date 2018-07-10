@@ -8,6 +8,10 @@ The purpose of this strategy is to provide a concise analysis of where the globa
 
 The project and website are hosted on [GitHub](https://github.com/Open-Scholarship-Strategy/site), and available for contributions from anyone interested.
 
+## How to contribute
+
+The main website document is [THIS MARKDOWN FILE](https://github.com/Open-Scholarship-Strategy/site/blob/master/index.Rmd). If you are uncomfortable with traditional Git-based workflows, you can simply add a comment [HERE](https://github.com/Open-Scholarship-Strategy/site/issues) in the issue tracker. This document is a bit of a monster, but with the principle of multiple magnifications (more eyes are better), we hope to produce a comprehensive strategy that reflects the wider scholarly community.
+
 **New to GIT and GitHub?** See [these learning resources](https://help.github.com/articles/git-and-github-learning-resources/) and this [10 min. GIT tutorial](https://try.github.io/levels/1/challenges/1).
 
 Our hope is that this document will serve as a foundational resource for continuing discussions and initiatives about implementing effective strategies to help streamline the integration of Open Scholarship practices into a modern, digital, and more inclusive research culture. Through this, we hope to extend the reach and impact of Open Scholarship into a global context, making sure that it is truly 'open for all'. We also hope that this document will evolve as the conversations around Open Scholarship progress, and help to provide useful insight for both global co-ordination and local action. We believe this is a step forward in making Open Scholarship the norm.

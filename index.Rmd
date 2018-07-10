@@ -616,27 +616,29 @@ Ultimately, what we might want to achieve with such infrastructures is a streaml
 
 ## 5.4 Public good <a name="Public"></a>
 
-Based on the recognition that true societal impact requires societal engagement in research and readily understandable communication of scientific results, Open Scholarship seeks to bring the public to collaborate in research through community science, and make scholarship more readily understandable through lay summaries, blogging and other less formal communicative methods. Societal impact (e.g., a better understanding of the world) should not be a secondary or niche consideration for research.
+Based on the recognition that true societal impact requires societal engagement in research and readily understandable communication of scientific results, Open Scholarship seeks to bring the public to collaborate in research through community science. Web 2.0 technologies are fully capable of helping to make scholarship more readily understandable through non-specialist summaries, blogging, and other less formal communicative methods. Here, societal impact (e.g., a better understanding of the world) should not be a secondary or niche consideration for research, but rather an intrinsic part of it.
 
-* Removing barriers based on race, gender, income, status, geography
+Key aspects here include:
 
-* Access to funding
+* Removing barriers to research based on race, gender, income, status, geography, or any other demographic factors.
 
-* Community science (also known as Citizen Science)
+* Removing barriers based on access to funding.
 
-* Involving society in research priority setting
+* Community science (also known as Citizen Science) and involving society in research priority setting.
 
-* Documenting and sharing all research outputs created during the research lifecycle, from lab notebooks used during the project to methods, materials, algorithms, data, code and the paper
+* Documenting and sharing all research outputs created during an exposed research lifecycle, from lab notebooks used during the project to methods, materials, algorithms, data, code and the paper.
 
-* Leveraging public spaces and infrastructure such as public libraries, museums and schools
+  * This helps to prepare research for greater digestion from the wider community, and in particular non-specialist interested parties.
+
+* Leveraging public spaces and infrastructure such as public libraries, museums and schools.
 
 ## 5.5 Measurement <a name="Measurement"></a>
 
-To shift the behaviour of academics it is necessary to change how they are measured; to change how they are measured means new metrics that reflect different values. Ironically perhaps, the usage of advanced metrics and analytics for research assessment is in its relative infancy within the halls of academia.
+To shift the behaviour of academics it is necessary to change how they are measured; to change how they are measured means new metrics that reflect different values and more diverse forms of scientific impact. Ironically perhaps, the usage of advanced metrics and analytics for research assessment is in its relative infancy within the halls of academia.Practically, finding a way to integrate a research openness metric into University Ranking system algorithms would embed openness values into policy and align measures with core open values. An alternative, which does not seem too appealing to many, would be to do away with any form of measurement, which often is considered to be bad for the progress of scientific research.
 
-Practically, find a way to integrate a research openness metric into University Ranking system algorithms would embed openness values into policy and align measures with open values. An alternative, which does not seem too appealing to many, would be to do away with any form of measurement, which often is considered to be bad for the progress of scientific research.
+There is a widespread acknowledgement that traditional metrics for measuring scientific impact have proven problematic, for example by being too heavily focused on journal publications or inappropriately applied at the journal-level. The most notorious contender here is the Journal Impact Factor, an average citation metric across journals that is often inappropriately used at the article- and individual-level, and also confines assessment to journal-based research outputs, thereby discriminating against innovative forms of research assessment.
 
-There is a widespread acknowledgement that traditional metrics for measuring scientific impact have proven problematic, for example by being too heavily focused on journal publications or inappropriately applied at the journal-level. Open Scholarship seeks "alternative metrics" (also known broadly as altmetrics; not to be confused with the company, Altmetric) that can make use of the new possibilities of digitally networked tools to track and measure the impact of scholarship through formerly invisible activities. Of course, there are also dangers with new metrics, since all metrics can be gamed, and new metrics offer new, little understood opportunities for gaming. New metrics will also not solve the publish or perish problem, but only transfer it.
+Open Scholarship seeks "alternative metrics" (also known broadly as altmetrics; not to be confused with the company, Altmetric) that can make use of the new possibilities of digitally networked tools to track and measure the impact of scholarship through formerly invisible activities. These include social shares, tagging, bookmarks, addition to collections, readerships, comments and discussion, ratings, and usage or citation in non-journal formats, all of which build the *context* of a research object. Importantly, these capture new forms of information about the dissemination of research, as well as the process of collaboration, which help to expand the traditional view of publication being the end of a narrow research pipeline.
 
 Therefore, the principles of 'responsible metrics' use are closely aligned with the goals of Open Scholarship:
 
@@ -656,7 +658,7 @@ Along with this, measurement play a core role in the future of Open Scholarship 
 
 * Stop using the Journal Impact Factor in any form, and commit to the principles and practices outlined in the [San Francisco Declaration on Research Assessment](https://sfdora.org/) (DORA), and the [Leiden Manifesto](http://www.leidenmanifesto.org/), and a fairer, more objective and robust system of research evaluation.
 
-* Consider alternative metrics, including those explicitly designed to measure openness ([Nichols and Twidale, 2017](https://researchcommons.waikato.ac.nz/handle/10289/10842)) 
+* Consider alternative metrics, including those explicitly designed to measure openness ([Nichols and Twidale, 2017](https://researchcommons.waikato.ac.nz/handle/10289/10842)).
 
   * See also the [Humane Metrics Initiative](http://humetricshss.org/about/) and the [Metrics Toolkit](http://www.metrics-toolkit.org/).
   
@@ -665,6 +667,8 @@ Along with this, measurement play a core role in the future of Open Scholarship 
 * Science-based assessment: experimentation before implementation of any metric, in order to better understand the scope, biases, and constraints of any quantitative measures.
 
 Issues of transparency and reproducibility apply both to scholarship itself and to the mechanisms through which our research is measured (e.g., whether a metric can be independently reproduced). [Furner (2014)](http://www.jonathanfurner.info/docs/furnerInPress-a.pdf) provides an ethical framework for bibliometrics, which can be generalised to broader sets of metrics.
+
+Of course, there are also dangers with new metrics, since *all* metrics can be gamed, and new metrics offer new, little understood opportunities for gaming. New metrics will also not solve the publish or perish problem, but only transfer it.
 
 ## 5.6 Community and inclusion <a name="Community"></a>
 
@@ -697,6 +701,7 @@ Motivated by the acknowledgement that scholarship requires all voices to be hear
   * Spill-over effects to and from education
 
   * Strengthen ability to participate intellectually, donate computing power, biological samples or other resources, including money (crowdfunded research)
+
 
 # 6. Movement Strengths <a name="Strengths"></a>
 
