@@ -610,27 +610,39 @@ To reduce the risk of infrastructure collapse, and to increase its capacity, con
 
 * Semantic web technology: metadata, harvesting, exchange services.
 
-Perhaps the best way to regard infrastructure is as existing interactive technologies that you do not really notice until they cease to work as they should. For example, automated and integrated data sharing without individual submissions to fragmented online data repositories. 
+Perhaps the best way to regard infrastructure is as existing interactive technologies that you do not really notice until they cease to work as they should. For example, automated and integrated data sharing without individual submissions to fragmented online data repositories.
 
 Ultimately, what we might want to achieve with such infrastructures is a streamlined process of large-scale, data-intensive research, operated collaboratively through high-performance computer clusters that transcend all geographical, technical, and disciplinary boundaries. The potential social aspects of such services means that there is additional scope for a range of purposes, including networking, marketing and promotion, non-academic information exchange, and discussion forums.
+
 
 ## 5.4 Public good <a name="Public"></a>
 
 Based on the recognition that true societal impact requires societal engagement in research and readily understandable communication of scientific results, Open Scholarship seeks to bring the public to collaborate in research through community science. Web 2.0 technologies are fully capable of helping to make scholarship more readily understandable through non-specialist summaries, blogging, and other less formal communicative methods. Here, societal impact (e.g., a better understanding of the world) should not be a secondary or niche consideration for research, but rather an intrinsic part of it.
 
+Much of this relates to the changing role of a researcher within a modern, digital society, and distills down to two main aspects:
+
+1. The influence that the wider public can have on the intrinsci research process; and
+
+2. The understanding of that research by a wider non-specialist audiences, including effective ways of communicating research. 
+
 Key aspects here include:
 
 * Removing barriers to research based on race, gender, income, status, geography, or any other demographic factors.
 
-* Removing barriers based on access to funding.
+  * Removing barriers based on access to funding.
+  
+  * Inclusion of dispersed, external individuals from beyond those within traditional non-digital spheres as an active role in research.
 
 * Community science (also known as Citizen Science) and involving society in research priority setting.
 
-* Documenting and sharing all research outputs created during an exposed research lifecycle, from lab notebooks used during the project to methods, materials, algorithms, data, code and the paper.
+  * This also opens up opportunities for crowdfunding of research projects, a presently little-explored aspect of the public school.
 
-  * This helps to prepare research for greater digestion from the wider community, and in particular non-specialist interested parties.
+* Constant and continuous documentation and sharing all research outputs created during an exposed research lifecycle, from lab notebooks used during the project to methods, materials, algorithms, data, code and the paper.
+
+  * This helps to prepare research for greater digestion and comprehension from the wider community, and in particular non-specialist interested parties.
 
 * Leveraging public spaces and infrastructure such as public libraries, museums and schools.
+
 
 ## 5.5 Measurement <a name="Measurement"></a>
 
@@ -672,35 +684,37 @@ Of course, there are also dangers with new metrics, since *all* metrics can be g
 
 ## 5.6 Community and inclusion <a name="Community"></a>
 
-Motivated by the acknowledgement that scholarship requires all voices to be heard, and the involvement of a committed community of actors, Open Scholarship seeks to ensure diversity and inclusion are key principles in scholarly conversations.
+Motivated by the acknowledgement that scholarship requires all voices to be heard, and the involvement of a committed community of actors, Open Scholarship seeks to ensure diversity and inclusion are key principles in scholarly conversations. This factor is touched upon in the other schools defined by Fecher and Frieseke (2015), but based on discussion and events since this publication, we feel merits a separate section here to highlight its importance.
 
-* Diversity and inclusion
+Here, key aspects include:
 
-  * Definition
+* Diversity and inclusion.
 
-  * Build awareness
+  * The definition of diversity is complex and multi-dimensional, but here generally means encouraging tolerance and inclusion of people from a range of different backgrounds. This includes dimensions of ethnicity and culture, psychography, geography, ability, geodiversity, neurodiversity, and other demographic aspects.
 
-  * Develop tools and techniques to fix existing issues
+  * It is the responsibility of the wider Open Scholarship community to build awareness that community diversity and inclusivity are fundamental principles.
 
-  * Create and disseminate research resources
+  * This includes developing tools and techniques to fix existing issues; and
 
-* Community cohesion and messaging
+  * Creating and disseminating research resources.
 
-  * Develop practice standards
+* Community cohesion and messaging must be a foundational principle for the Open Scholarship community, and extended to all other related communities. As part of this, the community must:
 
-  * Create educational curriculum for practitioners
+  * Develop and practice appropriate standards;
 
-  * Public goods and public funding
+  * Create educational curricula for practitioners;
 
-  * Collaborate with other related or overlapping communities, including Open Scholarship Hardware, Open Source Software on common areas of interest 
+  * Obtain public goods and public funding;
 
-* Community science (also known as Citizen Science)
+  * Collaborate with other related or overlapping communities, including Open Science Hardware and Open Source Software, on common areas of interest. 
 
-  * Tackling megaprojects
+* Community science (also known as Citizen Science) (also mentioned in [Public good](#Public)), including:
 
-  * Spill-over effects to and from education
+  * Tackling community-driven megaprojects;
 
-  * Strengthen ability to participate intellectually, donate computing power, biological samples or other resources, including money (crowdfunded research)
+  * Spill-over effects to and from education; and
+
+  * Strengthening the ability to participate intellectually, donate computing power, biological samples or other resources, including money (crowdfunded research), towards research projects.
 
 
 # 6. Movement Strengths <a name="Strengths"></a>
