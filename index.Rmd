@@ -820,7 +820,7 @@ There is currently little consensus over whether the future of Open Scholarship 
 
   * There is a danger that companies with a history of anti-openness, such as [Elsevier](https://www.elsevier.com/about/open-science), can move into and co-opt the Open scholarship movement, if this is not appropriately defined and adhered to.
   
-  * The Open movement is beset by communication and engagement challenges, including from powerful players with opposing or divergent interests. The community should adopt the stance of 'radical kindness' when engaging with those actors, and treat them with absolute, unwavering stability; in particular, when those common courtesies are not repaid to them.
+  * The Open movement is beset by communication and engagement challenges, including from powerful players with opposing or divergent interests. The community should adopt the stance of 'radical kindness' when engaging with those actors, and treat them with absolute, unwavering civility; in particular, when those common courtesies are not repaid to them.
   
 * **Copyright**.
 
