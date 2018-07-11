@@ -777,6 +777,11 @@ One issue with top-down policies is that bodies such as governments and funders 
   * Open Scholarship tends to have a common language (English, usually) for ease of understanding (although see below for why this can also be a challenge).
 
 
+* **Accessibility, user-friendliness, and dissemination**.
+
+  * The Open Scholarship movement publishes articles and resources that are typically free, well indexed by Google (and other search engines), easy to read on mobile devices, and quick to make use of graphics and multimedia to illustrate points. This tendency to embrace technology helps the Open Scholarship movement disseminate its ideas more broadly and quickly than can be accomplished by traditional publication methods.
+
+
 # 7. Movement Challenges <a name="Challenges"></a>
 
 These challenges represent potential focal points of future discussion, research, and policy development. They include both external conditions in the greater research ecosystem, and internal conditions that exist within the Open Scholarship movement. Not all challenges are equal, or present in every potential context or community. However, these are frequently discussed in discussions about Open Scholarship strategy, and therefore should be highlighted here.
