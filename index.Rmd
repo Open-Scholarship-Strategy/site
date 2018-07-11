@@ -721,41 +721,52 @@ Here, key aspects include:
 
 # 6. Movement Strengths <a name="Strengths"></a>
 
-* Organisational structure and collective impact
+This section of the strategy will describe some of the strengths of the Open Scholarship 'movement' or 'community'.
 
-* Diverse participation of passionate individuals
+* **Organisational structure and collective impact**.
+
+  * The global scholarly community is vast, covering every continent, and embedded within strong research and academic institutes. The 'Open' movement goes beyond just scholarship, and is related to wider fields such as Open Culture, Open Government, Open Source, and Open Society. Therefore, the potential collective impact that the movement can have is enormous, with ramifications for global society; for example, influencing the [UN Sustainable Development Goals](http://www.unfoundation.org/features/globalgoals/the-global-goals.html).
+  
+![Figure_6](UN_sustainable.png)\
+
+  * Open Scholarship activism as part of a broader Open movement is benefiting from cross-collaborations with advocates from across different sectors. For example, now Open Scholarship is seen as a gateway to Open Education, but has policies strengthened by experiences from the Open Source movement.
+
+* **Diverse participation of passionate individuals**.
 
   * Significant successes in Open Scholarship are often attributed to passionate, persevering champions, particularly in the policy and advocacy/adoption arenas. These individuals demonstrate a great capacity to achieve substantial changes, and create strong influences, almost single-handedly. As an asset to the movement, they become especially important when their experiences and knowledge can be shared and multiplied, through building of collaborations, networks and communities, and mentorship models.
 
-* Concurrent movements like open access, Open Scholarship, open data, open hardware, open source software etc. based on similar principles
+* **Strength of research and evidence supporting Open Scholarship practices**.
 
-* Strength of research and evidence supporting Open Scholarship practices (e.g., [McKiernan et al., 2016](https://elifesciences.org/articles/16800)).
+  * There is an increasingly strong case now supporting almost all aspects of Open Scholarship. Some key summaries of this work include [McKiernan et al., 2016](https://elifesciences.org/articles/16800)) and [Tennant et al., 2016](https://f1000research.com/articles/5-632/v3). The impcat of this can be seen at mulitple levels, from the practices of individuals, up to national-level policies around Open Access and Open Science.
 
-  * Key projects, groups, and scholars have been conducting research into various aspects of Open Scholarship and its impacts, finding them to be almost overwhelmingly positive. As the movement grows, the evidence base, and the depth of critical analysis continues to develop.
+  * Key projects, groups, and scholars have been conducting research into various aspects of Open Scholarship and its impacts, finding them to be almost overwhelmingly positive. As the movement grows, the evidence base, and the depth of critical analysis will continue to develop and mature.
 
-* Breadth of creativity in coming up with technical and sociotechnical solutions.
+* **Breadth of creativity in coming up with technical and sociotechnical solutions**.
 
-  * For example, green and gold routes to Open Access. The former relates to self-archiving, and the latter to publishing in an Open Access journal. While some variations exist, these models generally transcend geographical, institutional, or sectoral variations.
+  * For example, 'green' and 'gold' routes to Open Access. The former relates to self-archiving, and the latter to publishing in an Open Access journal. While some variations exist (e.g., diamond, bronze, platinum OA), these models generally transcend geographical, institutional, or sectoral variations.
 
-  * The growth and adoption of preprints as a method of getting research out sooner and more transparently
+  * The growth and adoption of preprints as a method of getting research out sooner and more transparently. In the last two years, this has led to a rapidly evolving [landscape](https://osf.io/preprints/bitss/796tu/) around preprints, with technological innovation and community practices constantly adapting.
 
-* Availability of many charters and declarations offering (internally) consistent sets of goals and actions that are result of a lot of thinking and discussing
+* **Availability of Open Scholarship charters and declarations**.
 
-* Strong push to develop policy models: Dynamic, broad and cohesive top-down (policy initiatives from funders, governments, institutions) and bottom-up (grassroots) approaches. It remains important that the imperative and agenda for Open Scholarship remains recognised at the highest political levels. The UK House of Commons Science and Technology Committee into research integrity is an excellent example of this (NOTE: Research integrity examined with experts and academics (https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/news-parliament-2017/research-integrity3-evidence-17-19/ - accessed December, 2017).). 
+  * This ever-growing range of high-level statements in support of openness (typically [Open Access](http://oad.simmons.edu/oadwiki/Declarations_in_support_of_OA)) offers internally consistent sets of goals and actions that are result of a lot of thinking and discussing.
 
-* Diversity of goals enables progress on many fronts simultaneously.
+* **Strong push to develop policy models**.
 
-* Common language (English, usually) for ease of understanding (although see below for why this can also be a challenge).
+  * This transpires from a combination of dynamic, broad and cohesive top-down (policy initiatives from funders, governments, institutions) and bottom-up (grassroots) approaches. It remains important that the imperative and agenda for Open Scholarship remains recognised at the highest political levels. The UK House of Commons Science and Technology [Committee into research integrity](https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/news-parliament-2017/research-integrity3-evidence-17-19/) is an excellent example of this. 
+* **Diversity of goals enables progress on many fronts simultaneously**.
 
-* Geographical heterogeneity and variably successful initiatives (e.g., SciELO in Latin America).
+  * If one considers the breadth of aspects that fall under Open Scholarship (e.g., Open Access, Open Evaluation, Open Data, Open Source, Cititzen Science), and the enormous diversity of organisations and individuals pushing these forward, then it is possible to scope the shifting landscape of the movement. Making sure that these efforts are more linked up in the future will be critical for parallel progression.
+
+
+* **Geographical heterogeneity and variably successful initiatives** 
+
+  * For example, [Scientific Electronic Library Online](http://www.scielo.org/php/index.php?lang=en) (SciELO) has proven unequivocally successful across Latin America, Portugal, and South Africa. Similarly, [Africa Journals Online](https://www.ajol.info/) (AJOL) has become very popular in Africa.
 
   * Open Scholarship has been recognised by key international organisations active in research and education, and has strong support from institutes around the world.
+  
+  * Open Scholarship tends to have a common language (English, usually) for ease of understanding (although see below for why this can also be a challenge).
 
-* Uptake (albeit spotty) from influential research institutions.
-
-* Growing ties with the Open Movement.
-
-  * Open Scholarship activism as part of a broader open movement is benefiting from cross-collaborations with advocates of open data, open access, open education, open government, open source, and open culture. For example, now Open Scholarship is seen as a gateway to open education, but has policies strengthened by experiences from the open source movement.
 
 # 7. Movement Challenges <a name="Challenges"></a>
 
@@ -956,10 +967,4 @@ Bottom-up policies weave together best-practices from existing scientific resear
   * (Mis)alignment between top-down and bottom-up approaches
 
 	Evaluating the degree of alignment between top-down and bottom-up policies might help to illustrate how both approaches can better accommodate and promote Open Scholarship. 
-
-**Conflicts of Interest**
-
-JPT is the founder of the Open Science MOOC and the digital publishing platform, paleorXiv.
-
-TJK is a Communications Director at Oxford PharmaGenesis.
 
