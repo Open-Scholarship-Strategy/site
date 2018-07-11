@@ -182,7 +182,7 @@ We also note that this strategy can only be based on information which we as a c
 
 * Create new or support/contact existing international library consortia/collaborations (e.g., the [International Coalition of Library Consortia](http://icolc.net/)) to co-operate on infrastructure developments (e.g., [LIBER](http://libereurope.eu/), [EIFL](http://www.eifl.net/), [ARL](http://www.arl.org/), and [SPARC](https://sparcopen.org/)).
 
-  * Sign on to the Global Sustainability Coailition for Open Science Services [(SCOSS)](http://scoss.org/).
+  * Sign on to the Global Sustainability Coailition for Open Science Services [(SCOSS)](http://scoss.org/), and investigate coalitions with the [Open Research Funders Group](http://www.orfg.org).
 
   * Consortia like the German [Projekt DEAL](https://www.projekt-deal.de/) could provide examples of how to take the first step towards this at a national level. Gaining support from SPARC for any such developments would also be useful.
 
@@ -592,7 +592,7 @@ Achieving the full benefits of Open Scholarship requires platforms, tools and se
 
 Examples of existing infrastructure include the [DOAJ](https://doaj.org/), [arXiv](https://arxiv.org/), the [Open Science Foundation](http://opensciencefoundation.eu/), [Sherpa/RoMEO](http://www.sherpa.ac.uk/romeo/index.php), [ORCID](https://orcid.org/), the [Open Science Framework](https://osf.io/), [Public Knowledge Project](https://pkp.sfu.ca/), among others, which offer crucial services to a range of stakeholders. Without sustainable funding sources, these services remain vulnerable to either collapse, or being acquired by players in the private sector, an increasingly common occurrence.
 
-To reduce the risk of infrastructure collapse, and to increase its capacity, continued funder support is required for any sort of sustainable scholarly infrastructure (e.g., [Anderson et al., 2017](https://www.biorxiv.org/content/early/2017/04/27/110825)). A proportion of research funder budgets should be allocated to support this (e.g., 2%), and initiatives such as [SCOSS](http://scoss.org/) should be fully supported in this regard. 
+To reduce the risk of infrastructure collapse, and to increase its capacity, continued funder support is required for any sort of sustainable scholarly infrastructure (e.g., [Anderson et al., 2017](https://www.biorxiv.org/content/early/2017/04/27/110825)). A proportion of research funder budgets should be allocated to support this (e.g., 2%), and initiatives such as [SCOSS](http://scoss.org/) andthe [Open Research Funders Group](http://www.orfg.org) should be fully supported in this regard. 
 
 This includes elements such as:
 
@@ -759,7 +759,10 @@ This section of the strategy will describe some of the strengths of the Open Sch
 
 * **Strong push to develop policy models**.
 
-  * This transpires from a combination of dynamic, broad and cohesive top-down (policy initiatives from funders, governments, institutions) and bottom-up (grassroots) approaches. It remains important that the imperative and agenda for Open Scholarship remains recognised at the highest political levels. The UK House of Commons Science and Technology [Committee into research integrity](https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/news-parliament-2017/research-integrity3-evidence-17-19/) is an excellent example of this. 
+  * This transpires from a combination of dynamic, broad and cohesive top-down (policy initiatives from funders, governments, institutions) and bottom-up (grassroots) approaches. It remains important that the imperative and agenda for Open Scholarship remains recognised at the highest political levels. The UK House of Commons Science and Technology [Committee into research integrity](https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/news-parliament-2017/research-integrity3-evidence-17-19/) is an excellent example of this.
+  
+One issue with top-down policies is that bodies such as governments and funders demand researchers to comply with rules about data sharing, open code, and the like, yet do not always provide the resources or structures necessary for compliant behaviour. Bottom-up policies weave together best-practices from existing scientific research communities and, compared to top-down approaches, are more often voluntary than mandatory.	Evaluating the degree of alignment between top-down and bottom-up policies might help to illustrate how both approaches can better accommodate and promote Open Scholarship.   
+  
 * **Diversity of goals enables progress on many fronts simultaneously**.
 
   * If one considers the breadth of aspects that fall under Open Scholarship (e.g., Open Access, Open Evaluation, Open Data, Open Source, Cititzen Science), and the enormous diversity of organisations and individuals pushing these forward, then it is possible to scope the shifting landscape of the movement. Making sure that these efforts are more linked up in the future will be critical for parallel progression.
@@ -792,13 +795,20 @@ There is currently little consensus over whether the future of Open Scholarship 
 
 * **Political agendas**.
 
+Open Scholarship is characterized by numerous competing, parallel, or overlapping definitions in terms of both research principles and practice. Accordingly, stakeholders such as governments, public and private funding agencies, and institutions continually develop various, diverse policies to govern Open Scholarship initiatives. 
+
+These policies span countries, scientific disciplines, and components of the Open Scholarship ecosystem, and impose rules, regulations, and guidelines upon the scientific research community via mechanisms including government policies, grant funding requirements, and institutional mandates.
+
   * At the present, [Open Science](https://ec.europa.eu/research/openscience/index.cfm) has been high up on the EU agenda for some time. The primary focus of this has, however, been on economic growth, development, and innovation. The core academic and social aspects of Open Scholarship appear to have been largely missed out here.
   
   * Other nations have been generally slow in adopting national Open Science policies or strategies. However, in July 2018, France launched their [National Plan for Open Science](https://libereurope.eu/wp-content/uploads/2018/07/SO_A4_2018_05-EN_print.pdf), and the Netherlands also have a [National Plan for Open Science](https://www.openscience.nl/en/open-science-in-the-netherlands). 
   
   * For France, the focus here was on benefits to research, education, the economy and innovation, and society. In the Netherlands, the focus appears to be more on opening up research to collaborate on social and technological issues. In Estonia, [Open Science](http://www.etag.ee/wp-content/uploads/2017/03/Open-Science-in-Estonia-Principles-and-Recommendations-final.pdf) appears to be more based on public access rights, improving the quality of research and collaboration, and increased social and economic impact.
   
-  * As such, there is a general lack of synthesised and consistent strategy on the political motivations for Open Science, and more co-ordination is needed in this field to strategically identify which aspects of Open Scholarship match with each intended political outcome.
+  * EU Horizon 2020 is one of the most notable government initiatives involving Open Scholarship policies. For example, the Responsible Research and Innovation (RRI) component of the Work Programme "Science with and for Society" makes open education, research, and access explicit targets of EU policy. 
+  * The FASTR Act, Open Government Data Act, [Federal Source Code Policy](https://sourcecode.cio.gov/); Affordable College Textbook Act; U.S. National Cancer Moonshot Initiative; Dept of Education Open Licensing Rule; Executive Directive on Public Access; California Taxpayer Access to Publicly Funded Research Act; and Illinois Open Access to Articles Act are all examples of policy changes in the USA that fall under the umbrella of Open Scholarship'.
+  
+  * Just from these examples, it is clear that there is a general lack of synthesised and consistent strategy on the political motivations for Open Science/Scholarship, and more co-ordination is needed in this field to strategically identify which aspects of Open Scholarship match with each intended political outcome.
 
 * **Researcher awareness and apathy**.
 
@@ -961,80 +971,3 @@ There is currently little consensus over whether the future of Open Scholarship 
   * It is important to make sure that people can still do what they are already doing, even if they participate in Open Scholarship. 
   
   * *Therefore, future communication efforts must focus on Open practices not being completely new, but simply more efficient and more rewarding versions of current practices.*
-
-
-#################################
-
-
-Policy Piece - TBD where/if it fits:
-
-As noted earlier in this document, Open Scholarship is characterized by "numerous competing, parallel, or overlapping definitions ... in terms of both research principles and practice." Accordingly, stakeholders such as governments, public and private funding agencies, and institutions continually develop various, diverse policies to govern Open Scholarship initiatives. These policies span countries, scientific disciplines, and components of the Open Scholarship ecosystem. Below, we review some of the past and ongoing policy developments, categorized as top-down and bottom-up.
-
-Top-down policies impose rules, regulations, and guidelines upon the scientific research community via mechanisms including government policies, grant funding requirements, institutional mandates, and 
-
-  * Top-down
-
-    * Governments: Legislation, Directives, etc.
-
-      * Africa
-
-      * Antarctica
-
-      * Asia
-
-      * Australia
-
-      * Europe
-
-        * EU Horizon 2020 is one of the most notable government initiatives involving Open Scholarship policies. For example, the Responsible Research and Innovation (RRI) component of the Work Programme "Science with and for Society" makes open education, research, and access explicit targets of EU policy. 
-
-        * EU Statement on Making All Research Open by 2020; Horizon 2020; 
-
-      * North America
-
-        * USA (perhaps break down federal vs. state)
-
-          * FASTR Act; OPEN Government Data Act; Federal Source Code Policy ([https://sourcecode.cio.gov](https://sourcecode.cio.gov/)); Affordable College Textbook Act; U.S. National Cancer Moonshot Initiative; Dept of Ed Open Licensing Rule; Executive Directive on Public Access; California Taxpayer Access to Publicly Funded Research Act; Illinois Open Access to Articles Act
-
-      * South America
-
-    * Funders 
-
-      * *[Open Research Funders Grou*p](http://www.orfg.org)
-
-      * Public
-
-        * US NIH Public Access Policy;
-
-      * Private
-
-        * Bill and Melinda Gates Foundation
-
-        * The Wellcome Trust ([https://wellcome.ac.uk/news/our-new-policy-sharing-research-data-what-it-means-you](https://wellcome.ac.uk/news/our-new-policy-sharing-research-data-what-it-means-you))
-
-    * Industry
-
-    * Institutions
-
-    * Subject policies (?)
-
-    * Resources:
-
-      * [Registry of Open Access Repository Mandates and Policies (ROARMAP)](http://roarmap.eprints.org/)
-
-      * [SHERPA/JULIET](http://www.sherpa.ac.uk/juliet/index.php?la=en&mode=simple&page=browse)
-
-      * [SPARC Article and Data Sharing Policies](http://researchsharing.sparcopen.org/)
-
-One issue with top-down policies is that bodies such as governments and funders demand researchers to comply with rules about data sharing, open code, and the like, yet do not always provide the resources or structures necessary for compliant behaviour.
-
-Bottom-up policies weave together best-practices from existing scientific research communities and, compared to top-down approaches, are more often voluntary than mandatory. 
-
-    * Open source/science projects
-
-    * Community efforts/community (citizen) science
-
-  * (Mis)alignment between top-down and bottom-up approaches
-
-	Evaluating the degree of alignment between top-down and bottom-up policies might help to illustrate how both approaches can better accommodate and promote Open Scholarship. 
-
