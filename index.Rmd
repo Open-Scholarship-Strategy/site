@@ -883,53 +883,85 @@ There is currently little consensus over whether the future of Open Scholarship 
 
 * Universities and research funders are in a position to adopt new practices in hiring, promotion, and tenure, and in particular control how Open Scholarship feeds in to this. Rewarding openness at this level is a key driver in the increased adoption of open practices.
 
-* Scholarly communication is a rapidly evolving landscape. There is a huge scope for systematic training and education in this domain, which could be adopted by research institutes. A huge global network of experts already exists with this professional capacity, but funding of such networks would be critical for any sort of sustainability. Platforms and technology exists today that can support this movement. 
+* Scholarly communication is a rapidly evolving landscape. There is a huge scope for systematic training and education in this domain, which could be adopted by research institutes. A huge global network of experts already exists with this professional capacity, but funding of such networks would be critical for any sort of sustainability. Platforms, communities and technologies exist today that can support this movement.
+
+* Overall, there is a great opportunity now available to harmonise the scholarly communication policy landscape to simplify compliance for researchers. This would need to avoid license proliferation, with many one-off licences that may not be mutually compatible, and require too much work to interpret. Open source "solved" this with OSI-approved licenses, and MIT/BSD/GPL emerged as most common licenses with clearly understood mutual compatibility. The equivalent here for article and data licenses would be something equiavlent to CC BY. 
+
+* A combined approach of top-down policy changes and grassroots campaigning, advocacy, and training and education is needed to close the gap between positive attitudes to most aspects of Open Scholarship and the actual practices.
 
 # 9. Threats <a name="Threats"></a>
 
-* Continuing barriers to Open Access (OA): embargoes, continued transferral of copyright, lack of article-processing charge (APC) funding, wide application of high and unsustainable APCs (+ lack of knowledge in negotiating these difficulties), continuing perceptions of lack of prestige for many OA journals, 
+* **Barriers to Open Access adoption**: 
 
-  * Publisher embargo rules are currently complex, confusing, and time-consuming and expensive to navigate and comply with. They are also often lacking in evidence to support, and in direct conflict with funder policies on self-archiving.
+  * Lengthy embargo periods to protect publisher revenues;
+  
+  * Complex, confusing, and difficult to navigate embargo periods;
+  
+  * Time-consuming and expensive embargo compliance reconciliation systems;
+  
+  * Conflicts between funder and publisher policies;
+  
+  * Continued transferral of copyright from researchers to publishers; 
+  
+  * Lack of disributed article-processing charge funding;
+  
+  * Wide application of high and unsustainable APCs, which are particularly discriminatory against specific demographics who might lack appropriate funds; 
+  
+  * Lack of knowledge in negotiating these difficulties;
+  
+  * No widely-agreed upon large-scale solution for issues regarding OA for books;
+  
+  * Awareness that around [70% of journals indexed in the DOAJ](https://sustainingknowledgecommons.org/2018/02/06/doaj-apc-information-as-of-jan-31-2018/) do not charge article processing charges;
+  
+  * Continuing perceptions of lack of prestige for many OA journals; and
+  
+  * A lack of appropriate offsetting deals around OA deals and hybrid journals.
 
-  * OA: If APC model becomes universal (esp. If publishers are allowed to dictate costs), Global South lose publishing options, current journal ecosystem could be carried over (w/ flaws which incentivise bad research and all), just with author-pays OA and no reduction in costs
 
-  * OA: Still no widely agreed large-scale solution for issue of OA for books.
+* **Barriers to data sharing**: 
 
-  * Offsetting deals.
+  * Lack of skills and awareness of best practices; 
 
-  * Note that around 70% of journals indexed in the DOAJ do not charge article processing charges (NOTE: https://sustainingknowledgecommons.org/2018/02/06/doaj-apc-information-as-of-jan-31-2018/).
+  * Lack of agreement on how Research Data Management (RDM) activities should be funded; 
 
-* Barriers to data sharing: 
+  * Licensing issues, and a lack of awareness surrounding them; 
 
-  * lack of skills & awareness of best practice, 
+  * Lack of infrastructure to support good RDM throughout research lifecycle; and
 
-  * lack of agreement on how Research Data Management (RDM) activities should be funded, 
-
-  * licensing issues (& lack of awareness), 
-
-  * lack of infrastructure to support good RDM throughout research lifecycle
-
-  * Neglect to explicitly grant reuse rights in data, so they inherit poor reuse right from publications (see my comment above, and an example of an "open access" journal that has a no derivatives clause that disallows data reuse in any meaningful way. "You can see the knowledge for free, but you cannot use it."
+  * Neglect to explicitly grant reuse rights in data, so they inherit poor reuse right from publications.
+  
+* **Incentives and metrics**:
 
   * A lack of suitable incentives creating fear from traditionally-embedded mentality and practices; for instance that sharing data reduces the competitiveness of an individual (e.g. "someone will use my data in the wrong way," or "I need to get 5 more publications out of this data""). 
 
-* Incentives must change to facilitate cultural change. 
+  * Incentives must change to motivate and facilitate cultural change. 
 
-  * Continued reliance on non-transparent, non-reproducible metrics information from commercial providers will be detrimental to scholarship.
+  * Continued reliance on non-transparent, non-reproducible metrics information from commercial providers will continue to be detrimental to scholarship.
 
   * New metrics must be designed to create incentives to influence researcher behaviour, preferably based around openness.
 
-* Big publishers - Elsevier & Holtzbrinck (via Digital Science) seem to be developing services for across research workflow - definite threat that they will start trying to bundle these services for institutions via "big deals" - so that institutions get locked into using sub-optimal services for some things in order to have access to services they consider vital (i.e., same strategy used in bundling journals) ([Moody 2017](https://www.techdirt.com/articles/20170804/05454537924/elsevier-continues-to-build-monopoly-solution-all-aspects-scholarly-communication.shtml); [Posada and Chen 2017](http://knowledgegap.org/index.php/sub-projects/rent-seeking-and-financialization-of-the-academic-publishing-industry/preliminary-findings/); [Schonfeld 2017](http://www.sr.ithaka.org/blog/the-center-for-open-science-alternative-to-elsevier-announces-new-preprint-services-today/)) - this would lead to new inefficiencies, lock-in, price bloat
+* **Big commercial publishers** 
 
-* Preprints - colonisation of landscape by commercial interests (e.g., Elsevier acquisition of SSRN leading to wider commercial control, irrespective of final venue of publication).
+  * Elsevier & Holtzbrinck/Springer Nature (via Digital Science) seem to be developing services for across the entire research workflow, from discovery through to funding. 
+  
+  * These pose a definite threat in that they will start trying to bundle these services for institutions via "big deals" - so that institutions get locked into using non-transferable services for some things in order to have access to services they consider vital (i.e., same strategy used in bundling journals) ([Moody 2017](https://www.techdirt.com/articles/20170804/05454537924/elsevier-continues-to-build-monopoly-solution-all-aspects-scholarly-communication.shtml); [Posada and Chen 2017](http://knowledgegap.org/index.php/sub-projects/rent-seeking-and-financialization-of-the-academic-publishing-industry/preliminary-findings/); [Schonfeld 2017](http://www.sr.ithaka.org/blog/the-center-for-open-science-alternative-to-elsevier-announces-new-preprint-services-today/))
+  
+  * This would ultimately lead to new inefficiencies, vendor lock-in, and the same price bloat we see associated with 'big deal' licensing contracts.
 
-* Overall: need to harmonise policy landscape to simplify compliance for researchers 
+  * Regarding preprints, there is an increasing colonisation of the landscape by commercial interests (e.g., Elsevier acquisition of SSRN). This leads to wider commercial control, irrespective of the final venue of publication.
 
-  * need to avoid license proliferation, with many one-off licences that may not be mutually compatible, and require too much work to interpret. Open source "solved" this with OSI-approved licenses, and MIT/BSD/GPL emerged as most common licenses with clearly understood mutual compatibility. Need equivalent for data licenses (I would propose something closer to CC BY.) 
+* **Resistance to change**: 
 
-* Continuing gap between positive attitudes to most aspects of openness & actual practice - how to close this?
+  * Researchers are generally resistant to change, as is human nature, and often defined as a system of 'cultural inertia' within academia.
+  
+  * Giving them too much choice, as is common in Open Scholarship practices, could be off-putting, and lead to no change from traditional habits. 
+  
+  * People tend to choose things that are most similar to what they already have, or things that are most similar to other choices they have (e.g. see Dan Ariely's [TED talk](https://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions) on making decisions). 
+  
+  * It is important to make sure that people can still do what they are already doing, even if they participate in Open Scholarship. 
+  
+  * *Therefore, future communication efforts must focus on Open practices not being completely new, but simply more efficient and more rewarding versions of current practices.*
 
-* Resistance to change: people are generally resistant to change, and giving them too much choice (as is common in open scholarship) could put them off changing at all. People tend to choose things that are most similar to what they already have, or things that are most similar to other choices they have (e.g. see Dan Ariely's [TED talk](https://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions) on making decisions). It is important to make sure that people can still do what they are already doing, even if they participate in open scholarship. [This can be seen in the example of the introduction of Linux in Munich, where an attempt to switch completely over to Linux [could not find solutions for all existing software](http://www.zdnet.com/article/after-a-10-year-linux-migration-munich-considers-switching-back-to-windows-and-office/), resulting in a council vote to switch back to Windows by 2020. The city of Barcelona has a contrasting plan [aiming to introduce Linux](https://itsfoss.com/barcelona-open-source/), with a plan that prioritises making sure that existing user applications have an open source solution that works on Windows as well, eventually leaving a situation where the only existing software to change is the operating system.]
 
 #################################
 
