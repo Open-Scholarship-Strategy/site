@@ -39,7 +39,7 @@ title: "Foundations for Open Scholarship Strategy Development"
 
 *Note 2: The final version will be available as this website, a PDF (archived in Zenodo), raw markdown format, and iPython notebook.*
 
-Drafting Committee: [Jonathan Tennant](https://orcid.org/0000-0001-7794-0218)*, Jonathan Dugan, Rachel Harding, Tony Ross-Hellauer, [Kshitiz Khanal]( https://orcid.org/0000-0002-4765-4832), [Thomas Pasquier](https://orcid.org/0000-0001-6876-1306), Jeroen Bosman, [Asura Enkhbayar](https://orcid.org/0000-0002-3934-026X), Gail Clement, [David Eccles](https://orcid.org/0000-0003-4634-4995), [Fiona Bradley](https://orcid.org/0000-0002-3622-2794), ([Bjoern Brembs]( http://orcid.org/0000-0001-7824-7650)), (Pawel Szczesny), Lisa Matthias, [Jesper Norgaard Kjaer](http://orcid.org/0000-0001-9183-9861), [Daniel S. Katz](http://orcid.org/0000-0001-5934-7525), [Tom Crick](https://orcid.org/0000-0001-5196-9389), [Christopher R. Madan](https://orcid.org/0000-0003-3228-6501), [Paul Macklin](https://orcid.org/0000-0002-9925-0151), [Johanna Havemann](https://orcid.org/0000-0002-6157-1494), [Jennifer E. Beamer](https://orcid.org/0000-0001-6887-6568), [Michael Schulte-Mecklenbeck](https://orcid.org/0000-0002-0406-8809), Dan Sholler, Paola Masuzzo, [Tobias Steiner](https://orcid.org/0000-0002-3158-3136), [Tim Koder](https://orcid.org/0000-0001-6152-7365), [David Nichols](https://orcid.org/0000-0003-0321-7267), [Daniel Graziotin](https://orcid.org/0000-0002-9107-7681), Alastair Dunning, [Andy Turner](http://orcid.org/0000-0002-6098-6313), [Neo Christopher Chung](https://orcid.org/0000-0001-6798-8867)
+**Drafting Committee**: [Jonathan Tennant](https://orcid.org/0000-0001-7794-0218)*, Jonathan Dugan, Rachel Harding, Tony Ross-Hellauer, [Kshitiz Khanal]( https://orcid.org/0000-0002-4765-4832), [Thomas Pasquier](https://orcid.org/0000-0001-6876-1306), Jeroen Bosman, [Asura Enkhbayar](https://orcid.org/0000-0002-3934-026X), Gail Clement, [David Eccles](https://orcid.org/0000-0003-4634-4995), [Fiona Bradley](https://orcid.org/0000-0002-3622-2794), ([Bjoern Brembs]( http://orcid.org/0000-0001-7824-7650)), (Pawel Szczesny), Lisa Matthias, [Jesper Norgaard Kjaer](http://orcid.org/0000-0001-9183-9861), [Daniel S. Katz](http://orcid.org/0000-0001-5934-7525), [Tom Crick](https://orcid.org/0000-0001-5196-9389), [Christopher R. Madan](https://orcid.org/0000-0003-3228-6501), [Paul Macklin](https://orcid.org/0000-0002-9925-0151), [Johanna Havemann](https://orcid.org/0000-0002-6157-1494), [Jennifer E. Beamer](https://orcid.org/0000-0001-6887-6568), [Michael Schulte-Mecklenbeck](https://orcid.org/0000-0002-0406-8809), Dan Sholler, Paola Masuzzo, [Tobias Steiner](https://orcid.org/0000-0002-3158-3136), [Tim Koder](https://orcid.org/0000-0001-6152-7365), [David Nichols](https://orcid.org/0000-0003-0321-7267), [Daniel Graziotin](https://orcid.org/0000-0002-9107-7681), Alastair Dunning, [Andy Turner](http://orcid.org/0000-0002-6098-6313), [Neo Christopher Chung](https://orcid.org/0000-0001-6798-8867)
 
 *[Contact](mailto:jon.tennant.2@gmail.com)
 
@@ -822,6 +822,8 @@ There is currently little consensus over whether the future of Open Scholarship 
   
   * The Open movement is beset by communication and engagement challenges, including from powerful players with opposing or divergent interests. The community should adopt the stance of 'radical kindness' when engaging with those actors, and treat them with absolute, unwavering civility; in particular, when those common courtesies are not repaid to them.
   
+  * Open Scholarship does come with its own language and set of technical terms. To lower engagement thresholds, avoid the use of jargon where possible, and make sure commonly used terms are defined with precision.
+  
 * **Copyright**.
 
   * Realising that legal (copyright) and economic (ownership/business models) knowledge may be as important as technical knowledge.
@@ -838,25 +840,42 @@ There is currently little consensus over whether the future of Open Scholarship 
 
 ## 7.2 Internal conditions <a name="Internal"></a>
 
-* Rate of growth
+* **Rate of growth**.
 
-  * All current evidence indicates that Open Scholarship momentum is building, in terms of more widespread understanding of issues and adoption of practices (e.g., in terms of number of institutional Open Access policies (NOTE: ROARMAP)). But such diffusion is often slow and granular, and beset by frictions. Further experimentation should be encouraged to demonstrate the applicability of larger-scale adoption of practices and to increase the rate of growth, and ultimate impact, of Open Scholarship.
+  * All current evidence indicates that Open Scholarship momentum is building, in terms of more widespread understanding of issues and adoption of practices (e.g., in terms of number of institutional Open Access policies, as indicated by [ROARMAP](http://roarmap.eprints.org/dataviz2.html)).
+  
+![Figure_7](Policies.png)\
+  
+   * But such diffusion is often slow and granular, and beset by frictions. Further experimentation should be encouraged to demonstrate the applicability of larger-scale adoption of practices and to increase the rate of growth, and ultimate impact, of Open Scholarship.
 
-* Avoiding quarrelling about details, not realizing amount of agreement on the main issues.
+* **Avoiding quarrelling about details**.
 
-* Overcoming lack of money / Financial Sustainability
+  *Often, the Open Scholarship movement seems to be fairly combatative about minute issues, without realizing amount of agreement on the main issues. Focusing on the core principles and idnetifying that as common ground sets fertile ground for further, productive discussion.
 
-* Lack of patience among Open Scholarship proponents.
+* **Overcoming lack of money**.
+
+  * Financial Sustainability is a key aspect for the future of Open Scholarship. A greater understanding of financial workflows in scholarly communication is required, and to support initiatives such as SCOSS, which is dedicated to supporting a sustainable and open scholarly infrastructure.
+  
+  * Initiatives such as [The 2.5% Commitment](http://intheopen.net/2017/09/join-the-movement-the-2-5-commitment/) could be important in the future. This states simply that: "*Every academic library should commit to contribute 2.5% of its total budget to support the common infrastructure needed to create the open scholarly commons*." 
+  
+  * Thus, there is clear scope for diverting funds away from present flows (e.g., subscriptions) into more sustainable Open Scholarship ventures. 
+
+* **Lack of patience among Open Scholarship proponents**.
 
   * We fully recognise the burdens and pressures that researchers already have, in maintaining high productivity levels, funding applications, administration, teaching, and other duties. This means that often, Open Scholarship, is not highly prioritised, as the current reward system is still highly focussed on publication of novel results in high impact journals, which can stifle the rate of growth. Open Scholarship proponents need to be patient and understand this burden.
 
-* Seeing how diverse initiatives working at different speeds in different communities can still reinforce each other in working towards the same broad goals.
+  * Seeing how diverse initiatives working at different speeds in different communities can still reinforce each other in working towards the same broad goals.
 
   * Researchers do not necessarily need to be open activists. However, they should be aware of the functions of the wider scholarly communication system, and the diverse range of processes and norms that are involved in this.
 
-* Dealing with (lack of) diversity, bias of English speaking communities
+* **Dealing with (lack of) diversity**.
 
-  * Related - need to recognise that not all strategies fit all regions - allow for flexibility - make sure that other regions are not negatively impacted by decisions taken by other groups
+  * This includes an inherent bias towards English-speaking communities, which discriminates against those who do not speak this, either as their first language at all.
+
+  * Open Scholarship must recognise that not all strategies are suitable for all regions, and allow for flexibility as such. 
+  
+  * Related to this, the movement must make sure that other regions are not negatively impacted by decisions taken by other extrinsic groups.
+
 
 # 8. Opportunities <a name="Opportunities"></a>
 
