@@ -29,6 +29,8 @@ title: "Foundations for Open Scholarship Strategy Development"
   * [Community and inclusion](#Community)
 * [Movement Strengths](#Strengths)
 * [Movement Challenges](#Challenges)
+  * [External conditions](#External)
+  * [Internal conditions](#Internal)
 * [Opportunities](#Opportunities)
 * [Threats](#Threats)
 
@@ -776,7 +778,7 @@ This section of the strategy will describe some of the strengths of the Open Sch
 
 These challenges represent potential focal points of future discussion, research, and policy development. They include both external conditions in the greater research ecosystem, and internal conditions that exist within the Open Scholarship movement. Not all challenges are equal, or present in every potential context or community. However, these are frequently discussed in discussions about Open Scholarship strategy, and therefore should be highlighted here.
 
-## 7.1 External conditions
+## 7.1 External conditions <a name="External"></a>
 
 * **Reconciling private interests**.
 
@@ -834,7 +836,7 @@ There is currently little consensus over whether the future of Open Scholarship 
   
   * Wider engagement of non-academic audiences, particularly members of the general public, is important to overcome any political inertia regarding Open Scholarship.
 
-## 7.2 Internal conditions
+## 7.2 Internal conditions <a name="Internal"></a>
 
 * Rate of growth
 
