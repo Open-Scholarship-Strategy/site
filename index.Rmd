@@ -88,11 +88,11 @@ We also note that this strategy can only be based on information which we as a c
 
 ![Figure_1](images/image_0.png)\
 
-[Kramer, Bianca, & Bosman, Jeroen. (2018, January). Rainbow of open science practices. Zenodo](http://doi.org/10.5281/zenodo.1147024). (CCBY)
+[Kramer, Bianca, & Bosman, Jeroen (2018, January). Rainbow of open science practices. Zenodo](http://doi.org/10.5281/zenodo.1147024). (CCBY)
 
 ![Figure_2](images/image_1.png)\
 
-[Steiner, Tobias. (2018, February). Open Educational Practice (OEP): collection of scenarios. Zenodo](https://zenodo.org/record/1183805). (CC0).
+[Steiner, Tobias (2018, February). Open Educational Practice (OEP): collection of scenarios. Zenodo](https://zenodo.org/record/1183805). (CC0)
 
 
 * Form better relationships with other stakeholders involved in Open Scholarship developments (e.g., librarians, policymakers, publishers and other service providers, Open Access advocates, and those actively teaching, plus ICT and other support positions for science & education).
@@ -170,6 +170,7 @@ We also note that this strategy can only be based on information which we as a c
 * Encourage further adoption by publishers of the [Initiative for Open Citations](https://i4oc.org/) (I4OC) in conjunction with the wider uptake of open standards.
 
 * For research institutes that currently lack them, either launch and maintain an Open Access repository or find an existing resource to use, and adopt an [Open Access policy](https://cyber.harvard.edu/hoap/Good_practices_for_university_open-access_policies). Make these easily discoverable and accessible on the institutional website, and any relevant indexing services.
+   * Examples of Open Access policies can be found e.g. via the [ROARMAP](http://roarmap.eprints.org/cgi/search/advanced)
 
 * Promote and compensate time and effort spent on training and advocacy for the various aspects of Open Scholarship, including Open Source, Open Access, and Open Education.
 
@@ -182,7 +183,7 @@ We also note that this strategy can only be based on information which we as a c
 
 * Create new or support/contact existing international library consortia/collaborations (e.g., the [International Coalition of Library Consortia](http://icolc.net/)) to co-operate on infrastructure developments (e.g., [LIBER](http://libereurope.eu/), [EIFL](http://www.eifl.net/), [ARL](http://www.arl.org/), and [SPARC](https://sparcopen.org/)).
 
-* Sign on to the Global Sustainability Coailition for Open Science Services [(SCOSS)](http://scoss.org/), and investigate coalitions with the [Open Research Funders Group](http://www.orfg.org).
+* Sign on to the Global Sustainability Coalition for Open Science Services [(SCOSS)](http://scoss.org/), and investigate coalitions with the [Open Research Funders Group](http://www.orfg.org).
 
      * Consortia like the German [Projekt DEAL](https://www.projekt-deal.de/) could provide examples of how to take the first step towards this at a national level. Gaining support from SPARC for any such developments would also be useful.
 
@@ -371,13 +372,13 @@ For more than two decades, the movement for Open Scholarship has evolved from a 
 
 The goals and broader vision for Open Scholarship are outlined in foundational documents including the [Budapest Open Access Initiative](http://www.budapestopenaccessinitiative.org/), The [Open Archives Initiative](https://www.openarchives.org/), [Vienna Principles](http://viennaprinciples.org/), [Scholarly Commons principles](https://www.force11.org/scholarly-commons/principles), and The [Panton Principles](https://en.wikipedia.org/wiki/Panton_Principles). Throughout time, there have been dozens of [declarations](http://oad.simmons.edu/oadwiki/Declarations_in_support_of_OA), [charters](https://docs.google.com/spreadsheets/d/1-aRXFiRg-VL9hpLpxoJqX6-OC-A0R2oCogHfIx52Nug/edit#gid=956616118), and statements about the priorities of the various aspects of Open Scholarship. The result of this is that there are now numerous competing, parallel, or overlapping definitions of what Open Scholarship comprises in terms of both research principles and practice, which aim to encapsulate the movement towards fostering scientific growth alongside public accessibility.
 
-Herein, we find it useful to consider Open Scholarship to be analogous to a boundary object, in that it is flexibly adaptive, interpreted differently across communities but with enough immutable content to maintain its integrity. Next to [Peters et al.,  2012](https://www.routledge.com/Virtues-of-Openness-Education-Science-and-Scholarship-in-the-Digital/Peters-Roberts/p/book/9781594516863)'s approach, we find [Fecher and Friesike (2013)](https://link.springer.com/chapter/10.1007%2F978-3-319-00026-8_2)'s five "schools of thought" to be particularly useful in framing this strategy, based on the components: Infrastructure, Measurement, Public, Democratic and Pragmatic. Furthermore, we now extend this to suggest a sixth school of Community and Inclusion, based on developments in this space in the last 5 years (and more). The OCSD (Open and Collaborative Science in Development) Network has an [Open Science Manifesto](https://ocsdnet.org/manifesto/open-science-manifesto/) for a more inclusive Open Science for social and environmental well-being that is also highly useful in framing for this strategy.
+Herein, we find it useful to consider Open Scholarship to be analogous to a boundary object, in that it is flexibly adaptive, interpreted differently across communities but with enough immutable content to maintain its integrity. Next to [Peters and Roberts,  2012](https://www.routledge.com/Virtues-of-Openness-Education-Science-and-Scholarship-in-the-Digital/Peters-Roberts/p/book/9781594516863)' approach, we find [Fecher and Friesike, 2013](https://link.springer.com/chapter/10.1007%2F978-3-319-00026-8_2)'s five "schools of thought" to be particularly useful in framing this strategy, based on the components: Infrastructure, Measurement, Public, Democratic and Pragmatic. Furthermore, we now extend this to suggest a sixth school of Community and Inclusion, based on developments in this space in the last 5 years (and more). The OCSD (Open and Collaborative Science in Development) Network has an [Open Science Manifesto](https://ocsdnet.org/manifesto/open-science-manifesto/) for a more inclusive Open Science for social and environmental well-being that is also highly useful in framing for this strategy.
 
 These previous works have been, and remain to be, crucial for building a central identity for the global Open Scholarship community, communicating the case for Open Scholarship to wider society, and providing a basis to push the global movement forward. To realize the full potential and vision of Open Scholarship, we believe that a document is needed that asks critical questions about the internal structure of Open Scholarship as a movement, and addresses strategic questions about how we, as a global movement, can identify concrete steps to achieving these goals. For those unfamiliar with the language of Open Scholarship, we refer them to the [Open Research Glossary](http://www.righttoresearch.org/resources/openresearchglossary/), hosted by the Right to Research Coalition.
 
 ![Figure_3](images/image_2.png)\
 
-[Fecher and Frieseke (2013), Five schools of thought in Open Scholarship](https://www.fosteropenscience.eu/content/what-open-science-introduction)).
+[Fecher and Frieseke (2013). Five schools of thought in Open Scholarship](https://www.fosteropenscience.eu/content/what-open-science-introduction). (CC BY NC)
 
 
 # 4. State of the Movement <a name="State"></a>
@@ -413,7 +414,7 @@ However, we acknowledge that Open Scholarship is not a simple construct to under
 
 ![Figure_4](images/image_3.png)\
 
-[Principles of Open Scholarship, by Tony Ross-Hellauer](https://www.slideshare.net/OpenAIRE_eu/peer-review-in-the-age-of-open-science), CC BY).
+[Tony Ross-Hellauer (2014). Principles of Open Scholarship. Slideshare](https://www.slideshare.net/OpenAIRE_eu/peer-review-in-the-age-of-open-science). (CC BY).
 
 
 ### 4.1.4 Open Scholarship ecosystem
@@ -430,7 +431,7 @@ Four major elements exist as preconditions to Open Scholarship adoption:
 
 ![Figure_5](images/image_4.png)\
 
-Adapted from the [Foster Open Scholarship Taxonomy](https://www.fosteropenscience.eu/taxonomy/term/102) (CC BY 4.0). Please note that this is a non-exhaustive taxonomy of all possible aspects of Open Science.
+Adapted from the [Foster Open Scholarship Taxonomy](https://www.fosteropenscience.eu/taxonomy/term/102) (CC BY 4.0). *Please note that this is a non-exhaustive taxonomy of all possible aspects of Open Science & Scholarship.*
 
 ## 4.2 Varied Perspectives
 
@@ -511,7 +512,7 @@ Importantly, democracy in Open Scholarship means not only equal access to knowle
 
 Indeed, it is quite unlikely that more than 10 million scientists, highly educated and intelligent, would agree with some rules created for them by a small number of people (or even worse, by some groups with financial interest). A more likely scenario is that the new rules governing Open Scholarship will appear in the open debate, through many collective projects, just like how this strategy was formed through collective editing. Several specific mechanisms have been proposed to realise democratic values in Open Scholarship in a decentralised way, including peer-to-peer and blockchain-based mechanisms.
 
-In working towards principles of Open Scholarship, we acknowledge that there is the potential for complexity, or even conflict in our objectives as policies and working practices evolve. Awareness of the broader research, industry and education landscape will help to position Open Scholarship to have the greatest possible impact, and to mitigate the potential of other policies and priorities to limit its potential. For example, copyright proposals in the EU that would limit who is permitted to undertake TDM (text and data mining), or policies promoting intellectual property (IP) and commercialisation should be balanced with policies that permit a wide range of uses of data, research, and knowledge.
+In working towards principles of Open Scholarship, we acknowledge that there is the potential for complexity, or even conflict in our objectives as policies and working practices evolve. Awareness of the broader research, industry and education landscape will help to position Open Scholarship to have the greatest possible impact, and to mitigate the potential of other policies and priorities to limit its potential. For example, copyright proposals in the EU that would limit who is permitted to undertake TDM (text and data mining), or policies promoting intellectual property (IP) and commercialisation should be balanced with policies that permit a wide range of uses of data, research, and knowledge. There do exist a number of [recent](https://www.communia-association.org/) [initiatives](https://fixcopyright.eu/) working towards the development of copyright frameworks that help the Open Scholarship cause.  
 
 Other specific aspects include:
 
@@ -602,11 +603,11 @@ This includes elements such as:
 
 * Support and dissemination services (e.g., Sherpa/RoMEO);
 
-* Repository services (e.g., [COAR](https://www.coar-repositories.org/));
+* Repository services (e.g., [COAR](https://www.coar-repositories.org/) and [OpenDOAR](http://v2.sherpa.ac.uk/opendoar/));
 
 * Publishing services (e.g., arXiv);
 
-* Collaboration platforms and tools (e.g., the Open Science Framework);
+* Collaboration platforms and tools (e.g., the [Open Science Framework](https://osf.io/));
 
 * Automation of open practices ("open by default");
 
@@ -779,7 +780,8 @@ One issue with top-down policies is that bodies such as governments and funders 
 
 * **Accessibility, user-friendliness, and dissemination**.
 
-  * The Open Scholarship movement publishes articles and resources that are typically free, well indexed by Google (and other search engines), easy to read on mobile devices, and quick to make use of graphics and multimedia to illustrate points. This tendency to embrace technology helps the Open Scholarship movement disseminate its ideas more broadly and quickly than can be accomplished by traditional publication methods.
+  * The Open Scholarship movement publishes articles and resources that are typically free, well-indexed by Google and other search engines, easy to read on mobile devices, and quick to make use of graphics and multimedia to illustrate points. This tendency to embrace technology helps the Open Scholarship movement disseminate its ideas more broadly and quickly than can be accomplished by traditional publication methods.
+  * Corresponding practices such as the active use of platform-independent text formatting (i.e. via markdown), the provision of well-formed document structures via clearly-labeled headings, paragraphs, etc., and a pro-active assignment of alt-texts for images and descriptive information for graphs, videos, etc. does not only help making information machine-readable, which is needed for properly disseminating information via the semantic web, but also has the added benefit of making this information accessible for people with access needs (see e.g. the basic accessibility guidelines provided by [UK Home Office Digital](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf)).    
 
 
 # 7. Movement Challenges <a name="Challenges"></a>
