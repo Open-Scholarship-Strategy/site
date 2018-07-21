@@ -396,7 +396,8 @@ Perhaps the most widespread commonality between Open Scholarship stakeholders is
 
 ### 4.1.2 Overall goals and vision
 
-Research practices and scholarly communications are constantly evolving. However, despite the fact that the Web was originally designed around 30 years ago to disrupt the hierarchical approach of information management by the decentralisation of scholarly communications ([Berners-Lee, 1989](https://www.w3.org/History/1989/proposal.html)), the pervasive spread of the Web has left much of the pre-existing scholarly publication model and industry fundamentally unchanged. Such a perceived slow rate of change or inertia can possibly be attributed to the wide range of diverse stakeholders engaged in this domain, and the deep entrenchment of interests and positions; for example, over copyright, journal brands, and research assessment. As such, one common perspective is that scholarly communication processes need to increasingly embrace the power of Web-native technologies in order to make use of the semantic web (see e.g. [Hitzler, 2010](http://www.semantic-web-journal.net/content/reasonable-semantic-web) or [Pomerantz, 2015](https://mitpress.mit.edu/books/metadata)) that promises to enhance networking, collaboration, and transparency in research. Alignment of this ideal with the process of research itself is what is broadly agreed on as Open Scholarship, and there has been an undeniable explosion in the rate of innovation in scholarly communication in this in the last 10 years.
+Research practices and scholarly communications are constantly evolving. However, despite the fact that the Web was originally designed around 30 years ago to disrupt the hierarchical approach of information management by the decentralisation of scholarly communications ([Berners-Lee, 1989](https://www.w3.org/History/1989/proposal.html)), the pervasive spread of the Web has left much of the pre-existing scholarly publication model and industry fundamentally unchanged. Such a perceived slow rate of change or inertia can possibly be attributed to the wide range of diverse stakeholders engaged in this domain, and the deep entrenchment of interests and positions; for example, over copyright, journal brands, and research assessment.
+As such, one common perspective is that scholarly communication processes need to increasingly embrace the power of Web-native technologies in order to make use of the semantic web (see e.g. [Hitzler, 2010](http://www.semantic-web-journal.net/content/reasonable-semantic-web) or [Pomerantz, 2015](https://mitpress.mit.edu/books/metadata)) that promises to enhance networking, collaboration, and transparency in research. Alignment of this ideal with the processes of research and education is what is broadly agreed on as Open Scholarship, and there has been an undeniable explosion in the rate of innovation in scholarly communication in this in the last 10 years.
 
 The primary vision here, and one which we are optimistic of achieving, is three-fold:
 
@@ -617,7 +618,7 @@ This includes elements such as:
 
 * Interoperability of services (e.g., based on FAIR principles); and,
 
-* Semantic web technology: metadata, harvesting, exchange services.
+* Semantic web technology: metadata, harvesting, exchange services (see e.g. [the Open Metadata Handbook](https://www.oercommons.org/courses/open-metadata-handbook/view)).
 
 Perhaps the best way to regard infrastructure is as existing interactive technologies that you do not really notice until they cease to work as they should. For example, automated and integrated data sharing without individual submissions to fragmented online data repositories.
 
@@ -630,7 +631,7 @@ Based on the recognition that true societal impact requires societal engagement 
 
 Much of this relates to the changing role of a researcher within a modern, digital society, and distills down to two main aspects:
 
-1. The influence that the wider public can have on the intrinsci research process; and
+1. The influence that the wider public can have on the intrinsic research process; and
 
 2. The understanding of that research by a wider non-specialist audiences, including effective ways of communicating research.
 
@@ -655,7 +656,7 @@ Key aspects here include:
 
 ## 5.5 Measurement <a name="Measurement"></a>
 
-To shift the behaviour of academics it is necessary to change how they are measured; to change how they are measured means new metrics that reflect different values and more diverse forms of scientific impact. Ironically perhaps, the usage of advanced metrics and analytics for research assessment is in its relative infancy within the halls of academia.Practically, finding a way to integrate a research openness metric into University Ranking system algorithms would embed openness values into policy and align measures with core open values. An alternative, which does not seem too appealing to many, would be to do away with any form of measurement, which often is considered to be bad for the progress of scientific research.
+To shift the behaviour of academics it is necessary to change how they are measured; to change how they are measured means new metrics that reflect different values and more diverse forms of scientific impact. Ironically perhaps, the usage of advanced metrics and analytics for research assessment is in its relative infancy within the halls of academia. Practically, finding a way to integrate a research openness metric into University Ranking system algorithms would embed openness values into policy and align measures with core open values. An alternative, which does not seem too appealing to many, would be to do away with any form of measurement, which often is considered to be bad for the progress of scientific research.
 
 There is a widespread acknowledgement that traditional metrics for measuring scientific impact have proven problematic, for example by being too heavily focused on journal publications or inappropriately applied at the journal-level. The most notorious contender here is the Journal Impact Factor, an average citation metric across journals that is often inappropriately used at the article- and individual-level, and also confines assessment to journal-based research outputs, thereby discriminating against innovative forms of research assessment.
 
@@ -735,6 +736,8 @@ This section of the strategy will describe some of the strengths of the Open Sch
   * The global scholarly community is vast, covering every continent, and embedded within strong research and academic institutes. The 'Open' movement goes beyond just scholarship, and is related to wider fields such as Open Culture, Open Government, Open Source, and Open Society. Therefore, the potential collective impact that the movement can have is enormous, with ramifications for global society; for example, influencing the [UN Sustainable Development Goals](http://www.unfoundation.org/features/globalgoals/the-global-goals.html).
 
 ![Figure_6](UN_sustainable.png)\
+
+*see [UN Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/) website*
 
   * Open Scholarship activism as part of a broader Open movement is benefiting from cross-collaborations with advocates from across different sectors. For example, now Open Scholarship is seen as a gateway to Open Education, but has policies strengthened by experiences from the Open Source movement.
 
