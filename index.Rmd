@@ -735,7 +735,7 @@ This section of the strategy will describe some of the strengths of the Open Sch
 
   * The global scholarly community is vast, covering every continent, and embedded within strong research and academic institutes. The 'Open' movement goes beyond just scholarship, and is related to wider fields such as Open Culture, Open Government, Open Source, and Open Society. Therefore, the potential collective impact that the movement can have is enormous, with ramifications for global society; for example, influencing the [UN Sustainable Development Goals](http://www.unfoundation.org/features/globalgoals/the-global-goals.html).
 
-![Figure_6](UN_sustainable.png)\
+![Figure_6](images/UN_sustainable.png)\
 
 *see [UN Sustainable Development Goals](https://www.un.org/sustainabledevelopment/sustainable-development-goals/) website*
 
