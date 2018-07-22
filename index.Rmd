@@ -77,6 +77,7 @@ We also note that this strategy can only be based on information which we as a c
 * Make contributions of an individual to openness visible in public (e.g., on a CV, open platform, or personal website/blog).
 
 * Adopt a broad-scale approach to the variety of open scholarly research and education practices. See the [FOSTER Open Science taxonomy](https://www.fosteropenscience.eu/resources) for guidance.
+   * Most importantly, begin with [making your own work available open access](https://cyber.harvard.edu/hoap/How_to_make_your_own_work_open_access).
 
 * Adopt the use of open source and free software for the conduct of research and analysis so that the computational processing can be audited by the community, and so that the tools used are available to everyone to increase productivity and collaboration.
 
@@ -84,7 +85,7 @@ We also note that this strategy can only be based on information which we as a c
 
 * Commit to sharing preprints for the open and rapid dissemination of your work.
 
-* Establish support structures (e.g., openLab, walk-in labs, makerspaces in the wider sense) that help to guide other individuals along the path towards Open Scholarship. This can include questions of how to publish, teach, learn and do research in the open, and what tools are available to use for these (Figures 1 and 2).
+* Establish support structures (e.g., openLab, walk-in labs and support structures, makerspaces in the wider sense) that help to guide other individuals along the path towards Open Scholarship. This can include questions of how to publish, teach, learn and do research in the open, and what tools are available to use for these (Figures 1 and 2).
 
 ![Figure_1](images/image_0.png)\
 
@@ -105,7 +106,7 @@ We also note that this strategy can only be based on information which we as a c
 
   * As an alternative, adopt the [Leiden Manifesto](http://www.leidenmanifesto.org/).
 
-* Refuse to sign copyright transfer agreements, unless you are allowed to retain copyright of your work under a [Creative Commons](https://creativecommons.org/) license of your own choosing.
+* Refuse to sign copyright transfer agreements, unless you are allowed to retain copyright of your work under a [Creative Commons](https://creativecommons.org/licenses) license of your own choosing.
 
 
 **Group Level (e.g., labs, departments)**
