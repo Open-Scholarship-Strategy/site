@@ -469,7 +469,7 @@ Regarding Open Access, there is little consensus on the best way forward for thi
 The result of this is that the relationship network of stakeholders engaged in scholarly communication, and in particular developments in Open Scholarship, is particularly complex. Some of the most highly debated points include:
 
 * Appropriate licensing schemes for research data;
-* Where funding for scholarly publishing activites should come from;
+* Where funding for scholarly publishing activities should come from;
 * Who should be in charge of scholarly research infrastructure;
 * What the optimal model of Open Access should be, and what the traits of this are;
 * The role of charities, non-profit, and for-profit players; and
@@ -555,11 +555,11 @@ Following the principle that the creation of knowledge is made more efficient th
 
 Additional key aspects include:
 
-* Making the process behind research should be as transparent as possible, and as closed as neccessary (for example, in order to protect sensitive data).
+* Making the process behind research should be as transparent as possible, and as closed as necessary (for example, in order to protect sensitive data).
 
 * Reproducibility ([Leek and Peng, 2015](http://www.pnas.org/content/112/6/1645); [Patil et al., 2016](https://www.biorxiv.org/content/early/2016/07/29/066803)), enhanced by increased transparency of research processes themselves, and not just outputs.
 
-  * Includes core aspects such as open methodologies, acess to research tools for open work, as well as more transparent research workflows around preprints and open peer review.
+  * Includes core aspects such as open methodologies, access to research tools for open work, as well as more transparent research workflows around preprints and open peer review.
 
   * This can help to resolve ongoing reproducibility crises in medicine, psychology, economics, and sociology.
 
@@ -594,7 +594,7 @@ Achieving the full benefits of Open Scholarship requires platforms, tools and se
 
 Examples of existing infrastructure include the [DOAJ](https://doaj.org/), [arXiv](https://arxiv.org/), the [Open Science Foundation](http://opensciencefoundation.eu/), [Sherpa/RoMEO](http://www.sherpa.ac.uk/romeo/index.php), [ORCID](https://orcid.org/), the [Open Science Framework](https://osf.io/), [Public Knowledge Project](https://pkp.sfu.ca/), among others, which offer crucial services to a range of stakeholders. Without sustainable funding sources, these services remain vulnerable to either collapse, or being acquired by players in the private sector, an increasingly common occurrence.
 
-To reduce the risk of infrastructure collapse, and to increase its capacity, continued funder support is required for any sort of sustainable scholarly infrastructure (e.g., [Anderson et al., 2017](https://www.biorxiv.org/content/early/2017/04/27/110825)). A proportion of research funder budgets should be allocated to support this (e.g., 2%), and initiatives such as [SCOSS](http://scoss.org/) andthe [Open Research Funders Group](http://www.orfg.org) should be fully supported in this regard.
+To reduce the risk of infrastructure collapse, and to increase its capacity, continued funder support is required for any sort of sustainable scholarly infrastructure (e.g., [Anderson et al., 2017](https://www.biorxiv.org/content/early/2017/04/27/110825)). A proportion of research funder budgets should be allocated to support this (e.g., 2%), and initiatives such as [SCOSS](http://scoss.org/) and the [Open Research Funders Group](http://www.orfg.org) should be fully supported in this regard.
 
 This includes elements such as:
 
@@ -747,7 +747,7 @@ This section of the strategy will describe some of the strengths of the Open Sch
 
 * **Strength of research and evidence supporting Open Scholarship practices**.
 
-  * There is an increasingly strong case now supporting almost all aspects of Open Scholarship. Some key summaries of this work include [McKiernan et al., (2016)](https://elifesciences.org/articles/16800) and [Tennant et al., (2016)](https://f1000research.com/articles/5-632/v3). The impcat of this can be seen at mulitple levels, from the practices of individuals, up to national-level policies around Open Access and Open Science.
+  * There is an increasingly strong case now supporting almost all aspects of Open Scholarship. Some key summaries of this work include [McKiernan et al., (2016)](https://elifesciences.org/articles/16800) and [Tennant et al., (2016)](https://f1000research.com/articles/5-632/v3). The impcat of this can be seen at multiple levels, from the practices of individuals, up to national-level policies around Open Access and Open Science.
 
   * Key projects, groups, and scholars have been conducting research into various aspects of Open Scholarship and its impacts, finding them to be almost overwhelmingly positive. As the movement grows, the evidence base, and the depth of critical analysis will continue to develop and mature.
 
@@ -882,7 +882,7 @@ These policies span countries, scientific disciplines, and components of the Ope
 
 * **Lack of patience among Open Scholarship proponents**.
 
-  * We fully recognise the burdens and pressures that researchers already have, in maintaining high productivity levels, funding applications, administration, teaching, and other duties. This means that often, Open Scholarship, is not highly prioritised, as the current reward system is still highly focussed on publication of novel results in high impact journals, which can stifle the rate of growth. Open Scholarship proponents need to be patient and understand this burden.
+  * We fully recognise the burdens and pressures that researchers already have, in maintaining high productivity levels, funding applications, administration, teaching, and other duties. This means that often, Open Scholarship, is not highly prioritised, as the current reward system is still highly focused on publication of novel results in high impact journals, which can stifle the rate of growth. Open Scholarship proponents need to be patient and understand this burden.
 
   * Seeing how diverse initiatives working at different speeds in different communities can still reinforce each other in working towards the same broad goals.
 
