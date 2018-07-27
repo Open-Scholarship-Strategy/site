@@ -178,6 +178,9 @@ We also note that this strategy can only be based on information which we as a c
 
 * Encourage and adopt the principles for fairer research assessment outlined in DORA. Make sure that those in charge of research assessment, including hiring, tenure, and grant-awarding committees adhere to these.
 
+* Explore substituting proprietary software with open source alternatives.
+
+* Require researchers to work with open standards and file formats (either exclusively or in addition to propritary standards and file formats).
 
 **National Level (or higher)**
 
@@ -208,6 +211,12 @@ We also note that this strategy can only be based on information which we as a c
 * Encourage research funders to diversify the portfolio of what is considered as a research output for assessment purposes.
 
     * Wider adoption of preprint and Open Access policies similar to those at the NIH (USA) and Wellcome Trust (UK).
+
+* Encourage research funders to develop calls to support evidence- and theory-based interventions to promote Open Scholarship.
+
+    * Fund determinant studies that use behavior change theory to map the determinants of engaging in different Open Scholarship practices (e.g., why do some researchers routinely publish preprints while others do not? Are the arguments produced by researchers opposed to data sharing indeed the reasons why those who do not share data, do not?)
+    
+    * Fund studies that use stakeholder theory to explore ways to achieve more Open Scholarship policies at research and education institutions.
 
 * A reduction of article-processing charges (APCs) in hybrid titles to match the market average for OA-only journals.
 
@@ -298,7 +307,7 @@ The expectation at this point is that specific parts of the short-term strategy 
 
 * Start implementing semantic technology across all scholarship outputs, including for the purposes of enabling unrestricted text and data mining.
 
-* Formulation of recommended career metrics that incentivize Open Data publication, Open Source software release, and research support.
+* Formulation of recommended career metrics that incentivize Open Data publication, Open Materials, Open Source software release, and research support.
 
   * Ensure that fairer and more rigorous research assessment policies are in place, and well-supported and monitored.
 
@@ -307,6 +316,10 @@ The expectation at this point is that specific parts of the short-term strategy 
   * For remaining hybrid journals that have not attained this level, refuse to support publication of Open Access articles in those venues, and also refuse to renew subscriptions.
 
 * Increase funding for outreach, especially to under-represented demographics.
+
+* Fund further research into determinants identified as relevant to engage in Open Scholarship.
+
+* Fund intervention development of interventions to target individuals and instititions to adopt Open Scholarship practices and policies.
 
 * Engage library consortia (e.g., LIBER, EIFL) with national negotiation consortia, and any relevant higher education unions, in order to strengthen researcher coalitions. Supplement these with scholarly collaborations (e.g., eLife, NISO) in order to further develop relationships and collaborations across the scholarly communication sector.
 
@@ -494,6 +507,8 @@ However, some aspects are clear, which can be generally agreed upon by all stake
 * Building a significant number of education, training and support systems based on Open Scholarship skills development.
 
 * Replacing entire traditional research workflows by Open Scholarship methodologies.
+
+* Phasing out proprietary software in favour of free and open source software.
 
 * Measurably increasing quality of research and achievement that leads to greater career prospects, and social, academic, and economic growth and innovation.
 
@@ -914,6 +929,8 @@ From these examples, it is clear that there is a general lack of synthesized and
 
 * **Barriers to Open Access adoption**:
 
+  * Lack of research into personal determinants and environmental conditions of (not) publishing Open Access
+
   * Lengthy embargo periods to protect publisher revenues;
 
   * Complex, confusing, and difficult to navigate embargo periods;
@@ -940,6 +957,8 @@ From these examples, it is clear that there is a general lack of synthesized and
 
 
 * **Barriers to data sharing**:
+
+  * Lack of research into personal determinants and environmental conditions of (not) sharing data
 
   * Lack of skills and awareness of best practices;
 
