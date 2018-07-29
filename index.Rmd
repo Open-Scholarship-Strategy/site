@@ -6,9 +6,9 @@ title: "Foundations for Open Scholarship Strategy Development"
 
 #### Version information
 
-- Version 1.0 | October 16, 2017 - Started document.
-- Version 1.1 | June 06, 2018 - Created website.
-- Version 1.2 | IN PREP - Completed first draft (target: July 30, 2018)
+- Version 1.0 -- October 16, 2017 - Started document.
+- Version 1.1 -- June 06, 2018 - Created website.
+- Version 1.2 -- IN PREP - Completed first draft (target: July 30, 2018)
 
 
 ### Table of Contents
@@ -61,7 +61,7 @@ Ultimately, we expect the impact of widespread adoption of Open Scholarship to b
 
 # 2. Strategy <a name="Strategy"></a>
 
-"*[Strategy](https://en.wikipedia.org/wiki/Strategy) generally involves setting goals, determining actions to achieve the **goals**, and mobilizing resources to execute the actions. A strategy describes how the ends (goals) will be achieved by the means (resources).*"
+"*[Strategy](https://en.wikipedia.org/wiki/Strategy) generally involves setting goals, determining actions to achieve the goals, and mobilizing resources to execute the actions. A strategy describes how the ends (goals) will be achieved by the means (resources).*"
 
 In order to overcome the challenges and achieve our priorities, we need to build on our strengths. We have identified three main temporal components (short-, mid-, and long-term) of our overall strategy to be used as direct suggestions for action on the individual, group, institutional or national (or higher) level.
 
@@ -87,7 +87,17 @@ We also note that this strategy can only be based on information which we as a c
 
 * Commit to sharing preprints for the open and rapid dissemination of your work.
 
-* Establish support structures (e.g., openLab, walk-in labs and support structures, makerspaces in the wider sense) that help to guide other individuals along the path towards Open Scholarship. This can include questions of how to publish, teach, learn and do research in the open, and what tools are available to use for these (Figures 1 and 2).
+* Establish and foster practices of re-use and remix by, among other things,
+
+   * searching for existing data you can reuse instead of creating your own data,
+
+   * leaving **constructive** comments/annotations on preprints/code etc. with open tools such as [hypothes.is](https://web.hypothes.is/),
+
+   * helping answer questions in [Ask Open Science](https://ask-open-science.org/), [Stack Overflow](https://stackoverflow.com/) and on Twitter,
+
+   * reacting positively to requests for open review.
+
+* Establish support structures (e.g., openLab, walk-in labs and support structures, makerspaces in the wider sense) that help to guide other individuals along the path towards Open Scholarship. This can include questions of how to publish, teach, learn and do research in the open, and what tools are available to use for these (see Figures 1 and 2, and *Group Level* section).
 
 ![Figure_1: Rainbow of open science practices](images/image_0.png)\
 
@@ -96,7 +106,6 @@ We also note that this strategy can only be based on information which we as a c
 ![Figure_2: Open Educational Practice (OEP): collection of scenarios](images/image_1.png)\
 
 [Steiner, Tobias (2018, February). Open Educational Practice (OEP): collection of scenarios. Zenodo](https://zenodo.org/record/1183805). (CC0)
-
 
 * Form better relationships with other stakeholders involved in Open Scholarship developments (e.g., librarians, policymakers, publishers and other service providers, Open Access advocates, and those actively teaching, plus ICT and other support positions for science & education).
 
@@ -117,9 +126,13 @@ We also note that this strategy can only be based on information which we as a c
 
   * If a local one does not yet exist, establish it (e.g., using the [Meetup](https://www.meetup.com/) platform).
 
+  * Start discussions towards an implicit or explicit (shared) open science pledge or code of conduct for your department, lab, etc.
+
 * Establish rights experts who might help with questions regarding copyright issues and the effective use of Creative Commons licenses.
 
 * Highlight best practice showcases in order to demonstrate what is actually possible with Open Scholarship, and what the wider advantages can be.
+
+* Engage communication departments and research assessment officials. Organize sessions to tell them about open science and scholarship, and be sensitive to the fact that it may imply they change their entire view of what is important in science and what their role could be.
 
 * Adopt best practices for Open Scholarship, including shared data as a research output, addressing publication bias, and "questionable research practices" with bias-reducing workflows.
 
