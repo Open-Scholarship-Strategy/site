@@ -74,14 +74,14 @@ We also note that this strategy can only be based on information which we as a c
 
 **Individual Level**
 
-* Advocate for funding organisations, governments and research institutions to adopt policies and mandates related to Open Scholarship practices beyond Open Access (OA) and data sharing; for example, on open peer review, use of persistent identifiers (PIDs), open research evaluation, and preprints.
+* Advocate for funding organisations, governments and research institutions to adopt policies and mandates related to Open Scholarship practices beyond Open Access (OA) and data sharing; for example, on open peer review, use of persistent identifiers (PIDs), open research evaluation, and preprints. Further to that, advocate for open education with corresponding practices in order to help spread approaches to open among peers and the next generation of scientists.
 
 * Make contributions of an individual to openness visible in public (e.g., on a CV, open platform, or personal website/blog).
 
 * Adopt a broad-scale approach to the variety of open scholarly research and education practices. See the [FOSTER Open Science taxonomy](https://www.fosteropenscience.eu/resources) for guidance.
    * Most importantly, begin with [making your own work available open access](https://cyber.harvard.edu/hoap/How_to_make_your_own_work_open_access).
 
-* Adopt the use of open source and free software for the conduct of research and analysis so that the computational processing can be audited by the community, and so that the tools used are available to everyone to increase productivity and collaboration.
+* Adopt the use of open source and free software for the conduct of research and analysis so that the computational processing can be audited by the community, and so that the tools used are available to everyone to increase productivity and collaboration. For the distinction between open, free, gratis and libre, see. e.g. [OpenSource.com](https://opensource.com/article/17/11/open-source-or-free-software).
 
 * Commit to a variety of personal Open Scholarship practices, such as sharing research data and materials in free, openly-licensed formats so that methods and results can be freely examined and built upon by the wider community.
 
@@ -97,7 +97,7 @@ We also note that this strategy can only be based on information which we as a c
 
    * reacting positively to requests for open review.
 
-* Establish support structures (e.g., openLab, walk-in labs and support structures, makerspaces in the wider sense) that help to guide other individuals along the path towards Open Scholarship. This can include questions of how to publish, teach, learn and do research in the open, and what tools are available to use for these (see Figures 1 and 2, and *Group Level* section).
+* Establish support structures (e.g., openLabs, walk-in labs and support structures, makerspaces in the wider sense) that help to guide other individuals along the path towards Open Scholarship. This can include questions of how to publish, teach, learn and do research in the open, and what tools are available to use for these (see Figures 1 and 2, and *Group Level* section).
 
 ![Figure_1: Rainbow of open science practices](images/image_0.png)\
 
@@ -117,6 +117,10 @@ We also note that this strategy can only be based on information which we as a c
 
   * As an alternative, adopt the [Leiden Manifesto](http://www.leidenmanifesto.org/).
 
+* For education, sign the [Cape Town Open Education Declaration](http://www.capetowndeclaration.org/sign-the-declaration) to commit to the pursuit of the Declaration's three strategies as a part of one's teaching, learning and/or work life.
+
+  * For those interested in doing more, makes sure to heed the [Ten Directions to Move Open Education Forward](http://www.capetowndeclaration.org/cpt10/).
+
 * Refuse to sign copyright transfer agreements, unless you are allowed to retain copyright of your work under a [Creative Commons](https://creativecommons.org/licenses) license of your own choosing.
 
 
@@ -124,7 +128,7 @@ We also note that this strategy can only be based on information which we as a c
 
 * Locate Open Scholarship hotspots (i.e., venues or groups for regular exchange and discussion about community building) and find a way to link them together to help community cohesion and expansion.
 
-  * If a local one does not yet exist, establish it (e.g., using the [Meetup](https://www.meetup.com/) platform).
+  * If a local Open Scholarship hotspot does not yet exist, establish it (e.g., using the [Meetup](https://www.meetup.com/) platform).
 
   * Start discussions towards an implicit or explicit (shared) open science pledge or code of conduct for your department, lab, etc.
 
@@ -136,13 +140,13 @@ We also note that this strategy can only be based on information which we as a c
 
 * Adopt best practices for Open Scholarship, including shared data as a research output, addressing publication bias, and "questionable research practices" with bias-reducing workflows.
 
-* Advocate to decision makers at scholarly journals, publishers, funders, and higher education and research institutes to recognize and reward a variety of Open Scholarship activities, particularly regarding research evaluation policies.
+* Advocate to decision makers at scholarly journals, publishers, funders, and higher education and research institutions to recognize and reward a variety of Open Scholarship activities, particularly regarding research evaluation and open education policies.
 
 * Start discussions with University Ranking Providers (e.g., QS, Times Higher Education) to include an openness element to their indicators.
 
 * Initiate debates on meaningful standards and practices at a disciplinary level for publishing data (e.g., the [FAIR principles](https://www.go-fair.org/fair-principles/)).
 
-* Improve engagement between faculty advisory boards, researchers, students and librarians regarding Open Scholarship practices and principles.
+* Improve engagement between faculty advisory boards, researchers, students and librarians regarding Open Scholarship practices (see Fig. 1 and 2) and principles.
 
 * Refuse to engage with publishers who have restrictive preprint, Open Access, and copyright policies.
 
@@ -157,7 +161,7 @@ We also note that this strategy can only be based on information which we as a c
 
   * How much is being spent on serial subscriptions;
 
-  * How much is being spent on Article Processing Charges (APCs) for Open Access; and
+  * How much is being spent on Article Processing Charges (APCs) and Book Processing Charges (BPCs) for Open Access; and
 
   * Which articles are being downloaded and cited.
 
@@ -167,9 +171,9 @@ We also note that this strategy can only be based on information which we as a c
 
 * Help to inform researchers more about the [Author Alliance termination of transfer](https://www.authorsalliance.org/resources/termination-of-transfer/) tool to help them retain their rights as authors.
 
-* Research funders can define the limits of what is an acceptable standard of publication. They therefore have the power to mandate publication in journals with a cap on APCs, or in OA-only venues (with specific licenses), or in those with short or zero-length embargoes on self-archiving (e.g., Emerald, The Royal Society).
+* Research funders can define the limits of what is an acceptable standard of publication. They therefore have the power to mandate publication in journals with a cap on APCs and BPCs, or in OA-only venues (with specific licenses), or in those with short or zero-length embargoes on self-archiving (e.g., Emerald, The Royal Society).
 
-* Refuse to engage with publishers that [double dip](http://www.rluk.ac.uk/about-us/blog/the-costs-of-double-dipping/) on payments, and demand transparency and data in cases where there is a suspicion that this is occurring.
+* Refuse to engage with publishers that [double dip](http://www.rluk.ac.uk/about-us/blog/the-costs-of-double-dipping/) on payments, and demand transparency and data in cases where there is a suspicion that this is occurring (for an overview, see e.g. [Buranyi, 2017](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)).
 
 * Refuse to engage with publishers in which there is no transparency around pricing for either subscriptions or Open Access. This includes with publishers who insist on using non-disclosure agreements as part of licensing contract terms.
 
@@ -177,18 +181,22 @@ We also note that this strategy can only be based on information which we as a c
 
 * Insist that publishers make all bibliographic records, usage metrics, and citation data freely available and accessible in both a human- and machine-readable format.
 
-* Development of rights retention policies for scholarly research at research institutes that currently lack them.
+* Develop rights retention policies for scholarly research at research institutes that currently lack them.
 
-* Adoption of the [CASRAI CRediT](http://docs.casrai.org/CRediT) (Contributor Rules Taxonomy) guidelines to help identify author contributions more clearly.
+* Adopt the [CASRAI CRediT](http://docs.casrai.org/CRediT) (Contributor Rules Taxonomy) guidelines to help identify author contributions more clearly.
 
 * Refuse to engage with publishers who have restrictive preprint, Open Access, and copyright policies.
 
 * Encourage further adoption by publishers of the [Initiative for Open Citations](https://i4oc.org/) (I4OC) in conjunction with the wider uptake of open standards.
 
 * For research institutes that currently lack them, either launch and maintain an Open Access repository or find an existing resource to use, and adopt an [Open Access policy](https://cyber.harvard.edu/hoap/Good_practices_for_university_open-access_policies). Make these easily discoverable and accessible on the institutional website, and any relevant indexing services.
+
    * Examples of Open Access policies can be found e.g. via the [ROARMAP](https://roarmap.eprints.org/cgi/search/advanced)
+   * Examples of Open Education / OER policies are listed in e.g. the [Creative Commons OER policy registry](https://wiki.creativecommons.org/wiki/OER_Policy_Registry), or the European Union's [Policy approaches to Open Education, 2017](https://doi.org/10.2760/283135).
 
 * Promote and compensate time and effort spent on training and advocacy for the various aspects of Open Scholarship, including Open Source, Open Access, and Open Education.
+
+* Enable and foster local support structures such as openlabs and open publication and research learning, guidance and advice offers.
 
 * Engage with research communities to develop and advertise quantifiable incentives for sharing preprints, open data, reproducible analyses, and OA in hiring, promotion, and tenure decisions. Define new ways of describing these wider contributions to scientific communities.
 
@@ -219,38 +227,37 @@ We also note that this strategy can only be based on information which we as a c
 
 * Research funders and libraries hold most of the purse strings, and further engagement on this front is essential, especially in defining their relative roles in developing or funding scholarly infrastructure. Simply channelling more money into the existing system, with perverse incentives and skewed power dynamics, is clearly no longer sustainable for research.
 
-  * Develop sustainable, national roadmaps for Open Scholarship.
+* Develop sustainable, regional and national roadmaps for Open Scholarship.
 
 * Encourage research funders to diversify the portfolio of what is considered as a research output for assessment purposes.
 
     * Wider adoption of preprint and Open Access policies similar to those at the NIH (USA) and Wellcome Trust (UK).
 
-* A reduction of article-processing charges (APCs) in hybrid titles to match the market average for OA-only journals.
+* A reduction of article-processing charges (APCs) and book-processing charges (BPCs) in hybrid titles to match the market average for OA-only journals and presses.
 
     * The scholarly publishing market might require a detailed government-level investigation in order to stabilise this.
 
-* Mandating [ORCID](https://orcid.org/) for researchers across all research outputs to help assist in the persistent identification of authors across the entire research literature, and easier research discoverability.
+* Mandate [ORCID](https://orcid.org/) for researchers across all research outputs to help assist in the persistent identification of authors across the entire research literature, and easier research discoverability.
 
-* Where subscriptions have not yet expired, mandating offsetting agreements for hybrid journal titles in order to reduce double-dipping.
+* Where subscriptions have not yet expired, mandate offsetting agreements for hybrid journal titles in order to reduce double-dipping.
 
 * Where offsetting deals are in place, these can be streamlined and standardised across sectors to reduce administrative burden.
 
-* For scholarly publishers to engage with the new [UK Scholarly Communications License](http://ukscl.ac.uk/) that enables authors to retain more of their rights. This would reduce the time spent on embargo processing, the cost spent on hybrid APCs, and for researchers in the UK, help them to comply with the [UKRI Open Access policy](https://www.ukri.org/funding/information-for-award-holders/open-access/open-access-policy/).
+* For scholarly publishers to engage with the new [UK Scholarly Communications License](http://ukscl.ac.uk/) that enables authors to retain more of their rights. This would reduce the time spent on embargo processing, the cost spent on hybrid APCs and BPCs, and for researchers in the UK, help them to comply with the [UKRI Open Access policy](https://www.ukri.org/funding/information-for-award-holders/open-access/open-access-policy/).
 
     * For those outside of the UK to consider extending the UK SCL (or relevant variations of it) towards other regional funding and licensing strategies.
 
 * Sector-wide adoption of no-questions-asked fee waiver policies for researchers from lower- to middle-income countries, or those with a demonstrable financial need.
 
-* To [transform](https://dash.harvard.edu/handle/1/27803834) (or flip) the majority of scholarly journals from subscription to Open Access publishing in accordance with community-specific publication preferences.
+* To [transform](https://nrs.harvard.edu/urn-3:HUL.InstRepos:27803834) (or flip) the majority of scholarly journals from subscription to Open Access publishing in accordance with community-specific publication preferences.
 
-* To invite all [relevant stakeholders](https://content.iospress.com/articles/information-services-and-use/isu839), including universities, research institutions, learned societies, funders, libraries, and publishers, to collaborate on a transition to open research practices for the benefit of scholarship and society at large.
+* To invite all [relevant stakeholders](https://doi.org/10.3233/ISU-170839), including universities, research institutions, learned societies, funders, libraries, and publishers, to collaborate on a transition to open research practices for the benefit of scholarship and society at large.
 
 * Create showcases/highlights/good practices of Open Scholarship practices on national websites or portals, together with relevant information and resources.
 
 * Encourage the formalisation of Open Science Training Courses, such as that offered by [FOSTER](https://www.fosteropenscience.eu/toolkit), in graduate school training programs (and further).
 
 * Encourage and adopt the principles for fairer research assessment outlined in DORA. Make sure that those in charge of research assessment, including hiring, tenure, and grant-awarding committees adhere to these.
-
 
 
 ## 2.2 Mid-term strategy (2-5 years) <a name="Middle"></a>
@@ -263,11 +270,13 @@ The expectation at this point is that specific parts of the short-term strategy 
 
     * In areas where this might be lacking, build strategic community networks to increase the strength of advocacy efforts.
 
-* Ensure that all of ones research processes and outputs, including historical ones, are openly licensed and available for re-use in appropriate venues.
+* Ensure that all your research processes and outputs, including historical ones, are openly licensed and available for re-use in appropriate venues.
 
 * Develop workflows that take advantage of Open Scholarship practices to demonstrate their increased effectiveness in comparison to traditional, more closed workflows.
 
 * Continue to innovate in new research processes and workflows as new services, outlets, and technologies become available.
+
+* Make use of semantic web technologies in order to spread already-existing and newly-developing research output; this may include tagging (see e.g. approaches such as [OATP](https://tagteam.harvard.edu/hubs/oatp/items) and the *Openness and Education* scholarly article network by [DeVries, Rolfe, Jordan and Weller, 2017](http://www.katyjordan.com/go_gn/network/)), or annotating existing content.
 
 * Continue to develop the aspects of the Short-term strategy (Section 2.1).
 
@@ -278,7 +287,7 @@ The expectation at this point is that specific parts of the short-term strategy 
 
 * Develop Open Scholarship workflows for all group members to take advantage of increasingly well-developed open scholarly infrastructure and tools.
 
-    * Ensure that group members are trained in a wide variety of relevant skills, including public engagement, policy development, data analysis, Web development, and citizen science.
+    * Ensure that group members are trained in a wide variety of relevant skills, including public engagement, policy development, data analysis, Web development, citizen science, and scholarly communications.
 
 * Showcase developments and success stories from Open Scholarship practices.
 
@@ -289,19 +298,19 @@ The expectation at this point is that specific parts of the short-term strategy 
 
 **Institute Level**
 
-* Implement opt-out automatization of manuscript handling/single-click submission to an open repository under default open licenses.
+* Implement opt-out automatization of manuscript handling/single-click submission to a local or remote open repository under default open licenses.
 
     * Implement opt-out automatization of data deposition under default open licenses.
 
     * Implement opt-out automatization of code accessibility and version control under default open licenses.
 
-* To convert saved resources currently spent on journal subscriptions into funds supporting sustainable Open Access business models, scholarly infrastructure, and other relevant support services.
+* Convert saved resources currently spent on closed-journal subscriptions into funds supporting sustainable Open Access business models, scholarly infrastructure, and other relevant support services.
 
 * Develop and teach courses on the various practices of Open Scholarship (e.g., as required seminars/workshops for graduate school programs).
 
 * Continue working with other research institutes to share resources, infrastructure, and services in a more sustainable manner.
 
-* Research funders to have explicit and enforced mandates regarding Open Scholarship, making sure not to impinge upon academic freedoms.
+* Engage with research funders to have explicit and enforced mandates regarding Open Scholarship, making sure not to impinge upon academic freedoms.
 
 * Continue to only engage with publishers and other vendors that have progressively open services, tools, and policies in place.
 
@@ -314,7 +323,9 @@ The expectation at this point is that specific parts of the short-term strategy 
 
 * Start implementing semantic technology across all scholarship outputs, including for the purposes of enabling unrestricted text and data mining.
 
-* Formulation of recommended career metrics that incentivize Open Data publication, Open Source software release, and research support.
+* Formulate recommended career metrics that incentivize Open Data publication, Open Source software release, and open research support.
+
+* Formulate recommended career metrics that value candidates' efforts towards open learning and teaching / open education.
 
   * Ensure that fairer and more rigorous research assessment policies are in place, and well-supported and monitored.
 
@@ -342,9 +353,9 @@ The expectation at this point is that specific parts of the short- and mid-term 
 
 * Teach students about open lab notebooks, version control, continuous analysis, and other aspects of Open Scholarship processes in introductory research courses.
 
-* Develop training material (OER) for further Open Scholarship development.
+* Develop open training and information material (OER) for further Open Scholarship development.
 
-* Continue to link Open Scholarship communities together to foster increased inter-disciplinary engagement and collaboration.
+* Continue to link Open Scholarship communities to foster increased inter-disciplinary engagement and collaboration.
 
 * Continue developing elements of the Short- and Mid-term strategies.
 
@@ -360,11 +371,11 @@ The expectation at this point is that specific parts of the short- and mid-term 
 
 **Institute Level**
 
-* Establish a permanent fund to be used towards more sustainable ventures, including Open Source software development, APCs, preprint servers, and other costs related to Open Scholarship.
+* Establish a permanent fund to be used towards more sustainable ventures, including Open Source software development, APCs and BPCs, preprint servers, and other costs related to Open Scholarship.
 
 * Incentivize and mandate all research outputs to be published in Open Access journals or platforms.
 
-* Incentivize junior scholars to practice openness in their research.
+* Incentivize junior scholars to practice openness in their scholarly lifecycle (including research and education).
 
 * Continue developing elements of the Short- and Mid-term strategies.
 
@@ -704,7 +715,7 @@ Along with this, measurement play a core role in the future of Open Scholarship 
 
 * Science-based assessment: experimentation before implementation of any metric, in order to better understand the scope, biases, and constraints of any quantitative measures.
 
-Issues of transparency and reproducibility apply both to scholarship itself and to the mechanisms through which our research is measured (e.g., whether a metric can be independently reproduced). [Furner (2014)](http://www.jonathanfurner.info/docs/furnerInPress-a.pdf) provides an ethical framework for bibliometrics, which can be generalised to broader sets of metrics.
+Issues of transparency and reproducibility apply both to scholarship itself and to the mechanisms through which our research is measured (e.g., whether a metric can be independently reproduced). [Furner, 2014](http://www.jonathanfurner.info/docs/furnerInPress-a.pdf) provides an ethical framework for bibliometrics, which can be generalised to broader sets of metrics.
 
 Of course, there are also dangers with new metrics, since *all* metrics can be gamed, and new metrics offer new, little understood opportunities for gaming. New metrics will also not solve the publish or perish problem, but only transfer it.
 
@@ -763,7 +774,7 @@ This section of the strategy will describe some of the strengths of the Open Sch
 
 * **Strength of research and evidence supporting Open Scholarship practices**.
 
-  * There is an increasingly strong case now supporting almost all aspects of Open Scholarship. Some key summaries of this work include [McKiernan et al., (2016)](https://elifesciences.org/articles/16800) and [Tennant et al., (2016)](https://f1000research.com/articles/5-632/v3). The impcat of this can be seen at mulitple levels, from the practices of individuals, up to national-level policies around Open Access and Open Science.
+  * There is an increasingly strong case now supporting almost all aspects of Open Scholarship. Some key summaries of this work include [McKiernan et al., 2016](https://doi.org/10.7554/eLife.16800), [Tennant et al., 2016](https://doi.org/10.12688/f1000research.8460.3), and [McKiernan, 2017](https://doi.org/10.1371/journal.pbio.1002614). The imact of this can be seen at multiple levels, from the practices of individuals, up to national-level policies around Open Access and Open Science.
 
   * Key projects, groups, and scholars have been conducting research into various aspects of Open Scholarship and its impacts, finding them to be almost overwhelmingly positive. As the movement grows, the evidence base, and the depth of critical analysis will continue to develop and mature.
 
@@ -771,7 +782,7 @@ This section of the strategy will describe some of the strengths of the Open Sch
 
   * For example, 'green' and 'gold' routes to Open Access. The former relates to self-archiving, and the latter to publishing in an Open Access journal. While some variations exist (e.g., diamond, bronze, platinum OA), these models generally transcend geographical, institutional, or sectoral variations.
 
-  * The growth and adoption of preprints as a method of getting research out sooner and more transparently. In the last two years, this has led to a rapidly evolving [landscape](https://osf.io/preprints/bitss/796tu/) around preprints, with technological innovation and community practices constantly adapting.
+  * The growth and adoption of preprints as a method of getting research out sooner and more transparently. In the last two years, this has led to a rapidly evolving [landscape](https://doi.org/10.31222/osf.io/796tu) around preprints, with technological innovation and community practices constantly adapting.
 
 * **Availability of Open Scholarship charters and declarations**.
 
@@ -790,7 +801,7 @@ One issue with top-down policies is that bodies such as governments and funders 
 
 * **Geographical heterogeneity and variably successful initiatives**
 
-  * For example, [Scientific Electronic Library Online](http://www.scielo.org/php/index.php?lang=en) (SciELO) has proven unequivocally successful across Latin America, Portugal, and South Africa. Similarly, [Africa Journals Online](https://www.ajol.info/) (AJOL) has become very popular in Africa.
+  * For example, the [Scientific Electronic Library Online](http://www.scielo.org/php/index.php?lang=en) (SciELO) has proven unequivocally successful across Latin America, Portugal, and South Africa. Similarly, [Africa Journals Online](https://www.ajol.info/) (AJOL) has become very popular in Africa.
 
   * Open Scholarship has been recognised by key international organisations active in research and education, and has strong support from institutes around the world.
 
@@ -800,6 +811,7 @@ One issue with top-down policies is that bodies such as governments and funders 
 * **Accessibility, user-friendliness, and dissemination**.
 
   * The Open Scholarship movement publishes articles and resources that are typically free, well-indexed by Google and other search engines, easy to read on mobile devices, and quick to make use of graphics and multimedia to illustrate points. This tendency to embrace technology helps the Open Scholarship movement disseminate its ideas more broadly and quickly than can be accomplished by traditional publication methods.
+
   * Corresponding practices such as the active use of platform-independent text formatting (i.e. via markdown), the provision of well-formed document structures via clearly-labeled headings, paragraphs, etc., and a pro-active assignment of alt-texts for images and descriptive information for graphs, videos, etc. does not only help making information machine-readable, which is needed for properly disseminating information via the semantic web, but also has the added benefit of making this information accessible for people with access needs (see e.g. the basic accessibility guidelines provided by [UK Home Office Digital](https://github.com/UKHomeOffice/posters/blob/master/accessibility/dos-donts/posters_en-UK/accessibility-posters-set.pdf)).    
 
 
@@ -886,19 +898,19 @@ These policies span countries, scientific disciplines, and components of the Ope
 
 * **Avoiding quarrelling about details**.
 
-  *Often, the Open Scholarship movement seems to be fairly combatative about minute issues, without realizing amount of agreement on the main issues. Focusing on the core principles and idnetifying that as common ground sets fertile ground for further, productive discussion.
+  *Often, the Open Scholarship movement seems to be fairly combatative about minute issues, without realizing amount of agreement on the main issues. Focusing on the core principles and idnetifying that as common ground sets fertile ground for further, productive discussion.*
 
 * **Overcoming lack of money**.
 
   * Financial Sustainability is a key aspect for the future of Open Scholarship. A greater understanding of financial workflows in scholarly communication is required, and to support initiatives such as SCOSS, which is dedicated to supporting a sustainable and open scholarly infrastructure.
 
-  * Initiatives such as [The 2.5% Commitment](https://intheopen.net/2017/09/join-the-movement-the-2-5-commitment/) could be important in the future. This states simply that: "*Every academic library should commit to contribute 2.5% of its total budget to support the common infrastructure needed to create the open scholarly commons*."
+  * Initiatives such as [The 2.5% Commitment](https://intheopen.net/2017/09/join-the-movement-the-2-5-commitment/) could be important in the future. This states simply that: "*Every academic library should commit to contribute 2.5% of its total budget to support the common infrastructure needed to create the open scholarly commons.*"
 
-  * Thus, there is clear scope for diverting funds away from present flows (e.g., subscriptions) into more sustainable Open Scholarship ventures.
+  * Thus, there is a clear scope for diverting funds away from present flows (e.g., subscriptions) into more sustainable Open Scholarship ventures.
 
 * **Lack of patience among Open Scholarship proponents**.
 
-  * We fully recognise the burdens and pressures that researchers already have, in maintaining high productivity levels, funding applications, administration, teaching, and other duties. This means that often, Open Scholarship, is not highly prioritised, as the current reward system is still highly focussed on publication of novel results in high impact journals, which can stifle the rate of growth. Open Scholarship proponents need to be patient and understand this burden.
+  * We fully recognise the burdens and pressures that researchers already have, in maintaining high productivity levels, funding applications, administration, teaching, and other duties. This means that often, Open Scholarship, is not highly prioritised, as the current reward system is still highly focussed on publication of novel results in high-impact journals, which can stifle the rate of growth. Open Scholarship proponents need to be patient and understand this burden.
 
   * Seeing how diverse initiatives working at different speeds in different communities can still reinforce each other in working towards the same broad goals.
 
@@ -939,15 +951,15 @@ These policies span countries, scientific disciplines, and components of the Ope
 
   * Continued transferral of copyright from researchers to publishers;
 
-  * Lack of disributed article-processing charge funding;
+  * Lack of distributed article-processing charge funding;
 
-  * Wide application of high and unsustainable APCs, which are particularly discriminatory against specific demographics who might lack appropriate funds;
+  * Wide application of high and unsustainable APCs and BPCs, which are particularly discriminatory against specific demographics who might lack appropriate funds;
 
   * Lack of knowledge in negotiating these difficulties;
 
-  * No widely-agreed upon large-scale solution for issues regarding OA for books;
+      * Lack of Awareness and acknowledgement of the fact that around [70% of journals indexed in the DOAJ](https://sustainingknowledgecommons.org/2018/02/06/doaj-apc-information-as-of-jan-31-2018/) do not charge article processing charges;
 
-  * Awareness that around [70% of journals indexed in the DOAJ](https://sustainingknowledgecommons.org/2018/02/06/doaj-apc-information-as-of-jan-31-2018/) do not charge article processing charges;
+  * No widely-agreed upon large-scale solution for issues regarding OA for books;
 
   * Continuing perceptions of lack of prestige for many OA journals; and
 
@@ -994,6 +1006,6 @@ These policies span countries, scientific disciplines, and components of the Ope
 
   * People tend to choose things that are most similar to what they already have, or things that are most similar to other choices they have (e.g. see Dan Ariely's [TED talk](https://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions) on making decisions).
 
-  * It is important to make sure that people can still do what they are already doing, even if they participate in Open Scholarship.
+  * It is important to make sure that people can still do what they are already doing, even if they participate in Open Scholarship. With [Weller, 2014](https://doi.org/10.5334/bam), [Veletsianos and Kimmons, 2016](https://doi.org/10.19173/irrodl.v13i4.1313) and [McKiernan, 2017](https://doi.org/10.1371/journal.pbio.1002614), among others, we see inclusivity as a crucial trait of the social movement that is Open Scholarship. While what we described here can ideally encompass all of the before-mentioned practices, an engagement in practices of open science and scholarship can be considered as happening in a spectrum of practices that each of us has to negotiate.
 
-  * *Therefore, future communication efforts must focus on Open practices not being completely new, but simply more efficient and more rewarding versions of current practices.*
+  * *Therefore, future communication efforts must focus on Open practices as not being completely new, but simply more efficient and more rewarding versions of current practices.*
