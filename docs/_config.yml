@@ -1,22 +1,33 @@
 theme: jekyll-theme-dinky
 title: Foundations for Open Scholarship Strategy Development
-description: TOC [Purpose of this Document](#Purpose)
-[Strategy](#Strategy)
-[Short-term strategy, >2 years](#Short)
-[Mid-term strategy, 2-5 years](#Middle)
-[Long-term strategy, 5+ years](#Long)
-[What is Open Scholarship?](#What_is)
-[State of the Movement](#State)
-[Top Strategic Priorities for Open Scholarship](#Priorities)
-[Democratization](#Democratization)
-[Pragmatism and transparency](#Pragmatism)
-[Infrastructure](#Infrastucture)
-[Public good](#Public)
-[Measurement](#Measurement)
-[Community and inclusion](#Community)
-[Movement Strengths](#Strengths)
-[Movement Challenges](#Challenges)
-[External conditions](#External)
-[Internal conditions](#Internal)
-[Opportunities](#Opportunities)
-[Threats](#Threats)
+description:
+<h4>TOC</h4>
+<li><a href="#Purpose">Purpose of this Document</a></li>
+<li><a href="#Strategy">Strategy</a>
+<ul>
+<li><a href="#Short">Short-term strategy, &gt;2 years</a></li>
+<li><a href="#Middle">Mid-term strategy, 2-5 years</a></li>
+<li><a href="#Long">Long-term strategy, 5+ years</a></li>
+</ul>
+</li>
+<li><a href="#What_is">What is Open Scholarship?</a></li>
+<li><a href="#State">State of the Movement</a></li>
+<li><a href="#Priorities">Top Strategic Priorities for Open Scholarship</a>
+<ul>
+<li><a href="#Democratization">Democratization</a></li>
+<li><a href="#Pragmatism">Pragmatism and transparency</a></li>
+<li><a href="#Infrastucture">Infrastructure</a></li>
+<li><a href="#Public">Public good</a></li>
+<li><a href="#Measurement">Measurement</a></li>
+<li><a href="#Community">Community and inclusion</a></li>
+</ul>
+</li>
+<li><a href="#Strengths">Movement Strengths</a></li>
+<li><a href="#Challenges">Movement Challenges</a>
+<ul>
+<li><a href="#External">External conditions</a></li>
+<li><a href="#Internal">Internal conditions</a></li>
+</ul>
+</li>
+<li><a href="#Opportunities">Opportunities</a></li>
+<li><a href="#Threats">Threats</a></li>
