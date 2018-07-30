@@ -19,11 +19,12 @@ title: "Communication Strategy"
 
 * Schol Comm
 * Open Science
-* GOAL
+* [GOAL](http://mailman.ecs.soton.ac.uk/pipermail/goal/) (Lisa)
 * FORCE11 (Jeroen)
 * RadicalOA
 * OpenScience-NL (Jeroen)
 * OpenScience-DE
+* [Open Science Göttingen](https://listserv.gwdg.de/mailman/listinfo/openscience) (Lisa)
 * OpenCon
 
 ### Other channels
