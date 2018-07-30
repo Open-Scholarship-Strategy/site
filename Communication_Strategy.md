@@ -18,7 +18,7 @@ title: "Communication Strategy"
 ### Mailing lists
 
 * Schol Comm
-* Open Science
+* [Open Science](https://lists.okfn.org/mailman/listinfo/open-science) Jon
 * [GOAL](http://mailman.ecs.soton.ac.uk/pipermail/goal/) (Lisa)
 * FORCE11 (Jeroen)
 * RadicalOA
@@ -34,4 +34,5 @@ title: "Communication Strategy"
 ## Conferences discussed at 
 
 * IFLA
+* PUBMET
 
