@@ -4,13 +4,17 @@
 
 [**MAIN WEBSITE**](https://open-scholarship-strategy.github.io/site/)
 
+**PUBLISHED**: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1323437.svg)](https://doi.org/10.5281/zenodo.1323437)
+
 Scholarly research can be an inspirational process for advancing our collective knowledge to the benefit of all humankind. However, current research practices often struggle with a range of tensions and conflicts as it adapts to a largely digital system. What is broadly termed as 'Open Scholarship' is an attempt to realign modern research practices with this ideal. We do not propose a definition of 'Open Scholarship', but recognise that it is a holistic term that encompasses many disciplines, practices, and principles, sometimes also referred to as 'Open Science' or 'Open Research'. We choose the term 'Open Scholarship' to be more inclusive of these other aspects.
 
 The purpose of this strategy is to provide a concise analysis of where the global Open Scholarship movement currently stands: what the common threads and strengths are, where the greatest opportunities and challenges lie, and how we can more effectively work together as a global community to recognise the top strategic priorities. This document was inspired by the [Foundations for OER Strategy Development](http://www.oerstrategy.org/home/read-the-doc/) and work in the [FORCE11 Scholarly Commons Working Group](https://www.force11.org/group/scholarly-commons-working-group), and developed by an open contribution working group.
 
 ## How to contribute
 
-The main website document is hosted at [THIS MARKDOWN FILE](https://github.com/Open-Scholarship-Strategy/site/blob/master/index.Rmd), and open to contributions of any sort from anyone. If you are uncomfortable with traditional Git-based workflows, you can simply add a comment [HERE](https://github.com/Open-Scholarship-Strategy/site/issues) in the issue tracker. This document is a bit of a monster, but with the principle of multiple magnifications (more eyes are better), we hope to produce a comprehensive strategy that reflects the wider scholarly community.
+The main website document is hosted at [THIS MARKDOWN FILE](https://github.com/Open-Scholarship-Strategy/site/blob/master/index.md), and open to contributions of any sort from anyone. If you are uncomfortable with traditional Git-based workflows, you can simply add a comment [HERE](https://github.com/Open-Scholarship-Strategy/site/issues) in the issue tracker. This document is a bit of a monster, but with the principle of multiple magnifications (more eyes are better), we hope to produce a comprehensive strategy that reflects the wider scholarly community.
+
+The first version of this has been published, but a revised second version will be submitted on 31 December 2018. So comments and edits are still welcome!
 
 **New to GIT and GitHub?** See [these learning resources](https://help.github.com/articles/git-and-github-learning-resources/) and this [10 min. GIT tutorial](https://try.github.io/levels/1/challenges/1).
 
