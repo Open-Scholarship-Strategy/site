@@ -12,7 +12,7 @@ If you share this strategy online or in person, please feel free to add details 
 * EIFL
 * SPARC/R2RC
 * FORCE11
-* Software Carpentry (went out in their [August newsletter](https://twitter.com/thecarpentries/status/1024180602805932032))
+* Software/Data Carpentry (went out in their [August newsletter](https://twitter.com/thecarpentries/status/1024180602805932032))
 
 ### Individuals to contact
 
