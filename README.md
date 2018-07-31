@@ -12,7 +12,7 @@ The purpose of this strategy is to provide a concise analysis of where the globa
 
 ## How to contribute
 
-The main website document is hosted at [THIS MARKDOWN FILE](https://github.com/Open-Scholarship-Strategy/site/blob/master/index.md), and open to contributions of any sort from anyone. If you are uncomfortable with traditional Git-based workflows, you can simply add a comment [HERE](https://github.com/Open-Scholarship-Strategy/site/issues) in the issue tracker. This document is a bit of a monster, but with the principle of multiple magnifications (more eyes are better), we hope to produce a comprehensive strategy that reflects the wider scholarly community.
+The main website document is hosted at [THIS MARKDOWN FILE](https://github.com/Open-Scholarship-Strategy/site/blob/master/index.Rmd), and open to contributions of any sort from anyone. If you are uncomfortable with traditional Git-based workflows, you can simply add a comment [HERE](https://github.com/Open-Scholarship-Strategy/site/issues) in the issue tracker. This document is a bit of a monster, but with the principle of multiple magnifications (more eyes are better), we hope to produce a comprehensive strategy that reflects the wider scholarly community.
 
 The first version of this has been published, but a revised second version will be submitted on 31 December 2018. So comments and edits are still welcome!
 
