@@ -23,3 +23,9 @@ The first version of this has been published, but a revised second version will 
 Our hope is that this document will serve as a foundational resource for continuing discussions and initiatives about implementing effective strategies to help streamline the integration of Open Scholarship practices into a modern, digital, and more inclusive research culture. Through this, we hope to extend the reach and impact of Open Scholarship into a global context, making sure that it is truly 'open for all'. We also hope that this document will evolve as the conversations around Open Scholarship progress, and help to provide useful insight for both global co-ordination and local action. We believe this is a step forward in making Open Scholarship the norm.
 
 Ultimately, we expect the impact of widespread adoption of Open Scholarship to be diverse. We expect novel research practices to increase the pace of innovation, and therefore stimulate critical industries around the world. We could also expect to see an increase in public trust of science, as transparency becomes more normative. As such, we expect interest in Open Scholarship to increase at multiple levels, due to its inherent influence on society and global economics.
+
+## Citing this software
+
+If you've used our software in your research, please use the following citation:
+
+Jonathan Tennant et al. (2018, July 30). Foundations for Open Scholarship Strategy Development: First formal release (Version 1.2). Zenodo. http://doi.org/10.5281/zenodo.1323437

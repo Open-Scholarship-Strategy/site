@@ -12,7 +12,9 @@ If you share this strategy online or in person, please feel free to add details 
 * EIFL
 * SPARC/R2RC
 * FORCE11
-* Software/Data Carpentry (went out in their [August newsletter](https://twitter.com/thecarpentries/status/1024180602805932032))
+* OpenAire
+* OpenUP
+* The Carpentries (went out in their [August newsletter](https://twitter.com/thecarpentries/status/1024180602805932032))
 
 ### Individuals to contact
 
@@ -20,17 +22,17 @@ If you share this strategy online or in person, please feel free to add details 
 
 ### Mailing lists
 
-* [Schol Comm](mailto:scholcomm@lists.ala.org) (Jon)
-* [Open Science](https://lists.okfn.org/mailman/listinfo/open-science) Jon
-* [GOAL](http://mailman.ecs.soton.ac.uk/pipermail/goal/) (Lisa)
-* FORCE11 (Jeroen)
-* RadicalOA
+* [Schol Comm](mailto:scholcomm@lists.ala.org) (Jon) - DONE
+* [Open Science](https://lists.okfn.org/mailman/listinfo/open-science) (Jon)- DONE (mailto:open-science@lists.okfn.org)
+* [GOAL](http://mailman.ecs.soton.ac.uk/pipermail/goal/) (Lisa) - DONE
+* [FORCE11](mailto:f11discussion@force11.org) (Jeroen)
+* [RadicalOA](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=RADICALOPENACCESS) (mailt:RADICALOPENACCESS@JISCMAIL.AC.UK) (Jon) - DONE
 * OpenScience-NL (Jeroen)
 * OpenScience-DE
-* [Open Science Göttingen](https://listserv.gwdg.de/mailman/listinfo/openscience) (Lisa)
-* [OpenCon](https://groups.google.com/group/opencon-discussion-list) (Jon)
-* [LIS bibliometrics](mailto: LIS-BIBLIOMETRICS@JISCMAIL.AC.UK) (Jon)
-* [PSCI COMM](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=psci-com) (Jon)
+* [Open Science Göttingen](https://listserv.gwdg.de/mailman/listinfo/openscience) (Lisa) - DONE
+* [OpenCon](https://groups.google.com/group/opencon-discussion-list) (Jon) - DONE
+* [LIS bibliometrics](mailto:LIS-BIBLIOMETRICS@JISCMAIL.AC.UK) (Jon) - DONE
+* [PSCI COMM](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=psci-com) (Jon) - DONE (4294 recipients)
 
 ### Other channels
 
