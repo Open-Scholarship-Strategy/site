@@ -31,7 +31,7 @@ If you share this strategy online or in person, please feel free to add details 
 * [Open Science](mailto:open-science@lists.okfn.org) (Jon)- DONE
 * [GOAL](http://mailman.ecs.soton.ac.uk/pipermail/goal/) (Lisa) - DONE
 * [FORCE11](mailto:f11discussion@force11.org) (Jeroen)
-* [RadicalOA](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=RADICALOPENACCESS) (Jon) - DONE (mailt:RADICALOPENACCESS@JISCMAIL.AC.UK) (Jon) - DONE
+* [RadicalOA](mailto:RADICALOPENACCESS@JISCMAIL.AC.UK) (Jon) - DONE
 * OpenScience-NL (Jeroen)
 * OpenScience-DE
 * [Open Science Göttingen](https://listserv.gwdg.de/mailman/listinfo/openscience) (Lisa) - DONE
