@@ -45,7 +45,7 @@ If you share this strategy online or in person, please feel free to add details 
 
 ### Other channels
 
-* 
+* The Open Scholarship Initiative posted a [nice blog post](http://osiglobal.org/2018/08/01/defining-the-foundations-of-open-scholarship/) about the strategy!
 
 ## Conferences discussed at 
 
