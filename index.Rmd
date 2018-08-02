@@ -996,7 +996,7 @@ These policies span countries, scientific disciplines, and components of the Ope
 
   * This would ultimately lead to new inefficiencies, vendor lock-in, and the same price bloat we see associated with 'big deal' licensing contracts.
 
-  * Regarding preprints, there is an increasing colonisation of the landscape by commercial interests (e.g., Elsevier acquisition of SSRN). This leads to wider commercial control, irrespective of the final venue of publication.
+  * Regarding preprints, there is an increasing colonisation of the landscape by commercial interests (e.g., Elsevier acquisition of SSRN and scientific publication workflow solutions company [Aries Systems](https://www.elsevier.com/about/press-releases/corporate/elsevier-to-acquire-aries-systems-a-best-in-class-publication-workflow-solutions-provider)). This leads to wider commercial control, irrespective of the final venue of publication.
 
 * **Resistance to change**:
 
