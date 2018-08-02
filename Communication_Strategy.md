@@ -8,18 +8,22 @@ If you share this strategy online or in person, please feel free to add details 
 
 ### Organisations to contact
 
-* LIBER
-* EIFL
-* SPARC/R2RC
-* FORCE11
-* OpenAire
-* OpenUP
-* The Carpentries (went out in their [August newsletter](https://twitter.com/thecarpentries/status/1024180602805932032))
-* Creative Commons
-* FOSTER
-* Mozilla
-* OpenCon
-* OKFN
+*NOTE* All done by Jon, 01/08/2018
+
+* [LIBER](https://twitter.com/LIBEReurope)
+* [EIFL](https://twitter.com/EIFLnet)
+* [SPARC NA](https://twitter.com/sparc_na)
+* [SPARC EU](https://twitter.com/sparc_eu)
+* [R2RC](https://twitter.com/R2RC)
+* [FORCE11](https://twitter.com/force11rescomm)
+* [OpenAire](https://twitter.com/OpenAIRE_eu)
+* [OpenUP](https://twitter.com/projectopenup)
+* [The Carpentries](https://twitter.com/thecarpentries) (went out in their [August newsletter](https://twitter.com/thecarpentries/status/1024180602805932032))
+* [Creative Commons](https://twitter.com/creativecommons)
+* [FOSTER](https://twitter.com/fosterscience)
+* [Mozilla Open Leaders](https://twitter.com/mozopenleaders)
+* [OpenCon](https://twitter.com/open_con)
+* [OKFN](https://twitter.com/OKFN)
 
 ### Individuals to contact
 
@@ -41,7 +45,7 @@ If you share this strategy online or in person, please feel free to add details 
 
 ### Other channels
 
-* Mozilla Open Leaders
+* 
 
 ## Conferences discussed at 
 
