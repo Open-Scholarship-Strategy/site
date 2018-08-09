@@ -18,26 +18,8 @@ title: "Foundations for Open Scholarship Strategy Development"
 
 ### Table of Contents
 
-* [Purpose of this Document](#Purpose)
-* [Strategy](#Strategy)
-  * [Short-term strategy, <2 years](#Short)
-  * [Mid-term strategy, 2-5 years](#Middle)
-  * [Long-term strategy, >5 years](#Long)
-* [What is Open Scholarship?](#What_is)
-* [State of the Movement](#State)
-* [Top Strategic Priorities for Open Scholarship](#Priorities)
-  * [Democratization](#Democratization)
-  * [Pragmatism and transparency](#Pragmatism)
-  * [Infrastructure](#Infrastructure)
-  * [Public good](#Public)
-  * [Measurement](#Measurement)
-  * [Community and inclusion](#Community)
-* [Movement Strengths](#Strengths)
-* [Movement Challenges](#Challenges)
-  * [External conditions](#External)
-  * [Internal conditions](#Internal)
-* [Opportunities](#Opportunities)
-* [Threats](#Threats)
+1. This will be replaced by an actual TOC by kramdown
+{:toc}
 
 The first draft (Version 1.2) of this document has now been [**PUBLISHED**](https://zenodo.org/record/1323437#.W163StL7RPY). 
 
