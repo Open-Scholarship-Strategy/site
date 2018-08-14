@@ -1,5 +1,6 @@
 ---
 title: "Foundations for Open Scholarship Strategy Development"
+layout: page
 ---
 
 <meta charset="utf-8">
