@@ -1,0 +1,26 @@
+/* ==========================================================================
+   TOC
+   ========================================================================== */
+
+#markdown-toc {
+  width: 100%;
+  max-width: $sidebar-width;
+  height: 100%;
+  font-size: $min-font-size;
+  list-style-type: none;
+
+  @include breakpoint($large) {
+    max-width: (1.2 * $sidebar-width);
+  }
+
+
+  li {
+    a {
+      color: $base-color;
+
+      &:hover {
+        color: $accent-color;
+      }
+    }
+  }
+}
