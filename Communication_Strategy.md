@@ -23,7 +23,8 @@ If you share this strategy online or in person, please feel free to add details 
 * [FOSTER](https://twitter.com/fosterscience)
 * [Mozilla Open Leaders](https://twitter.com/mozopenleaders)
 * [OpenCon](https://twitter.com/open_con)
-* [OKFN](https://twitter.com/OKFN)
+* [Open Knowledge International](https://twitter.com/OKFN)
+* [Global Open Science Hardware Community](https://twitter.com/GOSHCommunity)
 
 ### Individuals to contact
 
