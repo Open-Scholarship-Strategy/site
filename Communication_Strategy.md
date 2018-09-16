@@ -43,6 +43,7 @@ If you share this strategy online or in person, please feel free to add details 
 * [OpenCon](https://groups.google.com/group/opencon-discussion-list) (Jon) - DONE
 * [LIS bibliometrics](mailto:LIS-BIBLIOMETRICS@JISCMAIL.AC.UK) (Jon) - DONE
 * [PSCI COMM](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=psci-com) (Jon) - DONE (4294 recipients)
+* [OpenAccess at Wikimedia](https://lists.wikimedia.org/mailman/listinfo/openaccess)
 
 ### Other channels
 
