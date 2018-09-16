@@ -305,11 +305,15 @@ The expectation at this point is that specific parts of the short-term strategy 
 
 **Institute Level**
 
-* Implement opt-out automatization of manuscript handling/single-click submission to a local or remote open repository under default open licenses.
+* Implement opt-out automatization of manuscript handling, or single-click submission to a local or remote open repository, under default [open licenses](https://opendefinition.org/licenses/).
 
     * Implement opt-out automatization of data deposition under default open licenses.
 
     * Implement opt-out automatization of code accessibility and version control under default open licenses.
+    
+    * Implement single-click submission in the repository (cf. [HAL](https://www.ccsd.cnrs.fr/en/2018/06/new-interface-for-submitting-in-hal-a-first-assessment/)) or adopt an existing tool (cf. [Dissemin](https://dissem.in/)).
+    
+    * Backfill the open repositories with full text for all works which are in the public domain, permissively licensed or otherwise permitted by copyright exceptions and other policies, and help authors do the same for the remaining works.
 
 * Convert saved resources currently spent on closed-journal subscriptions into funds supporting sustainable Open Access business models, scholarly infrastructure, and other relevant support services.
 
