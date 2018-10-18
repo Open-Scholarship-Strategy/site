@@ -26,6 +26,14 @@ If you share this strategy online or in person, please feel free to add details 
 * [Open Knowledge International](https://twitter.com/OKFN)
 * [Global Open Science Hardware Community](https://twitter.com/GOSHCommunity)
 
+*NOTE* to be contacted (added 18/10/2018)
+* [SIPS] (https://twitter.com/improvingpsych)
+* [OSI] (https://twitter.com/OSIUnited)
+* [COPE] (https://twitter.com/@C0PE)
+* [TriangleSCI] (https://twitter.com/TriangleSCI)
+* [SCOAP3] (https://scoap3.org/)
+* [Open Library of the Humanities] (https://www.openlibhums.org/)
+
 ### Individuals to contact
 
 * 
