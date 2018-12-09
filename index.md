@@ -852,11 +852,7 @@ These challenges represent potential focal points of future discussion, research
 
 There is currently little consensus over whether the future of Open Scholarship should be purely owned by non-profit entities governed by the global scholarly community (including charities and NGOs), or whether there is a space for private or corporate interests. It is likely that the future will be a mixed model combining all actor types, although the relative position, power, and status of these remains to be seen. Further discussion is needed here to overcome the widespread inertia where current business models are concerned. This includes:
 
-
-  * Overcoming the misconception that Open Scholarship is anti-commercial and demonstrating a return on investment (e.g., [Balasegaram et al., 2017](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002276); [Hakoum et al., 2017](http://bmjopen.bmj.com/content/7/10/e015997)).
-
   * Overcoming the misconception that Open Scholarship is anti-commercial/demonstrating return on investment (e.g., [Balasegaram et al., 2017](https://doi.org/10.1371/journal.pmed.1002276); [Hakoum et al., 2017](https://doi.org/10.1136/bmjopen-2017-015997)).
-
 
   * Resolving frictions between a [Scholarly Commons](https://www.force11.org/group/scholarly-commons-working-group) model for research, and its operation within a capitalistic framework. (e.g., [Clash of cultures](https://danielskatzblog.wordpress.com/2016/10/25/clash-of-cultures-why-all-science-isnt-open-science/))
 
