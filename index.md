@@ -196,6 +196,8 @@ We also note that this strategy can only be based on information which we as a c
 
 * Engage with research communities to develop and advertise quantifiable incentives for sharing preprints, open data, reproducible analyses, and OA in hiring, promotion, and tenure decisions. Define new ways of describing these wider contributions to scientific communities.
 
+  * Explore the Dutch paradigm of [researchers' portfolios](https://openworking.wordpress.com/2018/06/24/changing-the-academic-reward-system-the-umc-utrecht-perspective/).
+
 * Encourage and adopt the principles for fairer research assessment outlined in DORA. Make sure that those in charge of research assessment, including hiring, tenure, and grant-awarding committees adhere to these.
 
 * Explore substituting proprietary software with open source alternatives.
@@ -209,6 +211,8 @@ We also note that this strategy can only be based on information which we as a c
 * Sign on to the Global Sustainability Coalition for Open Science Services [(SCOSS)](http://scoss.org/), and investigate coalitions with the [Open Research Funders Group](http://www.orfg.org).
 
      * Consortia like the German [Projekt DEAL](https://www.projekt-deal.de/) could provide examples of how to take the first step towards this at a national level. Gaining support from SPARC for any such developments would also be useful.
+     
+     * Particularly for the European area and with a focus on the long tail of science, [OpenAIRE](https://www.openaire.eu/) could provide interoperability resolutions to institutional repositories and enhance their outputs visibility.
 
      * Consider the ramifications of [Plan S](https://www.coalition-s.org/about/), which aims for full and immediate Open Access to publications from publicly funded research, for your national and local context, and see what can be done to [implement Plan S](https://www.coalition-s.org/wp-content/uploads/271118_cOAlitionS_Guidance.pdf) for your context. Further reading: [Kramer & Bosman, 2018](https://101innovations.wordpress.com/2018/11/30/nine-routes-towards-plan-s-compliance/)
 
@@ -232,7 +236,7 @@ We also note that this strategy can only be based on information which we as a c
 
 * Encourage research funders to diversify the portfolio of what is considered as a research output for assessment purposes.
 
-    * Encourage a wider adoption of preprint and Open Access policies similar to those at the [NIH (USA)](https://publicaccess.nih.gov/policy.htm) and [Wellcome Trust (UK)](https://wellcome.ac.uk/funding/guidance/open-access-policy).
+    * Encourage a wider adoption of preprint and Open Access policies similar to those at the [NIH (USA)](https://publicaccess.nih.gov/policy.htm), [Wellcome Trust (UK)](https://wellcome.ac.uk/funding/guidance/open-access-policy) and the European Commission.
 
 * Encourage research funders to develop calls to support evidence- and theory-based interventions to promote Open Scholarship.
 
@@ -240,7 +244,7 @@ We also note that this strategy can only be based on information which we as a c
 
     * Fund studies that use stakeholder theory to explore ways to achieve more Open Scholarship policies at research and education institutions.
 
-* A reduction of article-processing charges (APCs) in hybrid titles to match the market average for OA-only journals.
+* A reduction of article-processing charges (APCs) in hybrid titles to match the market average for OA-only journals. (NOTE that with the new funding stream of [HorizonEurope](https://ec.europa.eu/info/designing-next-research-and-innovation-framework-programme/what-shapes-next-framework-programme_en), publications to hybrid journals are not eligible).
 
 * A reduction of article-processing charges (APCs) and book-processing charges (BPCs) in hybrid titles to match the market average for OA-only journals and presses.
 
@@ -263,6 +267,8 @@ We also note that this strategy can only be based on information which we as a c
 * To invite all [relevant stakeholders](https://doi.org/10.3233/ISU-170839), including universities, research institutions, learned societies, funders, libraries, and publishers, to collaborate on a transition to open research practices for the benefit of scholarship and society at large.
 
 * Create showcases/highlights/good practices of Open Scholarship practices on national websites or portals, together with relevant information and resources.
+
+  * OpenAIRE [National Open Access Desks (NOADs)](https://www.openaire.eu/contact-noads) already working on that and could provide input and facilitate communication between all stakeholders towards establishing national guides of sorts.
 
 * Encourage the formalisation of Open Science Training Courses, such as that offered by [FOSTER](https://www.fosteropenscience.eu/toolkit) or as part of [OpenScienceMOOC](https://opensciencemooc.eu/), in graduate school training programs (and further).
 
@@ -296,7 +302,9 @@ The expectation at this point is that specific parts of the short-term strategy 
 
 * Develop Open Scholarship workflows for all group members to take advantage of increasingly well-developed open scholarly infrastructure and tools.
 
-    * Ensure that group members are trained in a wide variety of relevant skills, including public engagement, policy development, data analysis, Web development, citizen science, and scholarly communications.
+  * The [European Open Science Cloud (EOSC)](https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud) aims at creating a safe environment with federated services and tools for Open Science.
+
+  * Ensure that group members are trained in a wide variety of relevant skills, including public engagement, policy development, data analysis, Web development, citizen science, and scholarly communications.
 
 * Showcase developments and success stories from Open Scholarship practices.
 
@@ -345,7 +353,7 @@ The expectation at this point is that specific parts of the short-term strategy 
 
   * Ensure that fairer and more rigorous research assessment policies are in place, and well-supported and monitored.
 
-* For any remaining hybrid journals that attain a higher proportion of Open Access over subscription articles, encourage them to flip them to pure Open Access with an APC that reflects the running costs of the journal.
+* For any remaining hybrid journals that attain a higher proportion of Open Access over subscription articles, encourage them to flip to pure Open Access with an APC that reflects the running costs of the journal.
 
   * For remaining hybrid journals that have not attained this level, refuse to support publication of Open Access articles in those venues, and also refuse to renew subscriptions.
 
@@ -373,6 +381,12 @@ The expectation at this point is that specific parts of the short- and mid-term 
 
 * Teach students about open lab notebooks, version control, continuous analysis, and other aspects of Open Scholarship processes in introductory research courses.
 
+  * The [Open Science MOOC](https://eliademy.com/catalog/catalog/product/view/sku/02d7338a7e) is a scalable community-led initiative to help in this space.
+
+  * [The Carpentries](https://carpentries.org/) could support training of early career researchers on foundational coding and data science skills.
+	
+	* The [RDA Early Career and Engagement Interest Group](https://www.rd-alliance.org/groups/early-career-and-engagement-ig) could also accommodate students and junior researchers needs on Open Science matters through its Mentorship Programme and other activities.
+
 * Develop open training and information material (OER) for further Open Scholarship development.
 
 * Continue to link Open Scholarship communities to foster increased inter-disciplinary engagement and collaboration.
@@ -393,7 +407,7 @@ The expectation at this point is that specific parts of the short- and mid-term 
 
 * Establish a permanent fund to be used towards more sustainable ventures, including Open Source software development, APCs and BPCs, preprint servers, and other costs related to Open Scholarship.
 
-* Incentivize and mandate all research outputs to be published in Open Access journals or platforms.
+* Incentivize and mandate all research outputs to be published in Open Access, Green (repositories) or Gold (journals or other digital/electronic platforms).
 
 * Incentivize junior scholars to practice openness in their scholarly lifecycle (including research and education).
 
