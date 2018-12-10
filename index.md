@@ -64,13 +64,13 @@ We also note that this strategy can only be based on information which we as a c
 
 ## 2.1 Short-term strategy (>2 years) <a name="Short"></a>
 
-**Individual Level**
+### Individual Level
 
-* Advocate for funding organisations, governments and research institutions to adopt policies and mandates related to Open Scholarship practices beyond Open Access (OA) and data sharing; for example, on open peer review, use of persistent identifiers (PIDs), open research evaluation, and preprints. Further to that, advocate for open education with corresponding practices in order to help spread approaches to open among peers and the next generation of scientists.
+![Figure_1: Rainbow of open science practices](images/image_0.png)
 
-* Make contributions of an individual to openness visible in public (e.g., on a CV, open platform, or personal website/blog).
+[Kramer, Bianca, & Bosman, Jeroen (2018, January). Rainbow of open science practices. Zenodo](https://doi.org/10.5281/zenodo.1147024). (CCBY)
 
-  * Use this as the basis to develop best practice stories around role models.
+#### Sharing
 
 * Adopt a broad-scale approach to the variety of open scholarly research and education practices. See the [FOSTER Open Science taxonomy](https://www.fosteropenscience.eu/resources) for guidance.
    * Most importantly, begin with [making your own work available open access](https://cyber.harvard.edu/hoap/How_to_make_your_own_work_open_access).
@@ -79,44 +79,53 @@ We also note that this strategy can only be based on information which we as a c
 
 * Commit to a variety of personal Open Scholarship practices, such as sharing research data and materials in free, openly-licensed formats so that methods and results can be freely examined and built upon by the wider community.
 
+* Establish and foster practices of re-use and remix to help create a thriving open scholarship culture.
+
+* For education, sign the [Cape Town Open Education Declaration](http://www.capetowndeclaration.org/sign-the-declaration) to commit to the pursuit of the Declaration's three strategies as a part of one's teaching, learning and/or work life.
+
+#### Search
+
+* Search for existing data you can reuse instead of creating your own data
+
+#### Writing
+
+* Answer questions on public websites, e.g. [Ask Open Science](https://ask-open-science.org/), [Stack Overflow](https://stackoverflow.com/) and [Twitter](https://twitter.com)
+
+* Make individual contributions to openness that are visible in public (e.g., on a CV, open platform, or personal website/blog). Use these as the basis to develop best practice stories around role models.
+
+#### Publication
+
 * Commit to sharing preprints for the open and rapid dissemination of your work.
 
-* Establish and foster practices of re-use and remix to help create a thriving open scholarship culture, by, among other things:
+* Refuse to sign copyright transfer agreements, unless you are allowed to retain copyright of your work under a [Creative Commons](https://creativecommons.org/licenses) license of your own choosing.
 
-   * Searching for existing data you can reuse instead of creating your own data;
+#### Outreach
 
-   * Leaving **constructive** comments/annotations on preprints/code etc. with open tools such as [hypothes.is](https://web.hypothes.is/);
-
-   * Helping answer questions in [Ask Open Science](https://ask-open-science.org/), [Stack Overflow](https://stackoverflow.com/) and on Twitter; and
-
-   * Reacting positively to requests for open peer review.
-
-* Establish support structures (e.g., open workshops, openLabs, walk-in labs and support structures, makerspaces in the wider sense) that help to guide other individuals along the path towards Open Scholarship. This can include questions of how to publish, teach, learn and do research in the open, and what tools are available to use for these (see Figures 1 and 2, and *Group Level* section).
-
-![Figure_1: Rainbow of open science practices](images/image_0.png)
-
-[Kramer, Bianca, & Bosman, Jeroen (2018, January). Rainbow of open science practices. Zenodo](https://doi.org/10.5281/zenodo.1147024). (CCBY)
-
-![Figure_2: Open Educational Practice (OEP): collection of scenarios](images/image_1.png)
-
-[Steiner, Tobias (2018, February). Open Educational Practice (OEP): collection of scenarios. Zenodo](https://zenodo.org/record/1183805). (CC0)
-
-* Form better relationships with other stakeholders involved in Open Scholarship developments (e.g., librarians, policymakers, publishers and other service providers, Open Access advocates, and those actively teaching, plus ICT and other support positions for science & education).
+* Advocate for funding organisations, governments and research institutions to adopt policies and mandates related to Open Scholarship practices beyond Open Access (OA) and data sharing; for example, on open peer review, use of persistent identifiers (PIDs), open research evaluation, and preprints. Further to that, advocate for open education with corresponding practices in order to help spread approaches to open among peers and the next generation of scientists.
 
 * Work with, and collaborate with, researchers who practice various aspects of Open Scholarship, ranging from developing Open Source software and tools to posting preprints and citizen science, and sharing experiences made with approaches to open education.
 
 * Encourage the wider adoption of an open mindset that emphasises the importance of the research process over the outcome.
 
+* Establish support structures (e.g., open workshops, openLabs, walk-in labs and support structures, makerspaces in the wider sense) that help to guide other individuals along the path towards Open Scholarship. This can include questions of how to publish, teach, learn and do research in the open, and what tools are available to use for these (see Figures 1 and 2, and *Group Level* section).
+
+* Form better relationships with other stakeholders involved in Open Scholarship developments (e.g., librarians, policymakers, publishers and other service providers, Open Access advocates, and those actively teaching, plus ICT and other support positions for science & education).
+
+* Make sure to heed the [Ten Directions to Move Open Education Forward](http://www.capetowndeclaration.org/cpt10/).
+
+#### Assessment
+
+* Leave **constructive** comments/annotations on preprints/code etc. with open tools such as [hypothes.is](https://web.hypothes.is/)
+
+* React positively to requests for open peer review.
+
 * Sign the San Francisco Declaration on Research Assessment [(DORA)](https://sfdora.org/) as a commitment to improving how research is assessed. Make sure to adhere to the principles too in practice.
 
-  * As an alternative, adopt the [Leiden Manifesto](http://www.leidenmanifesto.org/).
+* Adopt the [Leiden Manifesto](http://www.leidenmanifesto.org/) for research metrics.
 
-* For education, sign the [Cape Town Open Education Declaration](http://www.capetowndeclaration.org/sign-the-declaration) to commit to the pursuit of the Declaration's three strategies as a part of one's teaching, learning and/or work life.
+![Figure_2: Open Educational Practice (OEP): collection of scenarios](images/image_1.png)
 
-  * For those interested in doing more, makes sure to heed the [Ten Directions to Move Open Education Forward](http://www.capetowndeclaration.org/cpt10/).
-
-* Refuse to sign copyright transfer agreements, unless you are allowed to retain copyright of your work under a [Creative Commons](https://creativecommons.org/licenses) license of your own choosing.
-
+[Steiner, Tobias (2018, February). Open Educational Practice (OEP): collection of scenarios. Zenodo](https://zenodo.org/record/1183805). (CC0)
 
 **Group Level (e.g., labs, departments)**
 
