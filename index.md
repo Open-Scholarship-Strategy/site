@@ -993,7 +993,7 @@ From these examples, it is clear that there is a general lack of synthesized and
 
 # 9. Threats <a name="Threats"></a>
 
-### Barriers to Open Access adoption**:
+### Barriers to Open Access adoption:
 
   * Lack of research into personal determinants and environmental conditions of (not) publishing Open Access
 
@@ -1024,7 +1024,7 @@ From these examples, it is clear that there is a general lack of synthesized and
   * A general lack of high profile role models for practices in all research disciplines, strengthening cultural inertia through a lack of awareness.
 
 
-### Barriers to data sharing**:
+### Barriers to data sharing:
 
   * Lack of research into personal determinants and environmental conditions of (not) sharing data
 
@@ -1038,7 +1038,7 @@ From these examples, it is clear that there is a general lack of synthesized and
 
   * Neglect to explicitly grant reuse rights in data, so they inherit poor reuse right from publications.
 
-### Incentives and metrics**:
+### Incentives and metrics:
 
   * A lack of suitable incentives creating fear from traditionally-embedded mentality and practices; for instance that sharing data reduces the competitiveness of an individual (e.g. "someone will use my data in the wrong way," or "I need to get 5 more publications out of this data"").
 
@@ -1066,6 +1066,8 @@ From these examples, it is clear that there is a general lack of synthesized and
 
   * People tend to choose things that are most similar to what they already have, or things that are most similar to other choices they have (e.g. see Dan Ariely's [TED talk](https://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions) on making decisions).
 
-  * It is important to make sure that people can still do what they are already doing, even if they participate in Open Scholarship. With [Weller, 2014](https://doi.org/10.5334/bam), [Veletsianos and Kimmons, 2016](https://doi.org/10.19173/irrodl.v13i4.1313) and [McKiernan, 2017](https://doi.org/10.1371/journal.pbio.1002614), among others, we see inclusivity as a crucial trait of the social movement that is Open Scholarship. While what we described here can ideally encompass all of the before-mentioned practices, an engagement in practices of open science and scholarship can be considered as happening in a spectrum of practices that each of us has to negotiate.
+### Outlook
 
-  * *Therefore, future communication efforts must focus on Open practices as not being completely new, but simply more efficient and more rewarding versions of current practices.*
+It is important to make sure that people can still do what they are already doing, even if they participate in Open Scholarship. With [Weller, 2014](https://doi.org/10.5334/bam), [Veletsianos and Kimmons, 2016](https://doi.org/10.19173/irrodl.v13i4.1313) and [McKiernan, 2017](https://doi.org/10.1371/journal.pbio.1002614), among others, we see inclusivity as a crucial trait of the social movement that is Open Scholarship. While what we described here can ideally encompass all of the before-mentioned practices, an engagement in practices of open science and scholarship can be considered as happening in a spectrum of practices that each of us has to negotiate.
+
+*Therefore, future communication efforts must focus on Open practices as not being completely new, but simply more efficient and more rewarding versions of current practices. Furthermore, it ought to be noted that Openness has a long and proud history and tradition in science and education -  a tradition that might be worth reconsidering at our current situation at the beginning of the 21st century, so that the rhetorical question posed, among others, by* [Watson (2015)](https://doi.org/10.1186/s13059-015-0669-2) *"When will 'open science' become simply 'science'?"  can soon be answered with a "it has today!"*
