@@ -3,11 +3,14 @@ title: "Foundations for Open Scholarship Strategy Development"
 layout: single
 toc: true
 toc_sticky: true
+toc_label: "Table of Contents"
+toc_min_header: 1
+toc_max_header: 2
 ---
 
 <meta charset="utf-8">
 
-#### Version information
+# Version information
 
 - Version 1.0 -- October 16, 2017 - Started document.
 - Version 1.1 -- June 06, 2018 - Created website.
