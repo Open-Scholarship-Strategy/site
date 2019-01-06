@@ -7,14 +7,14 @@
   margin-bottom: 2em;
 
   @include breakpoint($large) {
-    float: right;
-    width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: $right-sidebar-width-narrow;
+    float: left;
+    width: calc(100% - #{$left-sidebar-width-narrow});
+    padding-left: $left-sidebar-width-narrow;
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
-    padding-right: $right-sidebar-width;
+    width: calc(100% - #{$left-sidebar-width});
+    padding-left: $left-sidebar-width;
   }
 }
 
@@ -128,14 +128,14 @@
 
 .archive {
   .grid__wrapper {
-    /* extend grid elements to the right */
+    /* extend grid elements to the left */
 
     @include breakpoint($large) {
-      margin-right: -1 * $right-sidebar-width-narrow;
+      margin-left: -1 * $left-sidebar-width-narrow;
     }
 
     @include breakpoint($x-large) {
-      margin-right: -1 * $right-sidebar-width;
+      margin-left: -1 * $left-sidebar-width;
     }
   }
 }
