@@ -1,6 +1,8 @@
 ---
 title: "Foundations for Open Scholarship Strategy Development"
-layout: page
+layout: single
+toc: true
+toc_sticky: true
 ---
 
 <meta charset="utf-8">
@@ -16,11 +18,6 @@ layout: page
 
 - Version 2.1 -- Completed revised second draft (December 31, 2018)
 
-
-### Table of Contents
-
-1. This will be replaced by an actual TOC by kramdown
-{:toc}
 
 The first draft (Version 1.2) of this document has now been [**PUBLISHED**](https://zenodo.org/record/1323437#.W163StL7RPY).
 

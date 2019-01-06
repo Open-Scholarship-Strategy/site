@@ -36,6 +36,7 @@ algolia:
   powered_by: # true (default), false
 
 # Build settings
+theme: minimal-mistakes-jekyll
 markdown: kramdown
 plugins: # previsously gems
   - jekyll-feed
