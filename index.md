@@ -4,18 +4,13 @@ layout: single
 toc: true
 toc_sticky: true
 toc_label: "Table of Contents"
-toc_min_header: 1
-toc_max_header: 2
 ---
 
 <meta charset="utf-8">
 
-# Version information
-
 - Version 1.0 -- October 16, 2017 - Started document.
 - Version 1.1 -- June 06, 2018 - Created website.
 - Version 1.2 -- Completed first draft (July 30, 2018)
-
 <a href="https://doi.org/10.5281/zenodo.1323437"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.1323437.svg" alt="DOI"></a>
 
 
