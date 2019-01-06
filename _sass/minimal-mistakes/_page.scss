@@ -14,9 +14,11 @@
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
 
+  /* CRM
   @include breakpoint($x-large) {
     max-width: $x-large;
   }
+  */
 }
 
 .page {
