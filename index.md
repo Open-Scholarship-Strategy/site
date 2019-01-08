@@ -3,7 +3,7 @@ title: "Foundations for Open Scholarship Strategy Development"
 layout: single
 toc: true
 toc_sticky: true
-toc_label: "Table of Contents"
+toc_label: "Table of Contents <a href=\"#\" class=\"toc_toggle\" >[hide]</a>"
 ---
 
 <meta charset="utf-8">

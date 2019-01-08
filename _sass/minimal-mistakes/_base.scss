@@ -355,3 +355,9 @@ input[type="submit"],
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+/* CRM */
+header a {
+	color: #000 !important;
+	float: right;
+	text-align: right;
+}
