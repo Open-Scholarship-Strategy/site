@@ -36,12 +36,14 @@ algolia:
   powered_by: # true (default), false
 
 # Build settings
+theme: minimal-mistakes-jekyll
 markdown: kramdown
-plugins: # previsously gems
+plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-include-cache
 feed:
   path: atom.xml
 

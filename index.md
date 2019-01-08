@@ -1,26 +1,21 @@
 ---
 title: "Foundations for Open Scholarship Strategy Development"
-layout: page
+layout: single
+toc: true
+toc_sticky: true
+toc_label: "Table of Contents <a href=\"#\" class=\"toc_toggle\" >[hide]</a>"
 ---
 
 <meta charset="utf-8">
 
-#### Version information
-
 - Version 1.0 -- October 16, 2017 - Started document.
 - Version 1.1 -- June 06, 2018 - Created website.
 - Version 1.2 -- Completed first draft (July 30, 2018)
-
 <a href="https://doi.org/10.5281/zenodo.1323437"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.1323437.svg" alt="DOI"></a>
 
 
 - Version 2.1 -- Completed revised second draft (December 31, 2018)
 
-
-### Table of Contents
-
-1. This will be replaced by an actual TOC by kramdown
-{:toc}
 
 The first draft (Version 1.2) of this document has now been [**PUBLISHED**](https://zenodo.org/record/1323437#.W163StL7RPY).
 
