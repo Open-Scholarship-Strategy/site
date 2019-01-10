@@ -800,7 +800,7 @@ Here, key aspects include:
 
 This section of the strategy will describe some of the strengths of the Open Scholarship 'movement' or 'community'.
 
-### Organisational structure and collective impact
+**Organisational structure and collective impact**
 
   * The global scholarly community is vast, covering every continent, and embedded within strong research and academic institutes. The 'Open' movement goes beyond just scholarship, and is related to wider fields such as Open Culture, Open Government, Open Source, and Open Society. Therefore, the potential collective impact that the movement can have is enormous, with ramifications for global society; for example, influencing the [UN Sustainable Development Goals](http://www.unfoundation.org/features/globalgoals/the-global-goals.html).
 
@@ -810,38 +810,38 @@ This section of the strategy will describe some of the strengths of the Open Sch
 
   * Open Scholarship activism as part of a broader Open movement is benefiting from cross-collaborations with advocates from across different sectors. For example, now Open Scholarship is seen as a gateway to Open Education, but has policies strengthened by experiences from the Open Source movement.
 
-### Diverse participation of passionate individuals
+**Diverse participation of passionate individuals**
 
   * Significant successes in Open Scholarship are often attributed to passionate, persevering champions, particularly in the policy and advocacy/adoption arenas. These individuals demonstrate a great capacity to achieve substantial changes, and create strong influences, almost single-handedly. As an asset to the movement, they become especially important when their experiences and knowledge can be shared and multiplied, through building of collaborations, networks and communities, and mentorship models.
 
-### Strength of research and evidence supporting Open Scholarship practices
+**Strength of research and evidence supporting Open Scholarship practices**
 
   * There is an increasingly strong case now supporting almost all aspects of Open Scholarship. Some key summaries of this work include [McKiernan et al., 2016](https://doi.org/10.7554/eLife.16800), [Tennant et al., 2016](https://doi.org/10.12688/f1000research.8460.3), [McKiernan, 2017](https://doi.org/10.1371/journal.pbio.1002614), and [Katz et al., 2018](https://doi.org/10.12688/f1000research.17425.1). The impact of this can be seen at multiple levels, from the practices of individuals, up to national-level policies around Open Access and Open Science.
 
   * Key projects, groups, and scholars have been conducting research into various aspects of Open Scholarship and its impacts, finding them to be almost overwhelmingly positive. As the movement grows, the evidence base, and the depth of critical analysis will continue to develop and mature.
 
-### Breadth of creativity in coming up with technical and sociotechnical solutions
+**Breadth of creativity in coming up with technical and sociotechnical solutions**
 
   * For example, 'green' and 'gold' routes to Open Access. The former relates to self-archiving, and the latter to publishing in an Open Access journal. While some variations exist (e.g., diamond, bronze, platinum OA), these models generally transcend geographical, institutional, or sectoral variations.
 
   * The growth and adoption of preprints as a method of getting research out sooner and more transparently. In the last two years, this has led to a rapidly evolving [landscape](https://doi.org/10.31222/osf.io/796tu) around preprints, with technological innovation and community practices constantly adapting.
 
-### Availability of Open Scholarship charters and declarations
+**Availability of Open Scholarship charters and declarations**
 
   * This ever-growing range of high-level statements in support of openness (typically [Open Access](http://oad.simmons.edu/oadwiki/Declarations_in_support_of_OA)), but also [more broadly](http://tinyurl.com/scholcomm-charters), offers internally consistent sets of goals and actions that are result of a lot of thinking and discussing.
 
-### Strong push to develop policy models
+**Strong push to develop policy models**
 
   * This transpires from a combination of dynamic, broad and cohesive top-down (policy initiatives from funders, governments, institutions) and bottom-up (grassroots) approaches. It remains important that the imperative and agenda for Open Scholarship remains recognised at the highest political levels. The UK House of Commons Science and Technology [Committee into research integrity](https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/news-parliament-2017/research-integrity3-evidence-17-19/) is an excellent example of this.
 
 One issue with top-down policies is that bodies such as governments and funders demand researchers to comply with rules about data sharing, open code, and the like, yet do not always provide the resources or structures necessary for compliant behaviour. Bottom-up policies weave together best-practices from existing scientific research communities and, compared to top-down approaches, are more often voluntary than mandatory.	Evaluating the degree of alignment between top-down and bottom-up policies might help to illustrate how both approaches can better accommodate and promote Open Scholarship.   
 
-### Diversity of goals enables progress on many fronts simultaneously
+**Diversity of goals enables progress on many fronts simultaneously**
 
   * If one considers the breadth of aspects that fall under Open Scholarship (e.g., Open Access, Open Evaluation, Open Data, Open Source, Citizen Science), and the enormous diversity of organisations and individuals pushing these forward, then it is possible to scope the shifting landscape of the movement. Making sure that these efforts are more linked up in the future will be critical for parallel progression.
 
 
-### Geographical heterogeneity and variably successful initiatives
+**Geographical heterogeneity and variably successful initiatives**
 
   * For example, the [Scientific Electronic Library Online](http://www.scielo.org/php/index.php?lang=en) (SciELO) has proven unequivocally successful across Latin America, Portugal, and South Africa. Similarly, [Africa Journals Online](https://www.ajol.info/) (AJOL) has become very popular in Africa.
 
@@ -850,7 +850,7 @@ One issue with top-down policies is that bodies such as governments and funders 
   * Open Scholarship tends to have a common language (English, usually) for ease of understanding (although see below for why this can also be a challenge).
 
 
-### Accessibility, user-friendliness, and dissemination
+**Accessibility, user-friendliness, and dissemination**
 
   * The Open Scholarship movement publishes articles and resources that are typically free, well-indexed by Google and other search engines, easy to read on mobile devices, and quick to make use of graphics and multimedia to illustrate points. This tendency to embrace technology helps the Open Scholarship movement disseminate its ideas more broadly and quickly than can be accomplished by traditional publication methods.
 
@@ -863,7 +863,7 @@ These challenges represent potential focal points of future discussion, research
 
 ## 7.1 External conditions <a name="External"></a>
 
-### Reconciling private interests
+**Reconciling private interests**
 
 There is currently little consensus over whether the future of Open Scholarship should be purely owned by non-profit entities governed by the global scholarly community (including charities and NGOs), or whether there is a space for private or corporate interests. It is likely that the future will be a mixed model combining all actor types, although the relative position, power, and status of these remains to be seen. Further discussion is needed here to overcome the widespread inertia where current business models are concerned. This includes:
 
@@ -873,7 +873,7 @@ There is currently little consensus over whether the future of Open Scholarship 
 
   * Seeking development of alternative business models, such as the consortium approach of the Open Library of Humanities ([Eve and Edwards, 2015](https://doi.org/10.16995/olh.46)).
 
-### Political agendas
+**Political agendas**
 
 Open Scholarship is characterized by numerous competing, parallel, and overlapping definitions in principles and practices. Accordingly, governments, public and private funding agencies, research institutes, and educational entities continually develop diverse policies to govern Open Scholarship initiatives.
 
@@ -891,7 +891,7 @@ These policies span countries, scientific disciplines, and components of the Ope
 
 From these examples, it is clear that there is a general lack of synthesized and consistent strategy on the political motivations for Open Scholarship. Deeper coordination is needed in this field to strategically identify which aspects of Open Scholarship match with each intended political outcome.
 
-### Researcher awareness and apathy
+**Researcher awareness and apathy**
 
   * Awareness of Open Scholarship is still very low among certain research communities. This is true in the understanding that Open Scholarship exists as a way of increasing standard research workflow efficiency (not as a direct alternative), and the benefits of doing so.
 
@@ -901,7 +901,7 @@ From these examples, it is clear that there is a general lack of synthesized and
 
   * The heterogeneous geographical reach and awareness of Open Scholarship practices needs to be investigated.
 
-### Language and appearance of community
+**Language and appearance of community**
 
   * Open scholarship must be better promoted in non-English languages. The hegemony of English often works to further empower Global North countries in such conversations.
 
@@ -915,7 +915,7 @@ From these examples, it is clear that there is a general lack of synthesized and
 
   * Open Scholarship does come with its own set of technical terms. To lower engagement thresholds, avoid the use of jargon where possible, and make sure commonly used terms are defined with precision.
 
-### Copyright
+**Copyright**
 
   * Legal (copyright) and economic (ownership/business models) knowledge may be as important as technical knowledge.
 
@@ -923,7 +923,7 @@ From these examples, it is clear that there is a general lack of synthesized and
 
   * The Open Scholarship Movement may be able to draw valuable lessons from the experience of the international Open Education movement - and in particular from the actors involved in the introduction of Open Educational Resources (OER) - because it quickly focused on how to integrate Creative Commons licences for teaching/learning material. See e.g. the [Faculty OER Toolkit](https://pressbooks.bccampus.ca/facultyoertoolkit/) for further information on that topic.
 
-### Engaging non-academic actors
+**Engaging non-academic actors**
 
   * Adoption of Open Scholarship at policy level by national and regional governments (like the way Open Data and Open Access have been widely adopted by governments).
 
@@ -933,7 +933,7 @@ From these examples, it is clear that there is a general lack of synthesized and
 
 ## 7.2 Internal conditions <a name="Internal"></a>
 
-### Rate of growth
+**Rate of growth**
 
   * All current evidence indicates that Open Scholarship momentum is building, in terms of more widespread understanding of issues and adoption of practices (e.g., in terms of number of institutional Open Access policies, as indicated by [ROARMAP](https://roarmap.eprints.org/dataviz2.html)).
 
@@ -941,11 +941,11 @@ From these examples, it is clear that there is a general lack of synthesized and
 
    * But such diffusion is often slow and granular, and beset by frictions. Further experimentation should be encouraged to demonstrate the applicability of larger-scale adoption of practices and to increase the rate of growth, and ultimate impact, of Open Scholarship.
 
-### Avoiding quarrelling about details
+**Avoiding quarrelling about details**
 
   *Often, the Open Scholarship movement seems to be fairly combatative about minute issues, without realizing amount of agreement on the main issues. Focusing on the core principles and idnetifying that as common ground sets fertile ground for further, productive discussion.*
 
-### Overcoming lack of money
+**Overcoming lack of money**
 
   * Financial Sustainability is a key aspect for the future of Open Scholarship. A greater understanding of financial workflows in scholarly communication is required, and to support initiatives such as SCOSS, which is dedicated to supporting a sustainable and open scholarly infrastructure.
 
@@ -953,7 +953,7 @@ From these examples, it is clear that there is a general lack of synthesized and
 
   * Thus, there is a clear scope for diverting funds away from present flows (e.g., subscriptions) into more sustainable Open Scholarship ventures. See also the consortium model mentioned above, of e.g. the [Open Library of the Humanities](https://www.openlibhums.org/site/about/the-olh-model/), which distributes the financial burden of individual libraries among a larger group of consortium members.
 
-### Lack of patience among Open Scholarship proponents
+**Lack of patience among Open Scholarship proponents**
 
   * We fully recognise the burdens and pressures that researchers already have, in maintaining high productivity levels, funding applications, administration, teaching, and other duties. This means that often, Open Scholarship, is not highly prioritised, as the current reward system is still highly focused on publication of novel results in high impact journals, which can stifle the rate of growth. Open Scholarship proponents need to be patient and understand this burden.
 
@@ -961,11 +961,11 @@ From these examples, it is clear that there is a general lack of synthesized and
 
   * Researchers do not necessarily need to be open activists. However, they should be aware of the functions of the wider scholarly communication system, and the diverse range of processes and norms that are involved in this.
 
-### Not being open to the limitations of openness
+**Not being open to the limitations of openness**
 
   * Enthusiasm for openness carries the danger of not being receptive to critique or not acknowledging that there are situations where the standard open practices can have dangers. This may relate to privacy issues, but also to data that being open could be captured by governments for surveillance or by companies for corporate interests (think data on rare or indigenous plants/animals, or data showing how local groups or environmental groups work). It also relates to being open to critique regarding the dangers of platform-based economies and unequal relation in research co-operations.
 
-### Dealing with (lack of) diversity
+**Dealing with (lack of) diversity**
 
   * This includes an inherent bias towards English-speaking communities, which discriminates against those who do not speak this, either as their first language at all.
 
@@ -988,7 +988,7 @@ From these examples, it is clear that there is a general lack of synthesized and
 
 # 9. Threats <a name="Threats"></a>
 
-### Barriers to Open Access adoption:
+**Barriers to Open Access adoption:**
 
   * Lack of research into personal determinants and environmental conditions of (not) publishing Open Access
 
@@ -1019,7 +1019,7 @@ From these examples, it is clear that there is a general lack of synthesized and
   * A general lack of high profile role models for practices in all research disciplines, strengthening cultural inertia through a lack of awareness.
 
 
-### Barriers to data sharing:
+**Barriers to data sharing:**
 
   * Lack of research into personal determinants and environmental conditions of (not) sharing data
 
@@ -1033,7 +1033,7 @@ From these examples, it is clear that there is a general lack of synthesized and
 
   * Neglect to explicitly grant reuse rights in data, so they inherit poor reuse right from publications.
 
-### Incentives and metrics:
+**Incentives and metrics:**
 
   * A lack of suitable incentives creating fear from traditionally-embedded mentality and practices; for instance that sharing data reduces the competitiveness of an individual (e.g. "someone will use my data in the wrong way," or "I need to get 5 more publications out of this data"").
 
@@ -1043,7 +1043,7 @@ From these examples, it is clear that there is a general lack of synthesized and
 
   * New metrics must be designed to create incentives to influence researcher behaviour, preferably based around openness.
 
-### Big commercial publishers
+**Big commercial publishers**
 
   * Elsevier & Holtzbrinck/Springer Nature (via Digital Science) seem to be developing services for across the entire research workflow, from discovery through to funding.
 
@@ -1053,7 +1053,7 @@ From these examples, it is clear that there is a general lack of synthesized and
 
   * Regarding preprints, there is an increasing colonisation of the landscape by commercial interests (e.g., Elsevier acquisition of SSRN and scientific publication workflow solutions company [Aries Systems](https://www.elsevier.com/about/press-releases/corporate/elsevier-to-acquire-aries-systems-a-best-in-class-publication-workflow-solutions-provider)). This leads to wider commercial control, irrespective of the final venue of publication.
 
-### Resistance to change**:
+**Resistance to change:**
 
   * Researchers are generally resistant to change, as is human nature, and often defined as a system of 'cultural inertia' within academia.
 
@@ -1061,7 +1061,7 @@ From these examples, it is clear that there is a general lack of synthesized and
 
   * People tend to choose things that are most similar to what they already have, or things that are most similar to other choices they have (e.g. see Dan Ariely's [TED talk](https://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions) on making decisions).
 
-### Outlook
+# 10. Threats <a name="Outlook"></a>
 
 It is important to make sure that people can still do what they are already doing, even if they participate in Open Scholarship. With [Weller, 2014](https://doi.org/10.5334/bam), [Veletsianos and Kimmons, 2016](https://doi.org/10.19173/irrodl.v13i4.1313) and [McKiernan, 2017](https://doi.org/10.1371/journal.pbio.1002614), among others, we see inclusivity as a crucial trait of the social movement that is Open Scholarship. While what we described here can ideally encompass all of the before-mentioned practices, an engagement in practices of open science and scholarship can be considered as happening in a spectrum of practices that each of us has to negotiate.
 
