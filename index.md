@@ -57,22 +57,7 @@ We also note that this strategy can only be based on information which we as a c
 
 ![Figure_1: Rainbow of open science practices](images/image_0.png)
 
-[Kramer, Bianca, & Bosman, Jeroen (2018, January). Rainbow of open science practices. Zenodo](https://doi.org/10.5281/zenodo.1147024). (CC BY)
-
-#### Sharing
-
-* Adopt a broad-scale approach to the variety of open scholarly research and education practices. See the [FOSTER Open Science taxonomy](https://www.fosteropenscience.eu/resources) for guidance.
- * Most importantly, begin with [making your own work available open access](https://cyber.harvard.edu/hoap/How_to_make_your_own_work_open_access), which can almost always be done in some way at [no cost](https://figshare.com/collections/How_to_make_your_work_100_Open_Access_for_free_and_legally_multi-lingual_/3943972).
-
-* Adopt the use of open source and/or free software for the conduct of research and analysis so that the computational processing can be audited by the community, and so that the tools used are available to everyone to increase productivity and collaboration. 
- * For the distinction between open, free, gratis and libre, see. e.g. [OpenSource.com](https://opensource.com/article/17/11/open-source-or-free-software).
-
-* Commit to a variety of personal open scholarly practices, such as sharing research data and materials in free, openly-licensed formats so that methods and results can be freely examined and built upon by the wider community.
- * Also consider sharing your work more rapidly via use of [preprints](https://osf.io/preprints/bitss/796tu/).
-
-* Establish and foster practices of re-use and remix to help create a thriving open scholarship culture, based around collaboration and sharing.
-
-* For education, sign the [Cape Town Open Education Declaration](http://www.capetowndeclaration.org/sign-the-declaration) to commit to the pursuit of the Declaration's three strategies as a part of one's teaching, learning and/or work life.
+[Kramer, Bianca, & Bosman, Jeroen (2018, January). Rainbow of open science practices. Zenodo](https://doi.org/10.5281/zenodo.1147024). (CC BY) Note that the strategy below is divided into the 6 major categories (search, analysis, writing, publication, outreach, and assessment) where relevant.
 
 #### Search
 
@@ -84,6 +69,17 @@ We also note that this strategy can only be based on information which we as a c
 
 * Use RSS readers such as [Feedly](https://feedly.com/) to easily aggregate news and research updates from a number of sources.
 
+#### Analysis
+
+* Adopt a broad-scale approach to the variety of open scholarly research and education practices. See the [FOSTER Open Science taxonomy](https://www.fosteropenscience.eu/resources) for guidance.
+
+* Adopt the use of open source and/or free software for the conduct of research and analysis so that the computational processing can be audited by the community, and so that the tools used are available to everyone to increase productivity and collaboration. 
+ * For the distinction between open, free, gratis and libre, see. e.g. [OpenSource.com](https://opensource.com/article/17/11/open-source-or-free-software).
+
+* Establish and foster practices of re-use and remix to help create a thriving open scholarship culture, based around collaboration and sharing.
+
+* Where needed, also consider pre-registering studies, sharing protocols, and using lab notebooks to openly document research.
+
 #### Writing
 
 * Answer relevant questions and join in discussions on public websites, e.g. [Ask Open Science](https://ask-open-science.org/), [Stack Overflow](https://stackoverflow.com/), the [Open Science subrredit](https://www.reddit.com/r/Open_Science/) and [Twitter](https://twitter.com).
@@ -91,17 +87,22 @@ We also note that this strategy can only be based on information which we as a c
 * Make individual contributions to openness that are visible in public (e.g., on a CV, open platform, or personal website/blog). Use these as the basis to develop best practice stories around role models.
 
 * Become familiar with openly collaborative writing tools such as [Overleaf](https://www.overleaf.com/) and [Google Docs](https://docs.google.com/document/u/0/).
+  * Also consider 'executable writing formats' using platforms such as [Stencila](https://stenci.la/).
 
 #### Publication
 
-* Commit to sharing [preprints](http://asapbio.org/preprint-info) for the open and rapid dissemination of your work.
+* Commit to a variety of personal open scholarly practices, such as sharing research data and materials in free, openly-licensed formats so that methods and results can be freely examined and built upon by the wider community.
+ * Also consider sharing your work more rapidly via use of [preprints](https://osf.io/preprints/bitss/796tu/).
+ 
+ * Make sure that all supporting code, data, and other relevant information are available alongside any papers published.
+ 
+ * Commit to sharing presentations and posters, as well as any recordings, online via platforms such as [Zenodo](https://zenodo.org/).
+
+* Most importantly, begin with [making your own work available open access](https://cyber.harvard.edu/hoap/How_to_make_your_own_work_open_access), which can almost always be done in some way at [no cost](https://figshare.com/collections/How_to_make_your_work_100_Open_Access_for_free_and_legally_multi-lingual_/3943972).
+  * Consider only publishing in APC-free Open Access journals, or those which or operated by non-profits or learned societies.
 
 * Refuse to sign copyright transfer agreements (CTAs), unless you are allowed to retain copyright of your work under a [Creative Commons](https://creativecommons.org/licenses) license of your own choosing.
  * If needed, use the [SPARC author addendum](https://sparcopen.org/our-work/author-rights/brochure-html/) to legally retain the rights to your work during publicaton.
- 
-* Consider only publishing in APC-free Open Access journals, or those which or operated by non-profits or learned societies.
-
-* Make sure that all supporting code, data, and other relevant information are available alongside any papers published.
 
 #### Outreach
 
@@ -109,6 +110,8 @@ We also note that this strategy can only be based on information which we as a c
  * Further to that, advocate for open education with corresponding practices in order to help spread approaches to open among peers and the next generation of scientists.
 
 * Work with, and collaborate with, researchers who practice various aspects of Open Scholarship, ranging from developing Open Source software and tools to posting preprints and citizen science, and sharing experiences made with approaches to open education.
+
+* For education, sign the [Cape Town Open Education Declaration](http://www.capetowndeclaration.org/sign-the-declaration) to commit to the pursuit of the Declaration's three strategies as a part of one's teaching, learning and/or work life.
 
 * Encourage the wider adoption of an open mindset that emphasises the importance of the research process over the outcome.
 
@@ -134,14 +137,27 @@ We also note that this strategy can only be based on information which we as a c
 
 * Adopt the [Leiden Manifesto](http://www.leidenmanifesto.org/) for research metrics.
 
+* Do not judge work based on its impact factor or venue of publication. Consider establishing an [ImpactStory profile](http://impactstory.org/) to document your research impact more.
+
+
 ![Figure_2: Open Educational Practice (OEP): collection of scenarios](images/image_1.png)
 
 [Steiner, Tobias (2018, February). Open Educational Practice (OEP): collection of scenarios. Zenodo](https://zenodo.org/record/1183805). (CC0)
 
 
-### Group Level (e.g., labs, departments) (note that some of these are duplicated from the individual level)
+### Group Level (e.g., labs, departments) 
 
-#### Sharing
+Many of those at the individual level will still be relevant here too, and are duplicated in part here to reflect this.
+
+#### Search
+
+* Search for existing data from other labs and individuals you can reuse instead of creating your own duplicate data.
+
+* Consider using and supporting more open search engines, such as [Open Knowledge Maps](https://openknowledgemaps.org/), instead of proprietary services.
+
+* Use RSS readers such as [Feedly](https://feedly.com/) to easily aggregate news and research updates from a number of sources.
+
+#### Analysis
 
 * Adopt best practices for Open Scholarship, including shared data as a research output, addressing publication bias, and "questionable research practices" with bias-reducing workflows.
   * Highlight best practice showcases in order to demonstrate what is actually possible with Open Scholarship, and what the wider advantages can be.
@@ -151,13 +167,7 @@ We also note that this strategy can only be based on information which we as a c
 
 * Adopt the use of open source and/or free software for the conduct of research and analysis so that the computational processing can be audited by the community, and so that the tools used are available to everyone to increase productivity and collaboration. 
 
-#### Search
-
-* Search for existing data from other labs and individuals you can reuse instead of creating your own duplicate data.
-
-* Consider using and supporting more open search engines, such as [Open Knowledge Maps](https://openknowledgemaps.org/), instead of proprietary services.
-
-* Use RSS readers such as [Feedly](https://feedly.com/) to easily aggregate news and research updates from a number of sources.
+* Where needed, also consider pre-registering studies, sharing protocols, and using lab notebooks to openly document research.
 
 #### Writing
 
@@ -270,9 +280,9 @@ We also note that this strategy can only be based on information which we as a c
 
 ### National Level (or higher)
 
-#### Sharing
-
 #### Search
+
+#### Analysis
 
 #### Writing
 
