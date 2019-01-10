@@ -1061,7 +1061,7 @@ From these examples, it is clear that there is a general lack of synthesized and
 
   * People tend to choose things that are most similar to what they already have, or things that are most similar to other choices they have (e.g. see Dan Ariely's [TED talk](https://www.ted.com/talks/dan_ariely_asks_are_we_in_control_of_our_own_decisions) on making decisions).
 
-# 10. Threats <a name="Outlook"></a>
+# 10. Outlook <a name="Outlook"></a>
 
 It is important to make sure that people can still do what they are already doing, even if they participate in Open Scholarship. With [Weller, 2014](https://doi.org/10.5334/bam), [Veletsianos and Kimmons, 2016](https://doi.org/10.19173/irrodl.v13i4.1313) and [McKiernan, 2017](https://doi.org/10.1371/journal.pbio.1002614), among others, we see inclusivity as a crucial trait of the social movement that is Open Scholarship. While what we described here can ideally encompass all of the before-mentioned practices, an engagement in practices of open science and scholarship can be considered as happening in a spectrum of practices that each of us has to negotiate.
 
