@@ -1067,4 +1067,4 @@ It is important to make sure that people can still do what they are already doin
 
 [Fill in this section]
 
-By breaking down Open Scholarship into its constituents, it enables communities to take small steps as a collective towards a more open culture, and with relatively little effort. 
+By breaking down Open Scholarship into its constituents, it enables communities to take small steps as a collective towards a more open culture, and with relatively little effort.
