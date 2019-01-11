@@ -465,31 +465,16 @@ The expectation at this point is that specific parts of the short-term strategy 
 
 ### National (or higher) Level
 
-#### Sharing
-
-#### Search
-
-#### Writing
-
-#### Publication
-
-#### Outreach
-
-#### Assessment
+#### Analysis
 
 * Start implementing semantic technology across all scholarship outputs, including for the purposes of enabling unrestricted text and data mining.
 
-* Formulation of recommended career metrics that incentivize Open Data publication, Open Materials, Open Source software release, and research support.
-
-* Formulate recommended career metrics that incentivize Open Data publication, Open Source software release, and open research support.
-
-* Formulate recommended career metrics that value candidates' efforts towards open learning and teaching / open education.
-
- * Ensure that fairer and more rigorous research assessment policies are in place, and well-supported and monitored.
+#### Publication
 
 * For any remaining hybrid journals that attain a higher proportion of Open Access over subscription articles, encourage them to flip to pure Open Access with an APC that reflects the running costs of the journal.
-
  * For remaining hybrid journals that have not attained this level, refuse to support publication of Open Access articles in those venues, and also refuse to renew subscriptions.
+
+#### Outreach
 
 * Increase funding for outreach, especially to under-represented demographics.
 
@@ -497,12 +482,20 @@ The expectation at this point is that specific parts of the short-term strategy 
 
 * Fund intervention development of interventions to target individuals and institutions to adopt Open Scholarship practices and policies.
 
-* Engage library consortia (e.g., LIBER, EIFL) with national negotiation consortia, and any relevant higher education unions, in order to strengthen researcher coalitions. Supplement these with scholarly collaborations (e.g., eLife, NISO) in order to further develop relationships and collaborations across the scholarly communication sector.
+* Engage library consortia (e.g., [LIBER](https://liber2016.org/), [EIFL](http://www.eifl.net/)) with national negotiation consortia, and any relevant higher education unions, in order to strengthen researcher coalitions. Supplement these with scholarly collaborations (e.g., [eLife](https://elifesciences.org/), [NISO](https://www.niso.org/)) in order to further develop relationships and collaborations across the scholarly communication sector.
 
 * Begin implementation of national or international scholarly infrastructures, with cross-stakeholder agreed upon open standards, roadmaps, and governance structures. Ensure this is supported with sustainable funding streams diverted from refreshed library budgets after expensive publishing contracts have been terminated or expired.
 
 * Publicise the outcomes of any research or investigations into the status of national-level scholarly publishing markets.
 
+#### Assessment
+
+* Formulation of recommended career metrics that incentivize Open Data publication, Open Materials, Open Source software release, and research support.
+  * Formulate recommended career metrics that incentivize Open Data publication, Open Source software release, and open research support.
+  
+  * Formulate recommended career metrics that value candidates' efforts towards open learning and teaching / open education.
+
+  * Ensure that fairer and more rigorous research assessment policies are in place, and well-supported and monitored.
 
 ## 2.3 Long-term strategy (5-10 years) <a name="Long"></a>
 
@@ -515,7 +508,7 @@ The expectation at this point is that specific parts of the short- and mid-term 
 
 * Teach students about open lab notebooks, version control, continuous analysis, and other aspects of Open Scholarship processes in introductory research courses.
 
- * The [Open Science MOOC](https://eliademy.com/catalog/catalog/product/view/sku/02d7338a7e) is a scalable community-led initiative to help in this space.
+ * The [Open Science MOOC](https://opensciencemooc.eu/) is a scalable community-led initiative to help in this space.
 
  * [The Carpentries](https://carpentries.org/) could support training of early career researchers on foundational coding and data science skills.
 
