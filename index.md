@@ -14,7 +14,7 @@ toc_label: "Table of Contents <a href=\"#\" class=\"toc_toggle\" >[hide]</a>"
 
 - Version 2.1 -- Completed revised second draft (January 31, 2019, in prep)
 
-Please note that this strategy is also available in [Spanish](https://github.com/Open-Scholarship-Strategy/indexed/tree/master/translations/spanish) and [German](https://github.com/Open-Scholarship-Strategy/indexed/tree/master/translations/german).
+Please note that a version of this strategy is also available in [Spanish](https://github.com/Open-Scholarship-Strategy/indexed/tree/master/translations/spanish), [Indonesian](https://sainsterbuka.readthedocs.io/en/latest/?fbclid=IwAR2eJ0xOMQdkbIbGt639frHFv0PdwK44HesXAsWBgVNXiXU1oZQRdn7TPrA) and [German](https://github.com/Open-Scholarship-Strategy/indexed/tree/master/translations/german).
 
 It is available in a range of formats, including: [R markdown](https://github.com/Open-Scholarship-Strategy/indexed/blob/master/ver_1/index.Rmd), [as an e-book](https://github.com/Open-Scholarship-Strategy/indexed/blob/master/ver_1/index.epub), [iPython notebook](https://github.com/Open-Scholarship-Strategy/indexed/blob/master/ver_1/index.ipynb), [markdown](https://github.com/Open-Scholarship-Strategy/indexed/blob/master/ver_1/index.md), [open document format text](https://github.com/Open-Scholarship-Strategy/indexed/blob/master/ver_1/index.odt), [PDF](https://github.com/Open-Scholarship-Strategy/indexed/blob/master/ver_1/index.pdf), [rich-text format](https://github.com/Open-Scholarship-Strategy/indexed/blob/master/ver_1/index.rtf), [LaTeX](https://github.com/Open-Scholarship-Strategy/indexed/blob/master/ver_1/index.tex), [plain text](https://github.com/Open-Scholarship-Strategy/indexed/blob/master/ver_1/index.txt), [XML](https://github.com/Open-Scholarship-Strategy/indexed/blob/master/ver_1/index.xml) and as [HTML](https://github.com/Open-Scholarship-Strategy/indexed/blob/master/ver_1/index_html.rar).
 
@@ -560,13 +560,13 @@ For more than two decades, the movement for Open Scholarship has evolved from a 
 
 The goals and broader vision for Open Scholarship are outlined in foundational documents including the [Budapest Open Access Initiative](http://www.budapestopenaccessinitiative.org/), The [Open Archives Initiative](https://www.openarchives.org/), [Vienna Principles](https://viennaprinciples.org/), [Scholarly Commons principles](https://www.force11.org/scholarly-commons/principles), and The [Panton Principles](https://en.wikipedia.org/wiki/Panton_Principles). Throughout time, there have been dozens of [declarations](http://oad.simmons.edu/oadwiki/Declarations_in_support_of_OA), [charters](http://tinyurl.com/scholcomm-charters), and statements about the priorities of the various aspects of Open Scholarship. The result of this is that there are now numerous competing, parallel, or overlapping definitions of what Open Scholarship comprises in terms of both research principles and practice, which aim to encapsulate the movement towards fostering scientific growth alongside public accessibility.
 
-Herein, we find it useful to consider Open Scholarship to be analogous to a boundary object, in that it is flexibly adaptive, interpreted differently across communities but with enough immutable content to maintain its integrity. Next to [Peters and Roberts, 2012](https://www.routledge.com/Virtues-of-Openness-Education-Science-and-Scholarship-in-the-Digital/Peters-Roberts/p/book/9781594516863)' approach, we find [Fecher and Friesike, 2013](https://doi.org/10.1007/978-3-319-00026-8_2)'s five "schools of thought" to be particularly useful in framing this strategy, based on the components: Infrastructure, Measurement, Public, Democratic and Pragmatic. Furthermore, we now extend this to suggest a sixth school of Community and Inclusion, based on developments in this space in the last 5 years (and more). The OCSD (Open and Collaborative Science in Development) Network has an [Open Science Manifesto](https://ocsdnet.org/manifesto/open-science-manifesto/) for a more inclusive Open Science for social and environmental well-being that is also highly useful in framing for this strategy.
+Herein, we find it useful to consider Open Scholarship to be analogous to a boundary object [Moore, 2017](https://journals.openedition.org/rfsic/3220), in that it is flexibly adaptive, interpreted differently across communities but with enough immutable content to maintain its integrity. Next to [Peters and Roberts, 2012](https://www.routledge.com/Virtues-of-Openness-Education-Science-and-Scholarship-in-the-Digital/Peters-Roberts/p/book/9781594516863)' approach, we find [Fecher and Friesike, 2013](https://doi.org/10.1007/978-3-319-00026-8_2)'s five "schools of thought" to be particularly useful in framing this strategy, based on the components: **Infrastructure**, **Measurement**, **Public**, **Democratic** and **Pragmatic**. Furthermore, we now extend this to suggest a sixth school of **Community and Inclusion**, based on developments in this space in the last 5 years (and more). The OCSD (Open and Collaborative Science in Development) Network has an [Open Science Manifesto](https://ocsdnet.org/manifesto/open-science-manifesto/) for a more inclusive Open Science for social and environmental well-being that is also highly useful in framing for this strategy.
 
-These previous works have been, and remain to be, crucial for building a central identity for the global Open Scholarship community, communicating the case for Open Scholarship to wider society, and providing a basis to push the global movement forward. To realize the full potential and vision of Open Scholarship, we believe that a document is needed that asks critical questions about the internal structure of Open Scholarship as a movement, and addresses strategic questions about how we, as a global movement, can identify concrete steps to achieving these goals. For those unfamiliar with the language of Open Scholarship, we refer them to the [Open Research Glossary](http://www.righttoresearch.org/resources/openresearchglossary/), hosted by the Right to Research Coalition.
+These previous works have been, and remain to be, crucial for building a central identity for the global Open Scholarship community, communicating the case for Open Scholarship to wider society, and providing a basis to push the global movement forward. To realize the full potential and vision of Open Scholarship, we believe that a document is needed that asks critical questions about the internal structure of Open Scholarship as a movement, and addresses strategic questions about how we, as a global movement, can identify concrete steps to achieving these goals. For those unfamiliar with the language of Open Scholarship, we refer them to the [Open Research Glossary](http://www.righttoresearch.org/resources/openresearchglossary/).
 
 ![Figure_3: Five schools of thought in Open Scholarship](images/image_2.png)
 
-[Fecher and Frieseke (2013). Five schools of thought in Open Scholarship](https://www.fosteropenscience.eu/content/what-open-science-introduction). (CC BY NC)
+[Fecher and Frieseke (2013). Five schools of thought in Open Scholarship](https://www.fosteropenscience.eu/content/what-open-science-introduction). (CC BY-NC)
 
 
 # 4. State of the Movement <a name="State"></a>
@@ -585,21 +585,25 @@ Perhaps the most widespread commonality between Open Scholarship stakeholders is
 ### 4.1.2 Overall goals and vision
 
 Research practices and scholarly communications are constantly evolving. However, despite the fact that the Web was originally designed around 30 years ago to disrupt the hierarchical approach of information management by the decentralisation of scholarly communications ([Berners-Lee, 1989](https://www.w3.org/History/1989/proposal.html)), the pervasive spread of the Web has left much of the pre-existing scholarly publication model and industry fundamentally unchanged. Such a perceived slow rate of change or inertia can possibly be attributed to the wide range of diverse stakeholders engaged in this domain, and the deep entrenchment of interests and positions; for example, over copyright, journal brands, and research assessment.
-As such, one common perspective is that scholarly communication processes need to increasingly embrace the power of Web-native technologies in order to make use of the semantic web (see e.g. [Hitzler, 2010](http://www.semantic-web-journal.net/content/reasonable-semantic-web) or [Pomerantz, 2015](https://mitpress.mit.edu/books/metadata)) that promises to enhance networking, collaboration, and transparency in research. Alignment of this ideal with the processes of research and education is what is broadly agreed on as Open Scholarship, and there has been an undeniable explosion in the rate of innovation in scholarly communication in this in the last 10 years.
+As such, one common perspective is that scholarly communication processes need to increasingly embrace the power of Web-native technologies in order to make use of the semantic Web (see e.g. [Hitzler, 2010](http://www.semantic-web-journal.net/content/reasonable-semantic-web) or [Pomerantz, 2015](https://mitpress.mit.edu/books/metadata)) that promises to enhance networking, collaboration, and transparency in research. Alignment of this ideal with the processes of research and education is what is broadly agreed on as Open Scholarship, and there has been an undeniable explosion in the rate of innovation in scholarly communication in this in the last 10 years.
 
-The primary vision here, and one which we are optimistic of achieving, is three-fold:
+The primary vision here, and one which we are optimistic of achieving, is four-fold:
 
-1. That all educational resources and research outputs, as a global societal common good should be accessible free of charge to all members of the public who wish to benefit from them.
-2. That the benefits of this research should be integrated into wider society.
-3. That anyone should be freely available to contribute to, and participate in, this process.
+1. **That all educational resources and research outputs, as a global societal common good, should be accessible free of charge to all members of the public who wish to benefit from them.**
+
+2. **That such resources should be free from uneccessary constraints on widespread re-use.**
+
+3. **That the benefits of this research should be integrated into the functioning of our wider society.**
+
+4. **That anyone has the right to freely to contribute to, and participate in, this process.**
 
 ### 4.1.3 Definition as a boundary object
 
 When perceived as a *boundary object* ([Star, 1989](http://www.lchc.ucsd.edu/MCA/Mail/xmcamail.2012_08.dir/pdfMrgHgzULhA.pdf)), Open Scholarship allows us to balance different categories and meanings across many diverse communities of practice. Here, the creation and management of such boundary objects is a key process in developing and maintaining coherence across intersecting communities.
 
-Broadly, the core aspects of Open Scholarship can be divided into two major categories: **knowledge and practices** and **principles and values**. For the former, this relates to aspects such as Open Access, Open Data, and Open Evaluation. The core principles or values of Open Scholarship include participation, equality, transparency, cognitive justice, collaboration, sharing, equity, and inclusivity; aspects that are often missing from traditional scholarship. Generally, it is agreed upon that the combination of these practices and principles will result in a better research process, all grouped under the broad heading of Open Scholarship. Indeed, [Watson (2015)](https://doi.org/10.1186/s13059-015-0669-2) believes that these attributes are not exclusive to Open Scholarship, but should be key traits of good science in general.
+Broadly, the core aspects of Open Scholarship can be divided into two major categories: **knowledge and practices** and **principles and values**. For the former, this relates to aspects such as Open Access, Open Data, and Open Evaluation. The core principles or values of Open Scholarship include participation, equality, transparency, cognitive justice, collaboration, sharing, equity, and inclusivity; aspects that are often missing from many 'traditional' forms of scholarship. Generally, it is agreed upon that the combination of these practices and principles will result in a better (i.e., more rigorous or fairer) research process, all grouped under the broad heading of Open Scholarship. [Watson (2015)](https://doi.org/10.1186/s13059-015-0669-2) notes that these attributes are not exclusive to Open Scholarship, but should be key traits of good science in general.
 
-However, we acknowledge that Open Scholarship is not a simple construct to understand for many at the present, and often has its own language. We fully acknowledge that such a barrier must be overcome in order to maximise participation and engagement with both the principles and the practices ([Masuzzo and Martens, 2017](https://doi.org/10.7287/peerj.preprints.2689v1)).
+However, we acknowledge that Open Scholarship is not a simple construct to understand for many at the present, and often even has its own language. We fully acknowledge that such a barrier must be overcome in order to maximise participation and engagement with both the principles and the practices ([Masuzzo and Martens, 2017](https://doi.org/10.7287/peerj.preprints.2689v1)).
 
 ![Figure_4: Principles of Open Scholarship](images/image_3.png)
 
@@ -624,7 +628,7 @@ Adapted from the [Foster Open Scholarship Taxonomy](https://www.fosteropenscienc
 
 ## 4.2 Varied Perspectives
 
-As well as these shared commonalities above, tensions also exist between the best way to adopt Open Scholarship practices. Open Scholarship is an agenda with multiple stakeholders, whose diverse cultures, backgrounds and interests mean that one-size-fits-all solutions could potentially harm local interests (or vice versa). On the other hand, there is a need to ensure that strategies are joined-up so that the actions of those with similar aims are not working at cross-purposes. Such "fault-lines" for the creation of a cohesive strategy are:
+As well as these shared commonalities above, tensions also exist between the best way to adopt Open Scholarship practices. Open Scholarship is an agenda with multiple stakeholders (or groups), whose diverse cultures, backgrounds and interests mean that one-size-fits-all solutions could potentially harm local interests (or vice versa). On the other hand, there is a need to ensure that strategies are joined-up so that the actions of those with similar aims are not working at cross-purposes. Such "fault-lines" for the creation of a cohesive strategy include geographic, disciplinary, and stakeholder specificities.
 
 ### 4.2.1 Geographic specificities
 
@@ -636,29 +640,32 @@ As well as these shared commonalities above, tensions also exist between the bes
 
 * Many popular indexing services, such as Scopus and Web of Science, are explicitly biased against journals from developing countries, or those that do not have English as the primary language ([Mongeon and Paul-Hus, 2016](https://doi.org/10.1007/s11192-015-1765-5)).
 
-* It needs to be ensured that any narrative of Open Science integrates the diverse world-views, experiences, and challenges of Latin America, Asia, Africa and the Middle East, as outlined in the [Open and Collaborative Science Manifesto](https://ocsdnet.org/manifesto/open-science-manifesto/).
+* It needs to be ensured that any narrative of Open Scholarship integrates the diverse world-views, experiences, and challenges of Latin America, Asia, Africa and the Middle East, as outlined in the [Open and Collaborative Science Manifesto](https://ocsdnet.org/manifesto/open-science-manifesto/).
+
 
 ### 4.2.2 Disciplinary specificities
 
-* As the [more widely-used](https://trends.google.com/trends/explore?date=2004-01-01%202018-12-28&q=open%20scholarship,open%20science) term Open Science contains the word Science, this can have an adverse effect of excluding researchers from the arts, humanities, engineering, mathematics, and other fields that might not be considered to be science. This problem seems mainly confined to native-English speaking researchers, since in many other languages, the word that is used for science (e.g., Wissenschaft in German) is more general than in English. Other terms such as e-Research and Digital Humanities describe similar practices across different communities.
+* As the [more widely-used](https://trends.google.com/trends/explore?date=2004-01-01%202018-12-28&q=open%20scholarship,open%20science) term Open Science contains the word 'Science', this can have an adverse effect of excluding researchers from the arts, humanities, engineering, mathematics, and other fields that might not be considered to be science. This problem seems mainly confined to native-English speaking researchers, since in many other languages, the word that is used for science (e.g., Wissenschaft in German) is more general than in English. Other terms such as e-Research and Digital Humanities describe similar practices across different communities.
 
-* Differences in attitudes towards, and rates of uptake of, different Open practices. For example, many Open Scientific practices are geared towards empirical and quantitative research, and therefore require different evaluation and incentive structures than other scholarly disciplines.
+* Differences in attitudes towards, and rates of uptake of, different Open practices. For example, many open scientific practices are geared towards more empirical and quantitative research, and therefore require different evaluation and incentive structures than other scholarly disciplines.
 
 * Accounting for domain-specific issues. For example, accounting for variation in biological supplies from different laboratory companies is a significant issue in reproducibility for biological research. Open Access books are a major problem in the Humanities ([Eve, 2014](http://dx.doi.org/10.1017/CBO9781316161012)), but less so in STEM, and are often sidelined as an issue as a result.
 
 * At the present there are few preprints from the [pharmaceutical industry](https://openpharma.blog/2017/08/14/when-will-preprints-take-off-in-medicine/), and none covering primary clinical data. There are at present considerable barriers to preprints of industry work, including the possibility of material that has not yet been peer-reviewed being seen as promotional, and the possibility of readers changing clinical practice based on material that has not yet been peer-reviewed, however well labelled a preprint is.
 
+
 ### 4.2.3 Stakeholder specificities
 
-* Consider the range of stakeholders who have a direct interest in the development of Open Scholarship - Researchers, students, funders, librarians, research managers, scholarly societies, infrastructure providers, industry, wider society, publishers & other Open Scholarship service providers, educators, NGOs, and policymakers. Each of these groups engage in the Open Scholarship agenda for different reasons, and often these goals will be in conflict depending on their intrinsic motivations.
+* Consider the range of stakeholders who have a direct interest in the development of Open Scholarship - researchers, students, funders, librarians, research managers, scholarly societies, infrastructure providers, industry, wider society, publishers and other service providers, educators, NGOs, and policymakers. Each of these groups engage in the Open Scholarship agenda for different reasons, and often these goals will be in conflict/tension depending on their intrinsic motivations, understanding, and goals.
 
-Regarding Open Access, there is little consensus on the best way forward for this at a multitude of scales (geographic, institutional, individual). The result of such ongoing tensions is, perhaps not surprisingly, the lack of well-defined strategic priorities for Open Access Conflicts between different stakeholder groups can often be distinguished based on competing interests, which filter through at multiple levels in communication, policy, and practices.
+For example, regarding Open Access, there is little consensus on the best way forward for this at a multitude of scales (geographic, institutional, individual). The result of such ongoing tensions is, perhaps not surprisingly, the lack of well-defined strategic priorities for Open Access Conflicts between different stakeholder groups can often be distinguished based on competing interests, which filter through at multiple levels in communication, policy, and practices.
 
 The result of this is that the relationship network of stakeholders engaged in scholarly communication, and in particular developments in Open Scholarship, is particularly complex. Some of the most highly debated points include:
 
 * Appropriate licensing schemes for research data;
 * Where funding for scholarly publishing activities should come from;
 * Who should be in charge of scholarly research infrastructure;
+* The role of policy mandates in driving openness;
 * What the optimal model of Open Access should be, and what the traits of this are;
 * The role of charities, non-profit, and for-profit players; and
 * How to resolve conflicts between different stakeholders.
@@ -669,7 +676,7 @@ This is a non-exhaustive list, but highlights that conflict resolution in schola
 
 There are varied opinions, and a lack of consensus, around what extent of Open Scholarship adoption is necessary to constitute success. Part of this is due to the lack of well-defined objectives, which means that defining a pathway with clear cut stepping stones has been difficult, and remained clouded by the different competing stakeholders and multiplicity of complex processes.
 
-However, some aspects are clear, which can be generally agreed upon by all stakeholders:
+However, some aspects are clear, which can be generally agreed upon by all stakeholders as being optimal results of Open Scholarship:
 
 * Transforming the present scholarly communications market so that it flips to Open Scholarship services as the default model for research processes and outputs.
 
@@ -683,11 +690,12 @@ However, some aspects are clear, which can be generally agreed upon by all stake
 
 * Replacing entire traditional research workflows by Open Scholarship methodologies.
 
-* Phasing out proprietary software in favour of free and open source software.
+* Phasing out proprietary software in favour of free and Open Source software.
 
 * Measurably increasing quality of research and achievement that leads to greater career prospects, and social, academic, and economic growth and innovation.
 
 * Adoption of complete Open Access by funding agencies; policies that explicitly allow use of preprints and other pre-publications in funding applications, as well as consideration of non-traditional research outputs.
+
 
 # 5. Top Strategic Priorities for Open Scholarship <a name="Priorities"></a>
 
