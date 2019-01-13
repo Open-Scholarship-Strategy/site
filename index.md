@@ -84,7 +84,7 @@ We also note that this strategy can only be based on information which we as a c
 
 #### Writing
 
-* Answer relevant questions and join in discussions on public websites, e.g. [Ask Open Science](https://ask-open-science.org/), [Stack Overflow](https://stackoverflow.com/), the [Open Science subrredit](https://www.reddit.com/r/Open_Science/) and [Twitter](https://twitter.com).
+* Answer relevant questions and join in discussions on public websites, e.g. [Ask Open Science](https://ask-open-science.org/), [Stack Overflow](https://stackoverflow.com/), the [Open Science subreddit](https://www.reddit.com/r/Open_Science/) and [Twitter](https://twitter.com).
 
 * Make individual contributions to openness that are visible in public (e.g., on a CV, open platform, or personal website/blog). Use these as the basis to develop best practice stories around role models.
 
@@ -240,8 +240,6 @@ Many of those at the individual level will still be relevant here too, and are d
 * Purchase back any legacy documents and incorporate them into the scholarly body of work. Also improve the open sharing and archiving of legacy articles on which copyright has expired.
 
 * Help to inform researchers more about the [Author Alliance termination of transfer](https://www.authorsalliance.org/resources/termination-of-transfer/) tool to help them retain their rights as authors. 
-
-  * In that context, consider making use of the [Termination of Transfer Tool](https://rightsback.org/).
 
 * Research funders can define the limits of what is an acceptable standard of publication. They therefore have the power to mandate publication in journals with a cap on APCs and BPCs, or in OA-only venues (with specific licenses), or in those with short or zero-length embargoes on self-archiving (e.g., Emerald, The Royal Society).
 
@@ -1259,8 +1257,138 @@ By breaking down Open Scholarship into its constituents, it enables communities 
 
 ## Articles and reports cited
 
-*
+* Allen et al., (2015) Foundations for OER Strategy Development [link](http://www.oerstrategy.org/home/read-the-doc/)
+
+* Berkman Klein Center for Internet and Society: Good practices for university open-access policies [link](https://cyber.harvard.edu/hoap/Good_practices_for_university_open-access_policies)
+
+* Berkman Klein Center for Internet and Society: How to make your work open access [link](https://cyber.harvard.edu/hoap/How_to_make_your_own_work_open_access)
+
+* Buryani (2017) Is the staggeringly profitable business of scientific publishing bad for science? [link](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)
+
+* Cape Town Open Education Declaration [link](https://www.capetowndeclaration.org/sign-the-declaration)
+
+* Crowfoot (2017) Open Access policies and Science Europe: State of play [link](https://content.iospress.com/articles/information-services-and-use/isu839)
+
+* GO FAIR: FAIR Principles [link](https://www.go-fair.org/fair-principles/)
+
+* EU Publications: Policy approaches to Open Education [link](https://publications.europa.eu/en/publication-detail/-/publication/42d076f2-f1cc-11e7-9749-01aa75ed71a1/language-en)
+
+* Horizon Europe - The next research and innovation framework programme [link](https://ec.europa.eu/info/designing-next-research-and-innovation-framework-programme/what-shapes-next-framework-programme_en)
+
+* Kramer and Bosman (2018) Rainbow of open science practices [link](https://zenodo.org/record/1147025#.XDs26817lPY)
+
+* Steiner (2018) Open Educational Practice (OEP): collection of scenarios [link](https://zenodo.org/record/1183806#.XDs3Kc17lPY)
+
+* Tennant (2018) How to make your work 100% Open Access for free and legally (multi-lingual) [link](https://figshare.com/collections/How_to_make_your_work_100_Open_Access_for_free_and_legally_multi-lingual_/3943972)
+
+* Tennant et al., (2018) The evolving preprint landscape: Introductory report for the Knowledge Exchange working group on preprints [link](https://osf.io/preprints/bitss/796tu/)
+
+* 
+
 
 ## Tools and services mentioned
 
-*
+* 101 innovations in scholarly communication [link](https://101innovations.wordpress.com/)
+
+* Author Alliance termination of transfer (copyright and licensing) [link](https://www.authorsalliance.org/resources/termination-of-transfer/)
+
+* CASRAI CRediT (researcher recognition) [link](http://docs.casrai.org/CRediT)
+
+* Contributor Covenant (community support) [link](https://www.contributor-covenant.org/)
+
+* Dissemin (open access) [link](https://dissem.in/)
+
+* Feedly (search and discovery) [link](https://feedly.com/)
+
+* FOSTER resources (training and support) [link](https://www.fosteropenscience.eu/resources)
+
+* Google Docs (collaborative authoring) [link](https://docs.google.com/)
+
+* Hypothesis (online annotation) [link](https://web.hypothes.is/)
+
+* ImpacStory (researcher profiles) [link](http://impactstory.org/)
+
+* Meetup (community organisation) [link](https://www.meetup.com/)
+
+* OER World Map (open education) [link](https://oerworldmap.org/oerpolicies)
+
+* Open Access Tracking Project (news aggregation) [link](https://tagteam.harvard.edu/hubs/oatp/items)
+
+* Open Knowledge Maps (search and discovery) [link](https://openknowledgemaps.org/)
+
+* Open Science MOOC (education and training) [link](https://eliademy.com/opensciencemooc)
+
+* Open Science subreddit (news aggregation) [link](https://www.reddit.com/r/Open_Science/)
+
+* ORCID (researcher recognition) [link](https://orcid.org/)
+
+* Overleaf (collaborative authoring) [link](https://www.overleaf.com/)
+
+* Registry of Open Access Repository Mandates and Policies (ROARMAP) (policy) [link](https://roarmap.eprints.org/cgi/search/advanced)
+
+* SPARC Author Addendum (author rights) [link](https://sparcopen.org/our-work/author-rights/brochure-html/)
+
+* Stack Overflow (Q&A) [link](https://stackoverflow.com/)
+
+* Stencila (reproducibility) [link](https://stenci.la/)
+
+* Twitter (social media) [link](https://twitter.com/)
+
+* UK Scholarly Commmunications License (licensing and copyright) [link](http://ukscl.ac.uk/)
+
+* Zenodo (publishing indexing) [link](https://zenodo.org/)
+
+
+## Relevant groups and organisations
+
+* Association of Research Libraries (ARL) [link](https://www.arl.org/)
+
+* cOAlition S [link](https://www.coalition-s.org/about/)
+
+* Creative Commons [link](https://creativecommons.org/)
+
+* Electronic Information for Libraries (EIFL) [link](http://www.eifl.net/)
+
+* eLIFE [link](https://elifesciences.org/)
+
+* European Open Science Cloud (EOSC) [link](https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud)
+
+* FORCE11 Scholarly Commons Working Group [link](https://www.force11.org/group/scholarly-commons-working-group)
+
+* Fostering the practical implementation of Open Science (FOSTER) [link](https://www.fosteropenscience.eu/)
+
+* International Coalition of Library Consortia (ICOLC) [link](https://icolc.net/)
+
+* Initiative for Open Citations (I4OC) [link](https://i4oc.org/)
+
+* Leiden Manifesto for Research Metrics [link](http://www.leidenmanifesto.org/)
+
+* Ligue des Bibliothèques Européennes de Recherche – Association of European Research Libraries (LIBER) [link](https://libereurope.eu/)
+
+* Metadata 2020 [link](http://www.metadata2020.org/)
+
+* National Information Standards Organization (NISO) [link](https://www.niso.org/)
+
+* National Instituteof Standards and Technology (NIST) [link](https://www.nist.gov/)
+
+* Peer Reviewers' Openness Initiative [link](https://opennessinitiative.org/)
+
+* Projekt DEAL [link](https://www.projekt-deal.de/)
+
+* Research Data Alliance (RDA) [link](https://www.rd-alliance.org/groups/early-career-and-engagement-ig)
+
+* Open Research Funders Group [link](http://www.orfg.org/)
+
+* OpenAIRE [link](https://www.openaire.eu/)
+
+* San Francisco Declaration on Research Assessment (DORA) [link](https://sfdora.org/)
+
+* Scholarly Publishing and Resources Coalition (SPARC) [link](https://sparcopen.org/)
+
+* Sustainability Coalition for Open Science Services (SCOSS) [link](http://scoss.org/)
+
+* The Carpentries [link](https://carpentries.org/)
+
+* Ubiquity Press [link](https://www.ubiquitypress.com/site/publish/)
+
+* W3C [link](https://www.w3.org/)
