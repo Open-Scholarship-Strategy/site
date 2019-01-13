@@ -747,7 +747,7 @@ Additional key aspects include:
 
 ## 5.3 Infrastructure <a name="Infrastructure"></a>
 
-Achieving the full benefits of Open Scholarship requires platforms, tools and services for dissemination and collaboration. Such technical infrastructure can be built with current off-shelf technologies and at a much lower cost than traditional publishing methods. Presently, there is a general lack of funding and support for critical existing aspects of open scholarly infrastructure, despite its clear role in defining particular research practices and workflows.
+Achieving the full benefits of Open Scholarship requires platforms, tools and services for dissemination and collaboration. Such technical infrastructure can be built with current off-shelf technologies and at a much lower cost than traditional publishing methods. Presently, there is a general lack of funding and support for critical existing aspects of open scholarly infrastructure, despite its clear role in defining particular research practices and workflows. More recently, the [Joint Roadmap for Open Science Tools](https://jrost.org/) launched as a community-driven approach to help resolve this.
 
 Examples of existing infrastructure include the [DOAJ](https://doaj.org/), [arXiv](https://arxiv.org/) including domain-specific variants such as [socArXiv](http://socarxiv.org/), [Humanities Commmons](https://hcommons.org/), the [Open Science Framework](https://osf.io/), [Sherpa/RoMEO](http://www.sherpa.ac.uk/romeo/index.php), [ORCID](https://orcid.org/), the [Open Science Foundation](http://opensciencefoundation.eu/), [Public Knowledge Project](https://pkp.sfu.ca/), [Open Journals](https://www.theoj.org) and the [Open Knowledge Foundation](https://okfn.org/), among many others, which offer crucial services to a range of stakeholders. Without sustainable funding sources, these services remain vulnerable to either collapse, or being acquired by players in the private sector, an increasingly common occurrence.
 
@@ -755,17 +755,17 @@ To reduce the risk of infrastructure collapse, and to increase its capacity, con
 
 This includes elements such as:
 
-* Standards & Persistent Identifiers (PIDs);
+* Standards and Persistent Identifiers (PIDs);
 
-* Shared services, including abstracting/indexing services and research data (e.g., DOAJ);
+* Shared services, including abstracting/indexing services and research data (e.g., [DOAJ](https://doaj.org/));
 
-* Support and dissemination services (e.g., Sherpa/RoMEO);
+* Support and dissemination services (e.g., [SHERPA/RoMEO](http://www.sherpa.ac.uk/romeo/index.php));
 
 * Repository services (e.g., [COAR](https://www.coar-repositories.org/) and [OpenDOAR](https://v2.sherpa.ac.uk/opendoar/));
 
 * Publishing services (e.g., arXiv, hcommons, Open Journals);
 
-* Collaboration platforms and tools (e.g., the Open Science Framework);
+* Collaboration platforms and tools (e.g., [the Open Science Framework](https://osf.io/));
 
 * Automation of open practices ("open by default");
 
@@ -773,7 +773,7 @@ This includes elements such as:
 
 * Social Virtual Research Environments (SVREs), to facilitate the management and sharing of research objects, provide the incentives for Open Scholarship, integrate existing software and tools, and provide the actual platform for conducting of research;
 
-* Interoperability of services (e.g., based on FAIR principles); and,
+* Interoperability of services (e.g., based on [FAIR principles](https://www.nature.com/articles/sdata201618)); and,
 
 * Semantic web technology: metadata, harvesting, exchange services (see e.g. [the Open Metadata Handbook](https://en.wikibooks.org/wiki/Open_Metadata_Handbook)).
 
@@ -1162,3 +1162,10 @@ It is important to make sure that people can still do what they are already doin
 By breaking down Open Scholarship into its constituents, it enables communities to take small steps as a collective towards a more open culture, and with relatively little effort.
 
 **Important Note** The latest draft of project is currently in development and available for contributions on [GitHub](https://github.com/Open-Scholarship-Strategy/site). Please see the [README](https://github.com/Open-Scholarship-Strategy/site/blob/master/README.md) file for more detail, and the main content file to edit is [here](https://github.com/Open-Scholarship-Strategy/site/blob/master/index.md). Edits to this file, if approved, will automatically update into this webpage.
+
+# 12. References <a name="References"></a>
+
+## Articles and reports cited
+
+
+## Tools and services mentioned
