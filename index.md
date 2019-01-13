@@ -1160,7 +1160,7 @@ From these examples, it is clear that there is a general lack of synthesized and
 
 * Universities and research funders are in a position to adopt new practices in hiring, promotion, and tenure, and in particular control how Open Scholarship feeds in to this. Rewarding openness at this level is a key driver in the increased adoption of open practices.
 
-* Scholarly communication is a rapidly evolving landscape. There is a huge scope for systematic training and education in this domain, which could be adopted by research institutes. A huge global network of experts already exists with this professional capacity, but funding of such networks would be critical for any sort of sustainability. Platforms, communities and technologies exist today that can support this movement.
+* Scholarly communication is a rapidly evolving landscape. There is a huge scope for systematic training and education in this domain, which could be adopted by research institutes. A huge global network of experts already exists with this professional capacity, but funding of such networks would be critical for any sort of sustainability. Platforms, communities and technologies already exist today that can support this movement.
 
 * Overall, there is a great opportunity now available to harmonise the scholarly communication policy landscape to simplify compliance for researchers. This would need to avoid license proliferation, with many one-off licences that may not be mutually compatible, and require too much work to interpret. Open source "solved" this with OSI-approved licenses, and MIT/BSD/GPL emerged as most common licenses with clearly understood mutual compatibility. The equivalent here for article and data licenses would be something equivalent to CC BY.
 
@@ -1170,11 +1170,11 @@ From these examples, it is clear that there is a general lack of synthesized and
 
 **Barriers to Open Access adoption:**
 
- * Lack of research into personal determinants and environmental conditions of (not) publishing Open Access
+Some widely expressed examples here include:
 
- * Lengthy embargo periods to protect publisher revenues;
+ * Lack of research into personal determinants and environmental conditions of (not) publishing Open Access;
 
- * Complex, confusing, and difficult to navigate embargo periods;
+ * Lengthy, complex and confusing embargo periods to protect publisher revenues;
 
  * Time-consuming and expensive embargo compliance reconciliation systems;
 
@@ -1201,7 +1201,7 @@ From these examples, it is clear that there is a general lack of synthesized and
 
 **Barriers to data sharing:**
 
- * Lack of research into personal determinants and environmental conditions of (not) sharing data
+ * Lack of research into personal determinants and environmental conditions of (not) sharing data;
 
  * Lack of skills and awareness of best practices;
 
@@ -1225,7 +1225,7 @@ From these examples, it is clear that there is a general lack of synthesized and
 
 **Big commercial publishers**
 
- * Elsevier & Holtzbrinck/Springer Nature (via Digital Science) seem to be developing services for across the entire research workflow, from discovery through to funding.
+ * Elsevier & Holtzbrinck/Springer Nature (via Digital Science) seem to be developing services for across the entire research workflow, from discovery through to funding. They have been referred to the European Commission antitrust authority for [anti-competitive practices](https://zenodo.org/record/1472045).
 
  * These pose a definite threat in that they will start trying to bundle these services for institutions via "big deals" - so that institutions get locked into using non-transferable services for some things in order to have access to services they consider vital (i.e., same strategy used in bundling journals) ([Moody 2017](https://www.techdirt.com/articles/20170804/05454537924/elsevier-continues-to-build-monopoly-solution-all-aspects-scholarly-communication.shtml); [Posada and Chen 2017](http://knowledgegap.org/index.php/sub-projects/rent-seeking-and-financialization-of-the-academic-publishing-industry/preliminary-findings/); [Schonfeld 2017](http://www.sr.ithaka.org/blog/the-center-for-open-science-alternative-to-elsevier-announces-new-preprint-services-today/))
 
@@ -1245,7 +1245,7 @@ From these examples, it is clear that there is a general lack of synthesized and
 
 It is important to make sure that people can still do what they are already doing, even if they participate in Open Scholarship. With [Weller, 2014](https://doi.org/10.5334/bam), [Veletsianos and Kimmons, 2016](https://doi.org/10.19173/irrodl.v13i4.1313) and [McKiernan, 2017](https://doi.org/10.1371/journal.pbio.1002614), among others, we see inclusivity as a crucial trait of the social movement that is Open Scholarship. While what we described here can ideally encompass all of the before-mentioned practices, an engagement in practices of open science and scholarship can be considered as happening in a spectrum of practices that each of us has to negotiate.
 
-*Therefore, future communication efforts must focus on Open practices as not being completely new, but simply more efficient and more rewarding versions of current practices. Furthermore, it ought to be noted that Openness has a long and proud history and tradition in science and education - a tradition that might be worth reconsidering at our current situation at the beginning of the 21st century, so that the rhetorical question posed, among others, by* [Watson (2015)](https://doi.org/10.1186/s13059-015-0669-2) *"When will 'open science' become simply 'science'?" can soon be answered with a "it has today!"*
+> *Therefore, future communication efforts must focus on open practices as not being completely new, but simply more efficient and more rewarding versions of current practices. Furthermore, it ought to be noted that Openness has a long and proud history and tradition in science and education - a tradition that might be worth reconsidering at our current situation at the beginning of the 21st century, so that the rhetorical question posed, among others, by* [Watson (2015)](https://doi.org/10.1186/s13059-015-0669-2) *"When will 'open science' become simply 'science'?" can soon be answered with a "it has today!"*
 
 # 11. Conclusions <a name="Conclusions"></a>
 
