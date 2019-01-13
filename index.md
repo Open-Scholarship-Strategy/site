@@ -808,18 +808,20 @@ Key aspects here include:
 
  * This helps to prepare research for greater digestion and comprehension from the wider community, and in particular non-specialist interested parties.
 
-* Leveraging public spaces and infrastructure such as public libraries, museums and schools.
+* Leveraging public spaces and infrastructure such as public libraries, museums, art galleries, and schools.
 
 
 ## 5.5 Measurement <a name="Measurement"></a>
 
-To shift the behaviour of academics it is necessary to change how they are measured; to change how they are measured means new metrics that reflect different values and more diverse forms of scientific impact; see, for example the [Metric Tide report](https://responsiblemetrics.org/the-metric-tide/) or the [EU report on Next-generation metrics](https://ec.europa.eu/research/openscience/pdf/report.pdf). Ironically perhaps, the usage of advanced metrics and analytics for research assessment is in its relative infancy within the halls of academia. Practically, finding a way to integrate a research openness metric into University Ranking system algorithms would embed openness values into policy and align measures with core open values. An alternative, which does not seem too appealing to many, would be to do away with any form of measurement, which often is considered to be bad for the progress of scientific research.
+To shift the behaviour of academics it is necessary to change how they are measured; to change how they are measured means new metrics that reflect different values and more diverse forms of scientific impact; see, for example the [Metric Tide report](https://responsiblemetrics.org/the-metric-tide/) or the [EU report on Next-generation metrics](https://ec.europa.eu/research/openscience/pdf/report.pdf).
 
-There is a widespread acknowledgement that traditional metrics for measuring scientific impact have proven problematic, for example by being too heavily focused on journal publications or inappropriately applied at the journal-level. The most notorious example is the Journal Impact Factor, an average citation metric across journals that is often inappropriately used at the article- and individual-level, and also confines assessment to journal-based research outputs, thereby discriminating against innovative forms of research assessment.
+Ironically perhaps, the usage of advanced metrics and analytics for research assessment is in its relative infancy within the halls of academia. Practically, finding a way to integrate a research openness metric into University Ranking system algorithms would embed openness values into policy and align measures with core open values. An alternative, which does not seem too appealing to many, would be to do away with any form of measurement, which often is considered to be bad for the progress of scientific research.
 
-Open Scholarship seeks "alternative metrics" (also known broadly as altmetrics; not to be confused with the company, Altmetric) that can make use of the new possibilities of digitally networked tools to track and measure the impact of scholarship through formerly invisible activities. These include social shares, tagging, bookmarks, addition to collections, readerships, comments and discussion, ratings, and usage or citation in non-journal formats, all of which build the *context* of a research object. Importantly, these capture new forms of information about the dissemination of research, as well as the process of collaboration, which help to expand the traditional view of publication being the end of a narrow research pipeline.
+There is a widespread acknowledgement that traditional metrics for measuring scientific impact have proven problematic, for example by being too heavily focused on journal publications or inappropriately applied at the journal-level. The most notorious example is the Journal Impact Factor, an average citation metric across journals that is often inappropriately used at the article- and individual-level, and also confines assessment to journal-based research outputs, thereby discriminating against innovative forms of research assessment ([Lariviere and Sugimoto, 2018](https://arxiv.org/abs/1801.08992)).
 
-Therefore, the principles of *responsible metrics* use are closely aligned with the goals of Open Scholarship:
+Open Scholarship seeks "[alternative metrics](https://en.wikipedia.org/wiki/Altmetrics)" (also known broadly as altmetrics; not to be confused with the company, [Altmetric](https://www.altmetric.com/)) that can make use of the new possibilities of digitally networked tools to track and measure the impact of scholarship through formerly invisible activities. These include social shares, tagging, bookmarks, addition to collections, readerships, comments and discussion, ratings, and usage or citation in non-journal formats, all of which build the *context* of a research object. Importantly, these capture new forms of information about the dissemination of research, as well as the process of collaboration, which help to expand the traditional view of publication being the end of a narrow research pipeline.
+
+Therefore, the principles of [*responsible metrics*](https://responsiblemetrics.org/) use are closely aligned with the goals of Open Scholarship:
 
 * **Robustness**: Basing metrics on the best possible data in terms of accuracy and scope;
 
@@ -847,7 +849,7 @@ Along with this, measurement play a core role in the future of Open Scholarship 
 
 Issues of transparency and reproducibility apply both to scholarship itself and to the mechanisms through which our research is measured (e.g., whether a metric can be independently reproduced). [Furner, 2014](http://www.jonathanfurner.info/docs/furnerInPress-a.pdf) provides an ethical framework for bibliometrics, which can be generalised to broader sets of metrics.
 
-Of course, there are also dangers with new metrics, since *all* metrics [can and will be gamed](https://en.wikipedia.org/wiki/Goodhart's_law), and new metrics offer new, little understood opportunities for gaming. New metrics will also not solve the publish or perish problem, but only transfer it.
+Of course, there are also dangers with new metrics, since *all* metrics [can and will be gamed](https://en.wikipedia.org/wiki/Goodhart's_law), and new metrics offer new, little understood opportunities for gaming. New metrics will also not solve the publish or perish problem, but only transfer it. There is thus also a strong role for qualitative evaluation procedures in the future of research assessment.
 
 ## 5.6 Community and inclusion <a name="Community"></a>
 
@@ -1167,5 +1169,8 @@ By breaking down Open Scholarship into its constituents, it enables communities 
 
 ## Articles and reports cited
 
+*
 
 ## Tools and services mentioned
+
+*
