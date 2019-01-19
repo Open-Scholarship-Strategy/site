@@ -84,7 +84,7 @@ We also note that this strategy can only be based on information which we as a c
 
 #### Writing
 
-* Answer relevant questions and join in discussions on public websites, e.g. [Ask Open Science](https://ask-open-science.org/), [Stack Overflow](https://stackoverflow.com/), the [Open Science subrredit](https://www.reddit.com/r/Open_Science/) and [Twitter](https://twitter.com).
+* Answer relevant questions and join in discussions on public websites, e.g. [Ask Open Science](https://ask-open-science.org/), [Stack Overflow](https://stackoverflow.com/), the [Open Science subreddit](https://www.reddit.com/r/Open_Science/) and [Twitter](https://twitter.com).
 
 * Make individual contributions to openness that are visible in public (e.g., on a CV, open platform, or personal website/blog). Use these as the basis to develop best practice stories around role models.
 
@@ -240,8 +240,6 @@ Many of those at the individual level will still be relevant here too, and are d
 * Purchase back any legacy documents and incorporate them into the scholarly body of work. Also improve the open sharing and archiving of legacy articles on which copyright has expired.
 
 * Help to inform researchers more about the [Author Alliance termination of transfer](https://www.authorsalliance.org/resources/termination-of-transfer/) tool to help them retain their rights as authors. 
-
-  * In that context, consider making use of the [Termination of Transfer Tool](https://rightsback.org/).
 
 * Research funders can define the limits of what is an acceptable standard of publication. They therefore have the power to mandate publication in journals with a cap on APCs and BPCs, or in OA-only venues (with specific licenses), or in those with short or zero-length embargoes on self-archiving (e.g., Emerald, The Royal Society).
 
@@ -1259,8 +1257,266 @@ By breaking down Open Scholarship into its constituents, it enables communities 
 
 ## Articles and reports cited
 
-*
+* Allen et al. (2015) Foundations for OER Strategy Development [link](http://www.oerstrategy.org/home/read-the-doc/)
+
+* Anderson et al. (2017) Towards coordinated international support of core date resources for the Life Sciences [link](https://www.biorxiv.org/content/early/2017/04/27/110825)
+
+* Balasegaram et al. (2017) An open source pharma roadmap [link](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002276)
+ 
+* Berkman Klein Center for Internet and Society: Good practices for university open-access policies [link](https://cyber.harvard.edu/hoap/Good_practices_for_university_open-access_policies)
+
+* Berkman Klein Center for Internet and Society: How to make your work open access [link](https://cyber.harvard.edu/hoap/How_to_make_your_own_work_open_access)
+
+* Buryani (2017) Is the staggeringly profitable business of scientific publishing bad for science? [link](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)
+
+* Cape Town Open Education Declaration [link](https://www.capetowndeclaration.org/sign-the-declaration)
+
+* Crowfoot (2017) Open Access policies and Science Europe: State of play [link](https://content.iospress.com/articles/information-services-and-use/isu839)
+
+* GO FAIR: FAIR Principles [link](https://www.go-fair.org/fair-principles/)
+
+* Edwards et al. (2017) A trust approach for sharing research reagents [link](http://stm.sciencemag.org/content/9/392/eaai9055)
+
+* Ellison (2017) Whwn will preprints take off in medicine? [link](https://openpharma.blog/2017/08/14/when-will-preprints-take-off-in-medicine/)
+
+* EU Publications: Next-generation metrics: Responsible metrics and evaluation for open science [link](https://ec.europa.eu/research/openscience/pdf/report.pdf)
+
+* EU Publications: Policy approaches to Open Education [link](https://publications.europa.eu/en/publication-detail/-/publication/42d076f2-f1cc-11e7-9749-01aa75ed71a1/language-en)
+
+* Eve (2014) Open Access and the Humanities: Contexts, Controversies and the Future [link](https://www.cambridge.org/core/books/open-access-and-the-humanities/02BD7DB4A5172A864C432DBFD86E5FB4)
+
+* Eve and Edwards (2015) Opening the Open Library of Humanities [link](https://olh.openlibhums.org/articles/10.16995/olh.46/)
+
+* Fecher and Friesike: One term, five schools of thoughts [link](https://link.springer.com/chapter/10.1007%2F978-3-319-00026-8_2)
+
+* Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software [link](https://sourcecode.cio.gov/)
+
+* Friesike et al. (2015) Opening science: towards an agenda of open science in academia and industry [link](https://link.springer.com/article/10.1007%2Fs10961-014-9375-6)
+
+* Furner (2014) The ethics of evaluative bibliometrics [link](http://www.jonathanfurner.info/docs/furnerInPress-a.pdf)
+
+* Hakoum et al. (2017) Characteristics of funding of clinical trials: cross-sectional survey and proposed guidance [link](https://bmjopen.bmj.com/content/7/10/e015997)
+
+* Hitzler and van Harmelen (2010) A reasonable semantic Web [link](http://www.semantic-web-journal.net/content/reasonable-semantic-web)
+
+* Horizon Europe - The next research and innovation framework programme [link](https://ec.europa.eu/info/designing-next-research-and-innovation-framework-programme/what-shapes-next-framework-programme_en)
+
+* Katz (2016) Clash of cultures: Why all science isn't open science [link](https://danielskatzblog.wordpress.com/2016/10/25/clash-of-cultures-why-all-science-isnt-open-science/)
+
+* Katz et al. (2018) The principles of tomorrow's university [link](https://f1000research.com/articles/7-1926/v1)
+
+* Kramer and Bosman (2018) Rainbow of open science practices [link](https://zenodo.org/record/1147025#.XDs26817lPY)
+
+* Lariviere and Sugimoto (2018) The Journal Impact Factor: A brief history, critique, and discussion of adverse effects [link](https://arxiv.org/abs/1801.08992)
+
+* Leek and Peng (2015) Opinion: Reproducible research can still be wrong: Adopting a prevention approach [link](https://www.pnas.org/content/112/6/1645)
+
+* Masuzzo and Martens (2017) Do you speak open science? Resources and tips to learn the language [link](https://peerj.com/preprints/2689/)
+
+* McKiernan (2017) Imagining the “open” university: Sharing scholarship to improve research and education [link](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1002614)
+
+* McKiernan et al. (2016) How open science helps researchers succeed [link](https://elifesciences.org/articles/16800)
+
+* Ministère de lʼEnseignement supérieur, de la Recherche et de lʼInnovation (2018) National Plan for Open Science [link](https://libereurope.eu/wp-content/uploads/2018/07/SO_A4_2018_05-EN_print.pdf)
+
+* Mongeon and Paul-Hus (2016) The journal coverage of Web of Science and Scopus: A comparative analysis [link](https://link.springer.com/article/10.1007%2Fs11192-015-1765-5)
+
+* Moody (2017) Elsevier Continues To Build Its Monopoly Solution For All Aspects Of Scholarly Communication [link](https://www.techdirt.com/articles/20170804/05454537924/elsevier-continues-to-build-monopoly-solution-all-aspects-scholarly-communication.shtml)
+
+* Moore (2017) A genealogy of open access: negotiations between openness and access to research [link](https://journals.openedition.org/rfsic/3220)
+
+* Morrison (2018) DOAJ APC information as of Jan 31, 2018 [link](https://sustainingknowledgecommons.org/2018/02/06/doaj-apc-information-as-of-jan-31-2018/)
+
+* Munafo et al. (2017) A manifesto for reproducible science [link](https://www.nature.com/articles/s41562-016-0021)
+
+* Nichols and Twidale (2016) Metrics for openness [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/asi.23741)
+
+* Open Science Expert Group of the Estonian Research Council (2016) Open Science in Estonia [link](https://www.etag.ee/wp-content/uploads/2017/03/Open-Science-in-Estonia-Principles-and-Recommendations-final.pdf)
+
+* Patil et al. (2016) A statistical definition for reproduibility and replicability [link](https://www.biorxiv.org/content/early/2016/07/29/066803)
+
+* Peters and Roberts (2011) The virtues of openness: Education, science, and scholarship in the digital age [link](https://www.routledge.com/Virtues-of-Openness-Education-Science-and-Scholarship-in-the-Digital/Peters-Roberts/p/book/9781594516863)
+
+* Pomerantz (2015) Metadata [link](https://mitpress.mit.edu/books/metadata)
+
+* Posada and Chen (2017) Publishers are incresingly in control of scholarly infrastructure and why we should care [link](http://knowledgegap.org/index.php/sub-projects/rent-seeking-and-financialization-of-the-academic-publishing-industry/preliminary-findings/)
+
+* Poynder (2017)  Copyright: the immoveable barrier that open access advocates underestimated [link](https://poynder.blogspot.com/2017/02/copyright-immoveable-barrier-that-open.html)
+
+* Schonfeld (2017) The Center for Open Science, Alternative to Elsevier, Announces New Preprint Services Today [link](https://sr.ithaka.org/blog/the-center-for-open-science-alternative-to-elsevier-announces-new-preprint-services-today/)
+
+* Smith (2017) Join the Movement: The 2.5% Commitment [link](https://intheopen.net/2017/09/join-the-movement-the-2-5-commitment/)
+
+* Star and Griesemer (1989) Institutional Ecology, 'Translations' and Boundary Objects: Amateurs and Professionals in Berkeley's Museum of Vertebrate Zoology [link](http://www.lchc.ucsd.edu/MCA/Mail/xmcamail.2012_08.dir/pdfMrgHgzULhA.pdf)
+
+* Steiner (2018) Open Educational Practice (OEP): collection of scenarios [link](https://zenodo.org/record/1183806#.XDs3Kc17lPY)
+
+* Tennant et al. (2016) The academic, economic and societal impacts of Open Access: An evidence-based review [link](https://f1000research.com/articles/5-632/v3)
+
+* Tennant (2018) How to make your work 100% Open Access for free and legally (multi-lingual) [link](https://figshare.com/collections/How_to_make_your_work_100_Open_Access_for_free_and_legally_multi-lingual_/3943972)
+
+* Tennant et al. (2018) The evolving preprint landscape: Introductory report for the Knowledge Exchange working group on preprints [link](https://osf.io/preprints/bitss/796tu/)
+
+* Tennant and Brembs (2018) RELX referral to EU competition authority [link](https://zenodo.org/record/1472045#.XDtFV817lPY)
+
+* Veletsianos and Kimmons (2012) Assumptions and challenges of open scholarship [link](http://www.irrodl.org/index.php/irrodl/article/view/1313)
+
+* Watson (2015) When will 'open science' become simply 'science'? [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-015-0669-2)
+
+* Weller (2014) The Battle for Open: How openness won and why it doesn't feel like victory [link](https://www.ubiquitypress.com/site/books/10.5334/bam/)
+
+* Wilkinson et al. (2016) The FAIR Guiding Principles for scientific data management and stewardship [link](https://www.nature.com/articles/sdata201618)
+
+* Woelfle et al. (2011) Open science is a research accelerator [link](https://www.nature.com/articles/nchem.1149)
+
 
 ## Tools and services mentioned
 
-*
+* 101 innovations in scholarly communication (tools and services) [link](https://101innovations.wordpress.com/)
+
+* Altmetric (research metrics) [link](https://www.altmetric.com/)
+
+* arXiv (publishing) [link](https://arxiv.org/)
+
+* Author Alliance termination of transfer (copyright and licensing) [link](https://www.authorsalliance.org/resources/termination-of-transfer/)
+
+* CASRAI CRediT (researcher recognition) [link](http://docs.casrai.org/CRediT)
+
+* Contributor Covenant (community support) [link](https://www.contributor-covenant.org/)
+
+* Dissemin (open access) [link](https://dissem.in/)
+
+* Feedly (search and discovery) [link](https://feedly.com/)
+
+* FOSTER resources (training and support) [link](https://www.fosteropenscience.eu/resources)
+
+* Google Docs (collaborative authoring) [link](https://docs.google.com/)
+
+* Humanities Commons (networking) [link](https://hcommons.org/)
+
+* Hypothesis (online annotation) [link](https://web.hypothes.is/)
+
+* ImpacStory (researcher profiles) [link](http://impactstory.org/)
+
+* Meetup (community organisation) [link](https://www.meetup.com/)
+
+* Metrics Toolkit (research metrics) [link](http://www.metrics-toolkit.org/)
+
+* PER Toolkit (open education) [link](https://pressbooks.bccampus.ca/facultyoertoolkit/)
+
+* OER World Map (open education) [link](https://oerworldmap.org/oerpolicies)
+
+* Open Access Tracking Project (news aggregation) [link](https://tagteam.harvard.edu/hubs/oatp/items)
+
+* Open Knowledge Maps (search and discovery) [link](https://openknowledgemaps.org/)
+
+* Open Research Glossary (education and training) [link](http://www.righttoresearch.org/resources/openresearchglossary/)
+
+* Open Science MOOC (education and training) [link](https://eliademy.com/opensciencemooc)
+
+* Open Science subreddit (news aggregation) [link](https://www.reddit.com/r/Open_Science/)
+
+* ORCID (researcher recognition) [link](https://orcid.org/)
+
+* Overleaf (collaborative authoring) [link](https://www.overleaf.com/)
+
+* Registry of Open Access Repository Mandates and Policies (ROARMAP) (policy) [link](https://roarmap.eprints.org/cgi/search/advanced)
+
+* SocArXiv (publishing) [link](https://osf.io/preprints/socarxiv/)
+
+* SPARC Author Addendum (author rights) [link](https://sparcopen.org/our-work/author-rights/brochure-html/)
+
+* Stack Overflow (Q&A) [link](https://stackoverflow.com/)
+
+* Stencila (reproducibility) [link](https://stenci.la/)
+
+* Twitter (social media) [link](https://twitter.com/)
+
+* UK Scholarly Commmunications License (licensing and copyright) [link](http://ukscl.ac.uk/)
+
+* Zenodo (publishing indexing) [link](https://zenodo.org/)
+
+
+## Relevant groups and organisations
+
+* African Journals Online (AJOL) [link](https://www.ajol.info/)
+
+* Association of Research Libraries (ARL) [link](https://www.arl.org/)
+
+* cOAlition S [link](https://www.coalition-s.org/about/)
+
+* Confederation of Open Access Repositories (COAR) [link](https://www.coar-repositories.org/)
+
+* Creative Commons [link](https://creativecommons.org/)
+
+* Directory of Open Access Repositories (OpenDOAR) [link](https://v2.sherpa.ac.uk/opendoar/)
+
+* Electronic Information for Libraries (EIFL) [link](http://www.eifl.net/)
+
+* eLIFE [link](https://elifesciences.org/)
+
+* European Open Science Cloud (EOSC) [link](https://ec.europa.eu/research/openscience/index.cfm?pg=open-science-cloud)
+
+* FORCE11 Scholarly Commons Working Group [link](https://www.force11.org/group/scholarly-commons-working-group)
+
+* Fostering the practical implementation of Open Science (FOSTER) [link](https://www.fosteropenscience.eu/)
+
+* International Coalition of Library Consortia (ICOLC) [link](https://icolc.net/)
+
+* Initiative for Open Citations (I4OC) [link](https://i4oc.org/)
+
+* Joint Roadmap for Open Science Tools  (JROST) [link](https://jrost.org/)
+
+* The Knowledge Gap, Geopolitics of Academic Production [link](http://knowledgegap.org/index.php/sub-projects/knowledge-and-power-inequality-in-open-science-policies/)
+
+* Leiden Manifesto for Research Metrics [link](http://www.leidenmanifesto.org/)
+
+* Ligue des Bibliothèques Européennes de Recherche – Association of European Research Libraries (LIBER) [link](https://libereurope.eu/)
+
+* Metadata 2020 [link](http://www.metadata2020.org/)
+
+* National Information Standards Organization (NISO) [link](https://www.niso.org/)
+
+* National Instituteof Standards and Technology (NIST) [link](https://www.nist.gov/)
+
+* OpenAIRE [link](https://www.openaire.eu/)
+
+* Open Archives Initiative [link](https://www.openarchives.org/)
+
+* Open Citations [link](http://opencitations.net/)
+
+* Open and Collaborative Sciennce in Development Network (OCSDNet) [link](https://ocsdnet.org/)
+
+* Open Journals [link](https://www.theoj.org/)
+
+* Open Knowledge International (OKFN) [link](https://okfn.org/)
+
+* Open Library of Humanities (OLH) [link](https://www.openlibhums.org/)
+
+* Open Research Funders Group [link](http://www.orfg.org/)
+
+* Open Science Foundation [link](http://opensciencefoundation.eu/)
+
+* Peer Reviewers' Openness Initiative [link](https://opennessinitiative.org/)
+
+* Projekt DEAL [link](https://www.projekt-deal.de/)
+
+* Public Knowledge Project (PKP) [link](https://pkp.sfu.ca/)
+
+* Research Data Alliance (RDA) [link](https://www.rd-alliance.org/groups/early-career-and-engagement-ig)
+
+* Responsible Metrics [link](https://responsiblemetrics.org/the-metric-tide/)
+
+* San Francisco Declaration on Research Assessment (DORA) [link](https://sfdora.org/)
+
+* Scholarly Publishing and Resources Coalition (SPARC) [link](https://sparcopen.org/)
+
+* Scientific Electronic Library Online (SciELO) [link](http://www.scielo.org/php/index.php?lang=en)
+
+* Sustainability Coalition for Open Science Services (SCOSS) [link](http://scoss.org/)
+
+* The Carpentries [link](https://carpentries.org/)
+
+* Ubiquity Press [link](https://www.ubiquitypress.com/site/publish/)
+
+* W3C [link](https://www.w3.org/)
