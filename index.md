@@ -1259,81 +1259,81 @@ By breaking down Open Scholarship into its constituents, it enables communities 
 
 * Allen et al. (2015) Foundations for OER Strategy Development [link](http://www.oerstrategy.org/home/read-the-doc/)
 
-* Anderson et al. (2017) Towards coordinated international support of core date resources for the Life Sciences. [DOI: 10.1101/110825](https://doi.org/10.1101/110825)
+* Anderson et al. (2017) Towards coordinated international support of core date resources for the Life Sciences. DOI: [10.1101/110825](https://doi.org/10.1101/110825)
 
-* Balasegaram et al. (2017) An open source pharma roadmap. [DOI: 10.1371/journal.pmed.1002276](https://doi.org/10.1371/journal.pmed.1002276)
+* Balasegaram et al. (2017) An open source pharma roadmap. DOI: [10.1371/journal.pmed.1002276](https://doi.org/10.1371/journal.pmed.1002276)
 
 * Berkman Klein Center for Internet and Society: Good practices for university open-access policies [link](https://cyber.harvard.edu/hoap/Good_practices_for_university_open-access_policies)
 
 * Berkman Klein Center for Internet and Society: How to make your work open access [link](https://cyber.harvard.edu/hoap/How_to_make_your_own_work_open_access)
 
-* Brembs et al. (2018) Deep impact: unintended consequences of journal rank [DOI: 10.3389/fnhum.2013.00291](https://dx.doi.org/10.3389/fnhum.2013.00291)
+* Brembs et al. (2018) Deep impact: unintended consequences of journal rank. DOI: [10.3389/fnhum.2013.00291](https://dx.doi.org/10.3389/fnhum.2013.00291)
 
 * Buryani (2017) Is the staggeringly profitable business of scientific publishing bad for science? [link](https://www.theguardian.com/science/2017/jun/27/profitable-business-scientific-publishing-bad-for-science)
 
 * Cape Town Open Education Declaration [link](https://www.capetowndeclaration.org/sign-the-declaration)
 
-* Crowfoot (2017) Open Access policies and Science Europe: State of play [DOI: 10.3233/ISU-170839](https://doi.org/10.3233/ISU-170839)
+* Crowfoot (2017) Open Access policies and Science Europe: State of play. DOI: [10.3233/ISU-170839](https://doi.org/10.3233/ISU-170839)
 
 * GO FAIR: FAIR Principles [link](https://www.go-fair.org/fair-principles/)
 
-* Edwards et al. (2017) A trust approach for sharing research reagents [DOI: 10.1126/scitranslmed.aai9055](https://doi.org/10.1126/scitranslmed.aai9055)
+* Edwards et al. (2017) A trust approach for sharing research reagents. DOI: [10.1126/scitranslmed.aai9055](https://doi.org/10.1126/scitranslmed.aai9055)
 
 * Ellison (2017) When will preprints take off in medicine? [link](https://openpharma.blog/2017/08/14/when-will-preprints-take-off-in-medicine/)
 
-* Eve (2014) Open Access and the Humanities: Contexts, Controversies and the Future [DOI: 10.1017/CBO9781316161012](https://doi.org/10.1017/CBO9781316161012)
+* Eve (2014) Open Access and the Humanities: Contexts, Controversies and the Future. DOI: [10.1017/CBO9781316161012](https://doi.org/10.1017/CBO9781316161012)
 
-* Eve and Edwards (2015) Opening the Open Library of Humanities [DOI: 10.16995/olh.46](https://doi.org/10.16995/olh.46)
+* Eve and Edwards (2015) Opening the Open Library of Humanities. DOI: [10.16995/olh.46](https://doi.org/10.16995/olh.46)
 
-* Fecher and Friesike: One term, five schools of thoughts [DOI: 10.1007/978-3-319-00026-8_2](https://doi.org/10.1007/978-3-319-00026-8_2)
+* Fecher and Friesike: One term, five schools of thoughts. DOI: [10.1007/978-3-319-00026-8_2](https://doi.org/10.1007/978-3-319-00026-8_2)
 
 * Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software [link](https://sourcecode.cio.gov/)
 
-* Friesike et al. (2015) Opening science: towards an agenda of open science in academia and industry [DOI: 10.1007/s10961-014-9375-6](https://doi.org/10.1007/s10961-014-9375-6)
+* Friesike et al. (2015) Opening science: towards an agenda of open science in academia and industry. DOI: [10.1007/s10961-014-9375-6](https://doi.org/10.1007/s10961-014-9375-6)
 
 * Furner (2014) The ethics of evaluative bibliometrics [link](http://www.jonathanfurner.info/docs/furnerInPress-a.pdf)
 
-* Hakoum et al. (2017) Characteristics of funding of clinical trials: cross-sectional survey and proposed guidance [DOI: 10.1136/bmjopen-2017-015997](https://doi.org/10.1136/bmjopen-2017-015997)
+* Hakoum et al. (2017) Characteristics of funding of clinical trials: cross-sectional survey and proposed guidance. DOI: [10.1136/bmjopen-2017-015997](https://doi.org/10.1136/bmjopen-2017-015997)
 
 * Hitzler and van Harmelen (2010) A reasonable semantic Web [link](http://www.semantic-web-journal.net/content/reasonable-semantic-web)
 
 * Horizon Europe - The next research and innovation framework programme [link](https://ec.europa.eu/info/designing-next-research-and-innovation-framework-programme/what-shapes-next-framework-programme_en)
 
-* Inamorato dos Santos et al. (2017) Policy approaches to Open Education [DOI: 10.2760/283135](https://doi.org/10.2760/283135)
+* Inamorato dos Santos et al. (2017) Policy approaches to Open Education. DOI: [10.2760/283135](https://doi.org/10.2760/283135)
 
 * Katz (2016) Clash of cultures: Why all science isn't open science [link](https://danielskatzblog.wordpress.com/2016/10/25/clash-of-cultures-why-all-science-isnt-open-science/)
 
-* Katz et al. (2018) The principles of tomorrow's university [DOI: 10.12688/f1000research.17425.1](https://doi.org/10.12688/f1000research.17425.1)
+* Katz et al. (2018) The principles of tomorrow's university. DOI: [10.12688/f1000research.17425.1](https://doi.org/10.12688/f1000research.17425.1)
 
-* Kramer and Bosman (2018) Rainbow of open science practices [DOI: 10.5281/zenodo.1147025](https://doi.org/10.5281/zenodo.1147025)
+* Kramer and Bosman (2018) Rainbow of open science practices. DOI: [10.5281/zenodo.1147025](https://doi.org/10.5281/zenodo.1147025)
 
 * Lariviere and Sugimoto (2018) The Journal Impact Factor: A brief history, critique, and discussion of adverse effects [link](https://arxiv.org/abs/1801.08992)
 
-* Leek and Peng (2015) Opinion: Reproducible research can still be wrong: Adopting a prevention approach [DOI: 10.1073/pnas.1421412111](https://doi.org/10.1073/pnas.1421412111)
+* Leek and Peng (2015) Opinion: Reproducible research can still be wrong: Adopting a prevention approach. DOI: [10.1073/pnas.1421412111](https://doi.org/10.1073/pnas.1421412111)
 
-* Masuzzo and Martens (2017) Do you speak open science? Resources and tips to learn the language [DOI: 10.7287/peerj.preprints.2689v1](https://doi.org/10.7287/peerj.preprints.2689v1)
+* Masuzzo and Martens (2017) Do you speak open science? Resources and tips to learn the language. DOI: [10.7287/peerj.preprints.2689v1](https://doi.org/10.7287/peerj.preprints.2689v1)
 
-* McKiernan (2017) Imagining the “open” university: Sharing scholarship to improve research and education [DOI: 10.1371/journal.pbio.1002614](https://doi.org/10.1371/journal.pbio.1002614)
+* McKiernan (2017) Imagining the “open” university: Sharing scholarship to improve research and education. DOI: [10.1371/journal.pbio.1002614](https://doi.org/10.1371/journal.pbio.1002614)
 
-* McKiernan et al. (2016) How open science helps researchers succeed [DOI: 10.7554/eLife.16800](https://doi.org/10.7554/eLife.16800)
+* McKiernan et al. (2016) How open science helps researchers succeed. DOI: [10.7554/eLife.16800](https://doi.org/10.7554/eLife.16800)
 
 * Ministère de lʼEnseignement supérieur, de la Recherche et de lʼInnovation (2018) National Plan for Open Science [link](https://libereurope.eu/wp-content/uploads/2018/07/SO_A4_2018_05-EN_print.pdf)
 
-* Mongeon and Paul-Hus (2016) The journal coverage of Web of Science and Scopus: A comparative analysis [DOI: 10.1007/s11192-015-1765-5](https://doi.org/10.1007/s11192-015-1765-5)
+* Mongeon and Paul-Hus (2016) The journal coverage of Web of Science and Scopus: A comparative analysis. DOI: [10.1007/s11192-015-1765-5](https://doi.org/10.1007/s11192-015-1765-5)
 
 * Moody (2017) Elsevier Continues To Build Its Monopoly Solution For All Aspects Of Scholarly Communication [link](https://www.techdirt.com/articles/20170804/05454537924/elsevier-continues-to-build-monopoly-solution-all-aspects-scholarly-communication.shtml)
 
-* Moore (2017) A genealogy of open access: negotiations between openness and access to research [DOI: 10.4000/rfsic.3220](https://doi.org/10.4000/rfsic.3220)
+* Moore (2017) A genealogy of open access: negotiations between openness and access to research. DOI: [10.4000/rfsic.3220](https://doi.org/10.4000/rfsic.3220)
 
 * Morrison (2018) DOAJ APC information as of Jan 31, 2018 [link](https://sustainingknowledgecommons.org/2018/02/06/doaj-apc-information-as-of-jan-31-2018/)
 
 * Munafo et al. (2017) A manifesto for reproducible science [link](https://www.nature.com/articles/s41562-016-0021)
 
-* Nichols and Twidale (2016) Metrics for openness [DOI: 10.1002/asi.23741](https://doi.org/10.1002/asi.23741)
+* Nichols and Twidale (2016) Metrics for openness. DOI: [10.1002/asi.23741](https://doi.org/10.1002/asi.23741)
 
 * Open Science Expert Group of the Estonian Research Council (2016) Open Science in Estonia [link](https://www.etag.ee/wp-content/uploads/2017/03/Open-Science-in-Estonia-Principles-and-Recommendations-final.pdf)
 
-* Patil et al. (2016) A statistical definition for reproduibility and replicability [DOI: 10.1101/066803](https://doi.org/10.1101/066803)
+* Patil et al. (2016) A statistical definition for reproduibility and replicability. DOI: [10.1101/066803](https://doi.org/10.1101/066803)
 
 * Peters and Roberts (2011) The virtues of openness: Education, science, and scholarship in the digital age [link](https://www.routledge.com/Virtues-of-Openness-Education-Science-and-Scholarship-in-the-Digital/Peters-Roberts/p/book/9781594516863)
 
@@ -1341,35 +1341,35 @@ By breaking down Open Scholarship into its constituents, it enables communities 
 
 * Posada and Chen (2017) Publishers are incresingly in control of scholarly infrastructure and why we should care [link](http://knowledgegap.org/index.php/sub-projects/rent-seeking-and-financialization-of-the-academic-publishing-industry/preliminary-findings/)
 
-* Poynder (2017)  Copyright: the immoveable barrier that open access advocates underestimated [link](https://poynder.blogspot.com/2017/02/copyright-immoveable-barrier-that-open.html)
+* Poynder (2017) Copyright: the immoveable barrier that open access advocates underestimated. [link](https://poynder.blogspot.com/2017/02/copyright-immoveable-barrier-that-open.html)
 
-* Schonfeld (2017) The Center for Open Science, Alternative to Elsevier, Announces New Preprint Services Today [link](https://sr.ithaka.org/blog/the-center-for-open-science-alternative-to-elsevier-announces-new-preprint-services-today/)
+* Schonfeld (2017) The Center for Open Science, Alternative to Elsevier, Announces New Preprint Services Today. [link](https://sr.ithaka.org/blog/the-center-for-open-science-alternative-to-elsevier-announces-new-preprint-services-today/)
 
-* Smith (2017) Join the Movement: The 2.5% Commitment [link](https://intheopen.net/2017/09/join-the-movement-the-2-5-commitment/)
+* Smith (2017) Join the Movement: The 2.5% Commitment. [link](https://intheopen.net/2017/09/join-the-movement-the-2-5-commitment/)
 
-* Star and Griesemer (1989) Institutional Ecology, 'Translations' and Boundary Objects: Amateurs and Professionals in Berkeley's Museum of Vertebrate Zoology [link](http://www.lchc.ucsd.edu/MCA/Mail/xmcamail.2012_08.dir/pdfMrgHgzULhA.pdf)
+* Star and Griesemer (1989) Institutional Ecology, 'Translations' and Boundary Objects: Amateurs and Professionals in Berkeley's Museum of Vertebrate Zoology. [link](http://www.lchc.ucsd.edu/MCA/Mail/xmcamail.2012_08.dir/pdfMrgHgzULhA.pdf)
 
-* Steiner (2018) Open Educational Practice (OEP): collection of scenarios [DOI: 10.5281/zenodo.1183805](https://doi.org/10.5281/zenodo.1183805)
+* Steiner (2018) Open Educational Practice (OEP): collection of scenarios. DOI: [10.5281/zenodo.1183805](https://doi.org/10.5281/zenodo.1183805)
 
-* Tennant et al. (2016) The academic, economic and societal impacts of Open Access: An evidence-based review [DOI: 10.12688/f1000research.8460.3](https://doi.org/10.12688/f1000research.8460.3)
+* Tennant et al. (2016) The academic, economic and societal impacts of Open Access: An evidence-based review. DOI: [10.12688/f1000research.8460.3](https://doi.org/10.12688/f1000research.8460.3)
 
-* Tennant (2018) How to make your work 100% Open Access for free and legally (multi-lingual) [DOI: 10.6084/m9.figshare.c.3943972.v7](https://doi.org/10.6084/m9.figshare.c.3943972.v7)
+* Tennant (2018) How to make your work 100% Open Access for free and legally (multi-lingual). DOI: [ 10.6084/m9.figshare.c.3943972.v7](https://doi.org/10.6084/m9.figshare.c.3943972.v7)
 
-* Tennant et al. (2018) The evolving preprint landscape: Introductory report for the Knowledge Exchange working group on preprints [DOI: 10.31222/osf.io/796tu](https://doi.org/10.31222/osf.io/796tu)
+* Tennant et al. (2018) The evolving preprint landscape: Introductory report for the Knowledge Exchange working group on preprints. DOI: [10.31222/osf.io/796tu](https://doi.org/10.31222/osf.io/796tu)
 
-* Tennant and Brembs (2018) RELX referral to EU competition authority [DOI: 10.5281/zenodo.1472044](https://doi.org/10.5281/zenodo.1472044)
+* Tennant and Brembs (2018) RELX referral to EU competition authority. DOI: [10.5281/zenodo.1472044](https://doi.org/10.5281/zenodo.1472044)
 
-* Veletsianos and Kimmons (2012) Assumptions and challenges of open scholarship [DOI: 10.19173/irrodl.v13i4.1313](https://doi.org/10.19173/irrodl.v13i4.1313)
+* Veletsianos and Kimmons (2012) Assumptions and challenges of open scholarship. DOI: [10.19173/irrodl.v13i4.1313](https://doi.org/10.19173/irrodl.v13i4.1313)
 
-* Watson (2015) When will 'open science' become simply 'science'? [DOI: 10.1186/s13059-015-0669-2](https://doi.org/10.1186/s13059-015-0669-2)
+* Watson (2015) When will 'open science' become simply 'science'? DOI: [10.1186/s13059-015-0669-2](https://doi.org/10.1186/s13059-015-0669-2)
 
-* Weller (2014) The Battle for Open: How openness won and why it doesn't feel like victory [DOI: 10.5334/bam](https://doi.org/10.5334/bam)
+* Weller (2014) The Battle for Open: How openness won and why it doesn't feel like victory. DOI: [10.5334/bam](https://doi.org/10.5334/bam)
 
-* Wilkinson et al. (2016) The FAIR Guiding Principles for scientific data management and stewardship [DOI: 10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
+* Wilkinson et al. (2016) The FAIR Guiding Principles for scientific data management and stewardship. DOI: [10.1038/sdata.2016.18](https://doi.org/10.1038/sdata.2016.18)
 
-* Wilsdon et al. (2017) Next-generation metrics: Responsible metrics and evaluation for open science [DOI: 10.2777/337729](https://doi.org/10.2777/337729)
+* Wilsdon et al. (2017) Next-generation metrics: Responsible metrics and evaluation for open science. DOI: [10.2777/337729](https://doi.org/10.2777/337729)
 
-* Woelfle et al. (2011) Open science is a research accelerator [DOI: 10.1038/nchem.1149](https://doi.org/10.1038/nchem.1149)
+* Woelfle et al. (2011) Open science is a research accelerator. DOI: [10.1038/nchem.1149](https://doi.org/10.1038/nchem.1149)
 
 
 ## Tools and services mentioned
