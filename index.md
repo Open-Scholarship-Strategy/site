@@ -42,6 +42,8 @@ Ultimately, we expect the impact of widespread adoption of Open Scholarship to b
 
 "*[Strategy](https://en.wikipedia.org/wiki/Strategy) generally involves setting goals, determining actions to achieve the goals, and mobilizing resources to execute the actions. A strategy describes how the ends (goals) will be achieved by the means (resources).*"
 
+> Due to the length of this strategy, please note that we have also compiled a [**IMMEDIATE ACTION PLAN**](https://github.com/Open-Scholarship-Strategy/site/blob/master/immediate-action-plan.pdf) comprising the most essential immediate strategic action points.
+
 In order to overcome the challenges and achieve our priorities, we need to build on our strengths. We have identified three main temporal components (short-, mid-, and long-term) of our overall strategy to be used as direct suggestions for action on the individual, group, institutional or national (or higher) level. We notice that this hierarchy does not fully represent the connectivity of different levels of the academic system (e.g., at the discipline level). There is clearly a need for different fields to discuss what is culturally appropriate for themselves; however, this strategy can provide a foundation for guiding those discussions.
 
 With this, one of the principle goals for this strategy is to create communities that reciprocally support each other through learning and training (e.g., via the [Open Science MOOC](https://eliademy.com/opensciencemooc)). These communities will have the best insight into real life barriers and how to overcome them, and will be able to identify new realities at the different hierarchical levels, which can then be incorporated into decision making processes.
@@ -1247,9 +1249,12 @@ Therefore, future communication efforts must focus on open practices as not bein
 
 # 11. Conclusions <a name="Conclusions"></a>
 
-[Fill in this section]
+We are in the midst of a rapid evolution in tools, services, concepts and corresponding moves by key stakeholders in the global realm of Open Scholarship. However, we feel that there has been little strategic co-ordination in the implementation of the various aspects of Open Scholarship, prompting the need for this document. Within, we have compiled a comprehensive list of strategic steps that can be taken at different levels to move towards an Open Scholarship system. We provide substantial discussion into the pros and cons of these steps, the potential threats, the rationale, and existing strengths and existing initiatives helping to realise this. We believe that co-ordinated implementation of this strategy will be necessary to ensure that we do not to have to fall back to solutions that would otherwise potentially negatively impact and stifle the further development of open research practices on a global level.
 
-By breaking down Open Scholarship into its constituents, it enables communities to take small steps as a collective towards a more open culture, and with relatively little effort.
+In short: Simply channeling more time, effort, and funds into maintaining the existing system, with perverse incentives and skewed power dynamics, is clearly no longer sustainable for global research. This document seeks to provide a comprehensive and strategic solution to this problem. By breaking down Open Scholarship into its constituents, it enables communities to take small steps as a collective towards a more open culture, and with relatively little effort.
+
+In order not to re-live the lock-in of research by yet another business plan that only pays lip service to the guiding values, principles and practices of Open Scholarship, this time around, academia cannot afford to lose sight on the variety of aspects that Open Scholarship contains. Primarily, the re-centering of scholarly practices on fundamental open principles that – as is outlined in more detailed form throughout this strategy – comprise not only free access to, but also the possibility to freely participate in and re-use research output in all its forms. We see this freedom as essential to any future of Open Scholarship, and that violation of these freedoms also violates the principles of Open Scholarship.
+
 
 **Important Note** The latest draft of project is currently in development and available for contributions on [GitHub](https://github.com/Open-Scholarship-Strategy/site). Please see the [README](https://github.com/Open-Scholarship-Strategy/site/blob/master/README.md) file for more detail, and the main content file to edit is [here](https://github.com/Open-Scholarship-Strategy/site/blob/master/index.md). Edits to this file, if approved, will automatically update into this webpage.
 
