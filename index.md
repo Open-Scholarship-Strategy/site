@@ -1302,6 +1302,8 @@ In order not to re-live the lock-in of research by yet another business plan tha
 
 * Hakoum et al. (2017) Characteristics of funding of clinical trials: cross-sectional survey and proposed guidance. DOI: [10.1136/bmjopen-2017-015997](https://doi.org/10.1136/bmjopen-2017-015997)
 
+* Hartley et. al. (2019) Do we need to move from communication technology to user community? A new economic model of the journal as a club. DOI: [10.1002/leap.1228](https://doi.org/10.1002/leap.1228)
+
 * Hitzler and van Harmelen (2010) A reasonable Semantic Web. [link](http://www.semantic-web-journal.net/content/reasonable-semantic-web)
 
 * Horizon Europe - The next research and innovation framework programme. [link](https://ec.europa.eu/info/designing-next-research-and-innovation-framework-programme/what-shapes-next-framework-programme_en)
