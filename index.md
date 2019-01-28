@@ -176,7 +176,7 @@ Many of those at the individual level will still be relevant here too, and are d
 
   * Highlight best practice showcases in order to demonstrate what is actually possible with Open Scholarship, and what the wider advantages can be.
 
-* Adopt a broad-scale approach to the variety of open scholarly research and education practices. See the [FOSTER Open Science taxonomy](https://www.fosteropenscience.eu/resources) for guidance.
+* Adopt a broad-scale approach to the variety of open scholarly research practices. See the [FOSTER Open Science taxonomy](https://www.fosteropenscience.eu/resources) for a starting point, and further expand  this to include e.g. Social Sciences and the Humanities as well as Education and Scholarly Communication practices.
 
  * Most importantly, begin with [making your own work available open access](https://cyber.harvard.edu/hoap/How_to_make_your_own_work_open_access), which can almost always be done in some way at [no cost](https://figshare.com/collections/How_to_make_your_work_100_Open_Access_for_free_and_legally_multi-lingual_/3943972).
 
@@ -217,6 +217,8 @@ Many of those at the individual level will still be relevant here too, and are d
 * Initiate debates on meaningful standards and practices at a disciplinary level for publishing data (e.g., the [FAIR principles](https://www.go-fair.org/fair-principles/)).
 
 * Improve engagement between faculty advisory boards, researchers, students and librarians regarding Open Scholarship practices (see Fig. 1 and 2) and principles.
+
+ * Consider e.g. [Hartley et al. 2019](https://doi.org/10.1002/leap.1228)'s notion of expert user communities that might also be expanded to not only encompass OA publishing, but also other Open Science and Scholarship tools, services and corresponding communities in the variety of areas of Open Scholarship.
 
 #### Assessment
 
@@ -1299,6 +1301,8 @@ In order not to re-live the lock-in of research by yet another business plan tha
 * Furner (2014) The ethics of evaluative bibliometrics. [link](http://www.jonathanfurner.info/docs/furnerInPress-a.pdf)
 
 * Hakoum et al. (2017) Characteristics of funding of clinical trials: cross-sectional survey and proposed guidance. DOI: [10.1136/bmjopen-2017-015997](https://doi.org/10.1136/bmjopen-2017-015997)
+
+* Hartley et. al. (2019) Do we need to move from communication technology to user community? A new economic model of the journal as a club. DOI: [10.1002/leap.1228](https://doi.org/10.1002/leap.1228)
 
 * Hitzler and van Harmelen (2010) A reasonable Semantic Web. [link](http://www.semantic-web-journal.net/content/reasonable-semantic-web)
 
