@@ -14,7 +14,7 @@ Over the last two decades, the profits of oligopolistic publishers have repeated
 In order to free funds for the implementation of a scholarly commons and to nip in the bud attempts of yet another lock-in of research by yet another business plan that only pays lip service to the guiding values, principles and practices of Open Science and Scholarship, we propose the following immediate and strategic action points:
 
 **Individual level**
-- Contact libraries and express support for the redirection of subscription funds towards open infrastructures.
+- Contact libraries and express support for the redirection of subscription funds towards open infrastructures/services.
 - Demand support for open and modern text, data and code infrastructures from your superiors and institutions.
 - Contribute towards developing open standards for the scholarly commons.
 
