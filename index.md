@@ -61,7 +61,7 @@ We also note that this strategy can only be based on information which we as a c
 
 ![Figure_1: Rainbow of open science practices](images/image_0.png)
 
-[Kramer, Bianca, & Bosman, Jeroen (2018, January). Rainbow of open science practices. Zenodo](https://doi.org/10.5281/zenodo.1147024). (CC BY) Note that the strategy below is divided into the 6 major categories (search, analysis, writing, publication, outreach, and assessment) where relevant.
+[Kramer, Bianca, & Bosman, Jeroen (2018, January). Rainbow of open science practices. Zenodo](https://doi.org/10.5281/zenodo.1147024). (CC BY) Note that the strategy below is divided into the 6 Major categories (search, analysis, writing, publication, outreach, and assessment) where relevant.
 
 #### Search
 
@@ -237,7 +237,9 @@ Many of those at the individual level will still be relevant here too, and are d
 
 #### Publication
 
-* Map and coordinate when current subscription and big deal licenses will run out across research institutes, and let it happen. Where cancellations or terminations occur, ensure that there is adequate post-subscription access and support using existing sustainable and legal mechanisms (e.g., Inter-Library Loan).
+* Map and coordinate when current subscription and big deal licenses will run out across research institutes, and let it happen. Where cancellations or terminations occur, ensure that there is adequate post-subscription access and support using existing sustainable and legal mechanisms (e.g., Inter-Library Loan). 
+
+  * Make sure that there is sufficient co-ordination between libraries and relevant others beforehand, so that libraries can continue to provide outstanding services without interruption.
 
   * Explore routes for reinvesting money saved for library budgets.
 
