@@ -52,6 +52,45 @@ If you share this strategy online or in person, please feel free to add details 
 * [LIS bibliometrics](mailto:LIS-BIBLIOMETRICS@JISCMAIL.AC.UK) (Jon) - DONE
 * [PSCI COMM](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=psci-com) (Jon) - DONE (4294 recipients)
 * [OpenAccess at Wikimedia](https://lists.wikimedia.org/mailman/listinfo/openaccess)
+* [Network of open science grassroots networks](network-of-open-science-grassroots-networks@cos.io)
+* [Australian_OA_Community](australian_oa_community@mailman.anu.edu.au)
+
+### Facebook groups
+* [Reviewer 2 must be stopped](https://www.facebook.com/groups/reviewer2/)
+* [Psychological Methods Discussion Group](https://www.facebook.com/groups/853552931365745/)
+
+### Podcasts
+* Everything Hertz 
+* Road 2 Open Access 
+* Blackgoat
+* [PhD career stories](https://phdcareerstories.com/) 
+
+### Blogs
+* eLife labs blog
+* Scholarly Communications @ Duke blog, Kevin Smith
+* https://science20.wordpress.com/
+* LSE Impact blog
+* The Scholarly Kitchen
+* The Con
+* Undark
+* the-scientist.com
+* Learned Publishing
+* UKSG
+* LQ
+
+### Petitions
+* [DORA](https://sfdora.org/signers/) \
+* [Budapest Open Access Initiative](https://www.budapestopenaccessinitiative.org/list_signatures) 
+* [Fair Open Access supporters](https://gitlab.com/publishing-reform/discussion/blob/master/Fair%20Open%20Access/List%20of%20supporters%20of%20Fair%20Open%20Access.md)
+
+### Pledge sites
+* http://www.openaccesspledge.com/?page_id=2
+* https://opennessinitiative.org/signatories/
+* http://thecostofknowledge.com/
+* http://www.nodealnoreview.org/
+* http://www.researchwithoutwalls.org/
+* http://www.openaccesspledge.com/
+* https://emckiernan.wordpress.com/pledge/
 
 ### Other channels
 
