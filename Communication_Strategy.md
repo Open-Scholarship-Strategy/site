@@ -65,7 +65,7 @@ If you share this strategy online or in person, please feel free to add details 
 * Blackgoat
 * [PhD career stories](https://phdcareerstories.com/) 
 
-### Blogs
+### Blogs / forums
 * eLife labs blog
 * Scholarly Communications @ Duke blog, Kevin Smith
 * https://science20.wordpress.com/
@@ -77,6 +77,7 @@ If you share this strategy online or in person, please feel free to add details 
 * Learned Publishing
 * UKSG
 * LQ
+* forum.igdore.org
 
 ### Petitions
 * [DORA](https://sfdora.org/signers/) \
