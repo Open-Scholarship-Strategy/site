@@ -58,6 +58,7 @@ If you share this strategy online or in person, please feel free to add details 
 ### Facebook groups
 * [Reviewer 2 must be stopped](https://www.facebook.com/groups/reviewer2/)
 * [Psychological Methods Discussion Group](https://www.facebook.com/groups/853552931365745/)
+* [March for science](https://www.facebook.com/marchforscience/)
 
 ### Podcasts
 * Everything Hertz 
